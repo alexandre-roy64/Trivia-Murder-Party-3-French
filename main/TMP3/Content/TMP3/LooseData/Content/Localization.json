@@ -254,7 +254,7 @@
     {
      "textKey": "TUT_POURING_0",
      "value": [
-      "On vous présentera un bol d’offrande contenant une certaine quantité de sang."
+      "On vous présentera un coupe d'offrande contenant une certaine quantité de sang."
      ]
     },
     {
@@ -266,13 +266,13 @@
     {
      "textKey": "TUT_POURING_2",
      "value": [
-      "Sur votre tasse de mesure, maintenez appuyé cette quantité manquante sur votre appareil."
+      "Sur votre verre doseur, maintenez appuyé cette quantité manquante sur votre appareil."
      ]
     },
     {
      "textKey": "TUT_POURING_3",
      "value": [
-      "La tasse de mesure sera ensuite vidée dans votre bol d’offrande."
+      "Le verre doseur sera ensuite vidée dans votre coupe d'offrande."
      ]
     },
     {
@@ -290,13 +290,13 @@
     {
      "textKey": "TUT_POURING_SAFE_2",
      "value": [
-      "Sur votre tasse de mesure, maintenez appuyé cette quantité manquante sur votre appareil."
+      "Sur votre verre doseur, maintenez appuyé cette quantité manquante sur votre appareil."
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_3",
      "value": [
-      "La tasse de mesure sera ensuite vidée dans votre bol d’offrande."
+      "Le verre doseur sera ensuite vidée dans votre coupe d'offrande."
      ]
     },
     {
@@ -338,13 +338,13 @@
     {
      "textKey": "TUT_PASSWORDS_0",
      "value": [
-      "Chaque joueur en danger créera un mot de passe à partir d’un vrai mot de cinq lettres."
+      "Chaque joueur en danger créera un mot de passe à partir d’un vrai mot anglais de cinq lettres."
      ]
     },
     {
      "textKey": "TUT_PASSWORDS_1",
      "value": [
-      " Les joueurs en sécurité essaieront de pirater votre mot de passe."
+      "Les joueurs en sécurité essaieront de pirater votre mot de passe."
      ]
     },
     {

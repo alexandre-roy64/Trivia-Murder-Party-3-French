@@ -289,7 +289,7 @@
     "versions": [
      {
       "file": "VO/106157/audio/0.ogg",
-      "subtitle": "On ne les appelle pas Zones Rouges pour rien ! "
+      "subtitle": "On ne les appelle pas Zones Rouges pour rien !"
      },
      {
       "file": "VO/106157/audio/1.ogg",
@@ -941,7 +941,7 @@
     "versions": [
      {
       "file": "VO/106181/audio/0.ogg",
-      "subtitle": "Si votre réponse fait partie de la minorité du groupe, vous serez envoyé dans la salle de meurtre."
+      "subtitle": "Si votre réponse fait partie de la minorité du groupe, vous serez envoyé dans la zone de meurtre."
      }
     ]
    },
@@ -2396,7 +2396,7 @@
     "versions": [
      {
       "file": "VO/106818/audio/0.ogg",
-      "subtitle": "Donnez prudemment... "
+      "subtitle": "Donnez prudemment..."
      }
     ]
    },
@@ -2500,7 +2500,7 @@
      },
      {
       "file": "VO/107181/audio/5.ogg",
-      "subtitle": "Nous allons découvrir qui a une visée catastrophique ! "
+      "subtitle": "Nous allons découvrir qui a une visée catastrophique !"
      },
      {
       "file": "VO/107181/audio/6.ogg",
@@ -3088,7 +3088,7 @@
      },
      {
       "file": "VO/108402/audio/3.ogg",
-      "subtitle": " Il est temps de soustraire un peu de fibre de votre corps !"
+      "subtitle": "Il est temps de soustraire un peu de fibre de votre corps !"
      },
      {
       "file": "VO/108402/audio/4.ogg",
@@ -3861,7 +3861,7 @@
     "versions": [
      {
       "file": "VO/110028/audio/0.ogg",
-      "subtitle": "Maintenant, voyons où se trouve ce poison. "
+      "subtitle": "Maintenant, voyons où se trouve ce poison."
      }
     ]
    },
@@ -3873,7 +3873,7 @@
     "versions": [
      {
       "file": "VO/110029/audio/0.ogg",
-      "subtitle": "Oh génial, nous n’en sommes même pas arrivés à la partie où l’on boit du poison ! "
+      "subtitle": "Oh génial, nous n’en sommes même pas arrivés à la partie où l’on boit du poison !"
      },
      {
       "subtitle": "Mais qu’est-ce que vous faites ? Vous venez de boire mon Mountain Dew Code Red ! Je l’avais mis de côté !"
@@ -3942,7 +3942,7 @@
     "versions": [
      {
       "file": "VO/110036/audio/0.ogg",
-      "subtitle": "Ohhh, vous ne voulez pas vous faire des amis ? Eh bien, vous allez être puni(e). "
+      "subtitle": "Ohhh, vous ne voulez pas vous faire des amis ? Eh bien, vous allez être puni(e)."
      }
     ]
    },
@@ -5834,7 +5834,7 @@
      },
      {
       "file": "VO/115029/audio/7.ogg",
-      "subtitle": "Ooh, c’était impitoyable ! "
+      "subtitle": "Ooh, c’était impitoyable !"
      },
      {
       "file": "VO/115029/audio/8.ogg",
@@ -5870,11 +5870,11 @@
     "versions": [
      {
       "file": "VO/115417/audio/0.ogg",
-      "subtitle": "Look at how much blood is in your offering cup."
+      "subtitle": "Regardez la quantité de sang dans votre coupe d’offrande."
      },
      {
       "file": "VO/115417/audio/1.ogg",
-      "subtitle": "Now notice how much blood is in your offering cup."
+      "subtitle": "Observez maintenant la quantité de sang dans votre coupe d’offrande."
      }
     ]
    },
@@ -5886,11 +5886,11 @@
     "versions": [
      {
       "file": "VO/115418/audio/0.ogg",
-      "subtitle": "You have 15 seconds to pour that missing amount in your measuring cup. Ready, set, pour!"
+      "subtitle": "Vous avez 15 secondes pour verser la quantité manquante dans votre verre doseur. À vos marques, prêts, versez !"
      },
      {
       "file": "VO/115418/audio/1.ogg",
-      "subtitle": "Now pour the missing amount in your measuring cup."
+      "subtitle": "Versez maintenant la quantité manquante dans votre verre doseur."
      }
     ]
    },
@@ -5902,19 +5902,19 @@
     "versions": [
      {
       "file": "VO/115419/audio/0.ogg",
-      "subtitle": "Let’s see how the at-risk players did first."
+      "subtitle": "Voyons d’abord comment se sont débrouillés les joueurs en danger."
      },
      {
       "file": "VO/115419/audio/1.ogg",
-      "subtitle": "At-risk players, you’re up first."
+      "subtitle": "Joueurs en danger, à vous de commencer."
      },
      {
       "file": "VO/115419/audio/2.ogg",
-      "subtitle": "Let’s see which at-risk players would make a horrible barista."
+      "subtitle": "Voyons quels joueurs en danger feraient un horrible barista."
      },
      {
       "file": "VO/115419/audio/3.ogg",
-      "subtitle": "Ok, at-risk players, show me what you’re working with!"
+      "subtitle": "Ok, joueurs en danger, montrez-moi ce dont vous êtes capables !"
      }
     ]
    },
@@ -5926,15 +5926,15 @@
     "versions": [
      {
       "file": "VO/115420/audio/0.ogg",
-      "subtitle": "PLEASE tell me a safe player beat that!"
+      "subtitle": "Je vous en prie, dites-moi qu’un joueur en sécurité a fait mieux que ça !"
      },
      {
       "file": "VO/115420/audio/1.ogg",
-      "subtitle": "Ooh, I hope a safe player beat that."
+      "subtitle": "Ooh, j’espère qu’un joueur en sécurité a fait mieux que ça."
      },
      {
       "file": "VO/115420/audio/2.ogg",
-      "subtitle": "Come on, safe players. Surely you did better than that..."
+      "subtitle": "Allez, joueurs en sécurité. Vous avez forcément fait mieux que ça…"
      }
     ]
    },
@@ -5946,23 +5946,23 @@
     "versions": [
      {
       "file": "VO/115421/audio/0.ogg",
-      "subtitle": "Let’s see how everyone did"
+      "subtitle": "Voyons comment tout le monde s’en est sorti."
      },
      {
       "file": "VO/115421/audio/1.ogg",
-      "subtitle": "Now quick, pour that blood before it congeals!"
+      "subtitle": "Vite, versez ce sang avant qu’il ne se coagule !"
      },
      {
       "file": "VO/115421/audio/2.ogg",
-      "subtitle": "Let’s see who poured their little hearts out! Literally."
+      "subtitle": "Voyons qui a versé son cœur à fond ! Littéralement."
      },
      {
       "file": "VO/115421/audio/3.ogg",
-      "subtitle": "I know I say this a lot but let’s pour some blood!"
+      "subtitle": "Je sais que je le dis souvent, mais versons donc un peu de sang !"
      },
      {
       "file": "VO/115421/audio/4.ogg",
-      "subtitle": "Now let’s fill those glasses!"
+      "subtitle": "Maintenant, remplissons ces verres !"
      }
     ]
    },
@@ -5974,19 +5974,19 @@
     "versions": [
      {
       "file": "VO/115422/audio/0.ogg",
-      "subtitle": "And that’s how you do it, folks! Nicely done."
+      "subtitle": "Et voilà comment on fait, les gens ! Très bien joué."
      },
      {
       "file": "VO/115422/audio/1.ogg",
-      "subtitle": "That was clutch!"
+      "subtitle": "C’était génial !"
      },
      {
       "file": "VO/115422/audio/2.ogg",
-      "subtitle": "Great job! You’re a natural at filling up glasses with blood!"
+      "subtitle": "Excellent travail ! Vous êtes un vrai expert pour remplir des verres de sang !"
      },
      {
       "file": "VO/115422/audio/3.ogg",
-      "subtitle": "Now that’s what I call A POSITIVE blood pour!"
+      "subtitle": "Ça, c’est ce que j’appelle un versement de sang réussi !"
      }
     ]
    },
@@ -5998,15 +5998,15 @@
     "versions": [
      {
       "file": "VO/115423/audio/0.ogg",
-      "subtitle": "C’mon, you had one job!"
+      "subtitle": "Allez, vous aviez une seule mission !"
      },
      {
       "file": "VO/115423/audio/1.ogg",
-      "subtitle": "Way to choke!"
+      "subtitle": "Quelle performance désastreuse !"
      },
      {
       "file": "VO/115423/audio/2.ogg",
-      "subtitle": "I’m not mad, I’m just disappointed. I’m also really mad!"
+      "subtitle": "Je ne suis pas en colère, je suis juste déçu. Et, je suis aussi très en colère."
      }
     ]
    },
@@ -6018,23 +6018,23 @@
     "versions": [
      {
       "file": "VO/115424/audio/0.ogg",
-      "subtitle": "The honor of least amount goes to... YOU!"
+      "subtitle": "L’honneur de la plus faible quantité revient à… VOUS !"
      },
      {
       "file": "VO/115424/audio/1.ogg",
-      "subtitle": "Congrats, the biggest underachiever was YOU!"
+      "subtitle": "Félicitations, le joueur le plus en difficulté était VOUS !"
      },
      {
       "file": "VO/115424/audio/2.ogg",
-      "subtitle": "And the player with the least ambition goes to YOU!"
+      "subtitle": " Et le titre de joueur le moins ambitieux revient à VOUS !"
      },
      {
       "file": "VO/115424/audio/3.ogg",
-      "subtitle": "My least favorite player who also poured the least amount was YOU!"
+      "subtitle": "Mon joueur le moins apprécié, qui a aussi versé la plus faible quantité était VOUS !"
      },
      {
       "file": "VO/115424/audio/4.ogg",
-      "subtitle": "The player who pathetically poured a paltry amount was YOU!"
+      "subtitle": "Le joueur qui a pathétiquement versé une quantité dérisoire était VOUS !"
      }
     ]
    },
@@ -6046,19 +6046,19 @@
     "versions": [
      {
       "file": "VO/115490/audio/0.ogg",
-      "subtitle": "How do you think most players will answer this question..."
+      "subtitle": "À votre avis, comment la plupart des joueurs répondront à cette question…"
      },
      {
       "file": "VO/115490/audio/1.ogg",
-      "subtitle": "Ok, it’s time to think like the sheep do..."
+      "subtitle": "Bon, il est temps de réfléchir comme des moutons…"
      },
      {
       "file": "VO/115490/audio/2.ogg",
-      "subtitle": "Choose the most popular answer to this question..."
+      "subtitle": "Choisissez la réponse la plus populaire à cette question…"
      },
      {
       "file": "VO/115490/audio/3.ogg",
-      "subtitle": "I would love to see a unique answer to this question."
+      "subtitle": "J’adorerais voir une réponse unique à cette question."
      }
     ]
    },
@@ -6070,23 +6070,23 @@
     "versions": [
      {
       "file": "VO/115491/audio/0.ogg",
-      "subtitle": "Let’s see if you can read the room on this one..."
+      "subtitle": "Voyons si vous savez lire la situation pour cette question…"
      },
      {
       "file": "VO/115491/audio/1.ogg",
-      "subtitle": "Oh, c’mon, this is an easy one..."
+      "subtitle": "Oh sérieux, celle là, elle est facile…"
      },
      {
       "file": "VO/115491/audio/2.ogg",
-      "subtitle": "Ready, set, opinionate!"
+      "subtitle": "À vos marques, prêts, donnez votre avis !"
      },
      {
       "file": "VO/115491/audio/3.ogg",
-      "subtitle": "Time to overanalyze another question."
+      "subtitle": "Il est temps de suranalyser une nouvelle question."
      },
      {
       "file": "VO/115491/audio/4.ogg",
-      "subtitle": "Take a deep breath and just listen to your gut... unless your gut is wrong in which case, ignore your gut!"
+      "subtitle": "Prenez une grande inspiration et écoutez simplement votre instinct… sauf si votre instinct a tort, auquel cas, ignorez-le !"
      }
     ]
    },
@@ -6098,31 +6098,31 @@
     "versions": [
      {
       "file": "VO/115492/audio/0.ogg",
-      "subtitle": "Now what does the group think?"
+      "subtitle": "Qu'en pense le groupe, maintenant ?"
      },
      {
       "file": "VO/115492/audio/1.ogg",
-      "subtitle": "Ok, so I’m like dying to know. How did y’all answer?"
+      "subtitle": "Bon, je meurs d’envie de savoir. Comment avez-vous tous répondu ?"
      },
      {
       "file": "VO/115492/audio/2.ogg",
-      "subtitle": "Fingers crossed for a majority..."
+      "subtitle": "Je croise les doigts pour une majorité…"
      },
      {
       "file": "VO/115492/audio/3.ogg",
-      "subtitle": "Survey says..."
+      "subtitle": "L’enquête a dit…"
      },
      {
       "file": "VO/115492/audio/4.ogg",
-      "subtitle": "To quote my good pal Maury Povich: Let’s see the results!"
+      "subtitle": "Pour citer mon bon vieil ami Maury Povich : Place aux résultats !"
      },
      {
       "file": "VO/115492/audio/5.ogg",
-      "subtitle": "What did most people think?"
+      "subtitle": "Qu'en pensent la plupart des gens ?"
      },
      {
       "file": "VO/115492/audio/6.ogg",
-      "subtitle": "And the most popular answer is..."
+      "subtitle": "Et la réponse la plus populaire est…"
      }
     ]
    },
@@ -6134,23 +6134,23 @@
     "versions": [
      {
       "file": "VO/115493/audio/0.ogg",
-      "subtitle": "Oopsie, looks like you answered incorrectly!"
+      "subtitle": "Oups, il semble que vous ayez répondu incorrectement !"
      },
      {
       "file": "VO/115493/audio/1.ogg",
-      "subtitle": "There’s no right answer... but you still got it wrong!"
+      "subtitle": "Il n’y a pas de bonne réponse… mais vous vous êtes trompé quand même !"
      },
      {
       "file": "VO/115493/audio/2.ogg",
-      "subtitle": "A hot take puts you on the hot seat!"
+      "subtitle": "Un avis à chaud vous place sur le siège à chaud !"
      },
      {
       "file": "VO/115493/audio/3.ogg",
-      "subtitle": "The tribe has spoken. Oh that’s good. I should trademark that."
+      "subtitle": "La tribu a parlé. Oh, c’est bien. Je devrais en déposer la marque."
      },
      {
       "file": "VO/115493/audio/4.ogg",
-      "subtitle": "The angry mob wins once again."
+      "subtitle": "La foule en colère gagne une fois de plus."
      }
     ]
    },
@@ -6162,23 +6162,23 @@
     "versions": [
      {
       "file": "VO/115494/audio/0.ogg",
-      "subtitle": "A TIE! Ah screw it, you’re all going to the Killing Floor!"
+      "subtitle": "ÉGALITÉ ! Bon, tant pis, vous allez tous aller dans la zone de meurtre !"
      },
      {
       "file": "VO/115494/audio/1.ogg",
-      "subtitle": "Just like the 2000 presidential election, a TIE means EVERYONE loses!"
+      "subtitle": "Tout comme l’élection présidentielle américaine de 2000, une ÉGALITÉ signifie que TOUT LE MONDE perd !"
      },
      {
       "file": "VO/115494/audio/2.ogg",
-      "subtitle": "Remember: If you TIE, you can DIE!"
+      "subtitle": "Souvenez-vous : si vous êtes à ÉGALITÉ, vous pouvez MOURIR !"
      },
      {
       "file": "VO/115494/audio/3.ogg",
-      "subtitle": "A TIE? Let’s settle this on the Killing Floor!"
+      "subtitle": "Une ÉGALITÉ ? Réglons ça dans la zone de meurtre !"
      },
      {
       "file": "VO/115494/audio/4.ogg",
-      "subtitle": "What do you think we’re playing, Split the Room from The Jackbox Party Pack 5?! I don’t think so, honey!"
+      "subtitle": "Mais vous croyez qu'on joue à quoi ? Split the Room du Jackbox Party Pack 5 ?! Je ne pense pas, mes enfants !"
      }
     ]
    },
@@ -6190,7 +6190,7 @@
     "versions": [
      {
       "file": "VO/115495/audio/0.ogg",
-      "subtitle": "Each safe player has a bomb shape that they’ll secretly place on a grid of trunks. Each at risk player will choose a trunk to hide in. If your trunk gets hit, you die!"
+      "subtitle": "Chaque joueur en sécurité a une forme de bombe qu’il placera secrètement sur une grille de mallettes. Chaque joueur en danger choisira une mallette dans laquelle s’y cacher. Si votre mallette se fait toucher, vous mourez !"
      }
     ]
    },
@@ -6202,11 +6202,11 @@
     "versions": [
      {
       "file": "VO/115501/audio/0.ogg",
-      "subtitle": "Now let’s see how far off you were."
+      "subtitle": "Maintenant, voyons à quel point vous êtes éloignés."
      },
      {
       "file": "VO/115501/audio/1.ogg",
-      "subtitle": "Now I’ll just use my TI-83 to calculate the difference..."
+      "subtitle": "Maintenant, je vais juste utiliser ma TI-83 pour calculer la différence…"
      }
     ]
    },
@@ -6218,11 +6218,11 @@
     "versions": [
      {
       "file": "VO/115502/audio/0.ogg",
-      "subtitle": "You gotta be kidding me!"
+      "subtitle": "Mais vous vous foutez de moi !"
      },
      {
       "file": "VO/115502/audio/1.ogg",
-      "subtitle": "You ALL tied?! I gotta lie down.."
+      "subtitle": "Vous êtes TOUS à égalité ?! Je dois m’allonger.."
      }
     ]
    },
@@ -6234,19 +6234,19 @@
     "versions": [
      {
       "file": "VO/115503/audio/0.ogg",
-      "subtitle": "Tsk tsk. No answer is a wrong answer!"
+      "subtitle": "Tut-tut. Ne pas répondre est une mauvaise réponse !"
      },
      {
       "file": "VO/115503/audio/1.ogg",
-      "subtitle": "You didn’t answer?  What do you think this is, the census?"
+      "subtitle": "Vous n’avez pas répondu ? Qu’est-ce que c’est que ça, le recensement ?"
      },
      {
       "file": "VO/115503/audio/2.ogg",
-      "subtitle": "No answer, huh?That’s grounds for punishment."
+      "subtitle": "Pas de réponse, hein ? C’est une bonne raison pour une punition."
      },
      {
       "file": "VO/115503/audio/3.ogg",
-      "subtitle": "Well I hope your bathroom break was worth it. Was it? Was your poop and/or pee worth it to miss an answer?"
+      "subtitle": "J’espère que votre pause toilettes en valait la peine. Alors ? Est-ce que ça en valait la peine pour rater une réponse ?"
      }
     ]
    },
@@ -6258,11 +6258,11 @@
     "versions": [
      {
       "file": "VO/115504/audio/0.ogg",
-      "subtitle": "Here are the bomb shapes the safe players will be working with."
+      "subtitle": "Voici les formes de bombe que les joueurs en sécurité vont utiliser."
      },
      {
       "file": "VO/115504/audio/1.ogg",
-      "subtitle": "Now check out the bomb shapes on the safe players’ podiums."
+      "subtitle": "Maintenant, regardez les formes de bombe sur les podiums des joueurs en sécurité."
      }
     ]
    },
@@ -6274,11 +6274,11 @@
     "versions": [
      {
       "file": "VO/115505/audio/0.ogg",
-      "subtitle": "Oh it’s a bloodbath!"
+      "subtitle": "Oh, c’est un bain de sang !"
      },
      {
       "file": "VO/115505/audio/1.ogg",
-      "subtitle": "No one was spared! I love it."
+      "subtitle": "Personne n’a été épargné ! J’adore ça."
      }
     ]
    },
@@ -6290,11 +6290,11 @@
     "versions": [
      {
       "file": "VO/115506/audio/0.ogg",
-      "subtitle": "Well at least it can’t get any worse, right? Wrong!"
+      "subtitle": "Bon, au moins ça ne peut pas empirer, n’est-ce pas ? Faux !"
      },
      {
       "file": "VO/115506/audio/1.ogg",
-      "subtitle": "That was a firecracker compared to this!"
+      "subtitle": "C’était un pétard comparé à ça !"
      }
     ]
    },
@@ -6305,13 +6305,13 @@
    "audio": {
     "versions": [
      {
-      "subtitle": "That means you get punished!"
+      "subtitle": "Cela signifie que vous êtes puni(e) !"
      },
      {
-      "subtitle": "It’s punishment time!"
+      "subtitle": "C’est l’heure de la punition !"
      },
      {
-      "subtitle": "It’s time to count... your sins!"
+      "subtitle": "Il est temps de compter… vos péchés !"
      }
     ]
    },
@@ -6323,19 +6323,19 @@
     "versions": [
      {
       "file": "VO/115508/audio/0.ogg",
-      "subtitle": "Here’s what the at-risk players guessed."
+      "subtitle": "Voici ce qu’ont deviné les joueurs en danger."
      },
      {
       "file": "VO/115508/audio/1.ogg",
-      "subtitle": "The at-risk players guessed this."
+      "subtitle": "Les joueurs en danger ont deviné ceci."
      },
      {
       "file": "VO/115508/audio/2.ogg",
-      "subtitle": "Here’s what the folks on the chopping block guessed."
+      "subtitle": "Voici ce qu’ont deviné les gens sur la sellette."
      },
      {
       "file": "VO/115508/audio/3.ogg",
-      "subtitle": "At-risk players: what did you guess?"
+      "subtitle": "Joueurs en danger : qu’avez-vous deviné ?"
      }
     ]
    },
@@ -6347,23 +6347,23 @@
     "versions": [
      {
       "file": "VO/115516/audio/0.ogg",
-      "subtitle": "It’s time to enter your password."
+      "subtitle": "Il est temps d’entrer votre mot de passe. (En ANGLAIS)"
      },
      {
       "file": "VO/115516/audio/1.ogg",
-      "subtitle": "Enter a real five letter word, like FARTS or GASSY or BUTTS."
+      "subtitle": "Entrez un vrai mot ANGLAIS de cinq lettres, comme 'FARTS' (pets), 'GASSY' (gazeux) ou 'BUTTS' (fesses)."
      },
      {
       "file": "VO/115516/audio/2.ogg",
-      "subtitle": "No pressure, just think of the best five letter word you can right now or you’ll die."
+      "subtitle": "Pas de pression, mais pensez au meilleur mot ANGLAIS de cinq lettres possible… ou vous mourrez."
      },
      {
       "file": "VO/115516/audio/3.ogg",
-      "subtitle": "We have too many passwords in our lives - so here, create another one!"
+      "subtitle": "Nous avons déjà trop de mots de passe dans notre vie… alors ici, créez-en un autre ! (En ANGLAIS)"
      },
      {
       "file": "VO/115516/audio/4.ogg",
-      "subtitle": "I know this is a big ask of you, but think of a five letter word."
+      "subtitle": "Je sais que c’est beaucoup vous demander, mais pensez à un mot ANGLAIS de cinq lettres."
      }
     ]
    },
@@ -6375,15 +6375,15 @@
     "versions": [
      {
       "file": "VO/115517/audio/0.ogg",
-      "subtitle": "Now everyone else: try to crack it."
+      "subtitle": "Maintenant, tous les autres : essayez de le décoder."
      },
      {
       "file": "VO/115517/audio/1.ogg",
-      "subtitle": "Ok, safe players, hack away!"
+      "subtitle": "Bon, joueurs en sécurité, à vous de pirater !"
      },
      {
       "file": "VO/115517/audio/2.ogg",
-      "subtitle": "Now everone else - pretend you’re a hacker in a 90s movie."
+      "subtitle": "Maintenant, tous les autres - faites semblant d’être un hackeur dans un film des années 90."
      }
     ]
    },
