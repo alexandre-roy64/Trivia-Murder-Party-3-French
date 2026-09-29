@@ -6599,7 +6599,7 @@
     "versions": [
      {
       "file": "VO/115527/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky. Guess how many land inside the vessel. If you’re the furthest off, I will punish you!"
+      "subtitle": "Un tas de globes oculaires va tomber du ciel. Devinez combien en atterriront dans le récipient. Si vous êtes le ou la plus éloigné(e), je vous punirai !"
      }
     ]
    },
@@ -6611,7 +6611,7 @@
     "versions": [
      {
       "file": "VO/115528/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky. Guess how many land inside the vessel. If a safe player guesses better than you, you die!"
+      "subtitle": "Un tas de globes oculaires va tomber du ciel. Devinez combien en atterriront dans le récipient. Si un joueur en sécurité devine mieux que vous, vous mourez !"
      }
     ]
    },
@@ -6623,11 +6623,11 @@
     "versions": [
      {
       "file": "VO/115529/audio/0.ogg",
-      "subtitle": "I’m going to be circling you with a chainsaw. I’ll show you a picture from my perspective. Then I’ll stab my chainsaw forward there. If my chainsaw touches you, you lose!"
+      "subtitle": "Je vais vous encercler d'une tronçonneuse. Je vous montrerai une image de mon point de vue. Je frapperai avec ma tronçonneuse à cet endroit. Si ma tronçonneuse vous touche, vous perdez."
      },
      {
       "file": "VO/115529/audio/1.ogg",
-      "subtitle": "I’m going to be circling you with a chainsaw. I’ll show you a picture of where I’ll stab. Use the graffiti to figure out where it is, and get out of the way. If my chainsaw touches you, you lose!"
+      "subtitle": "Je vais vous encercler d'une tronçonneuse. Je vous montrerai une image de l’endroit où je vais frapper. Utilisez les graffitis pour déterminer où je vais frapper pour vous en éloigner. Si ma tronçonneuse vous touche, vous perdez."
      }
     ]
    },
@@ -6639,7 +6639,7 @@
     "versions": [
      {
       "file": "VO/115530/audio/0.ogg",
-      "subtitle": "Each at-risk player will create a password using a REAL five letter word. Safe players will try to hack your password. If they’re successful, you die!"
+      "subtitle": "Chaque joueur en danger créera un mot de passe à partir d’un VRAI mot ANGLAIS de cinq lettres. Les joueurs en sécurité essaieront de pirater votre mot de passe. S’ils réussissent, vous mourez !"
      }
     ]
    },
@@ -6651,7 +6651,7 @@
     "versions": [
      {
       "file": "VO/115531/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky. Guess how many land inside the vessel. If you’re the furthest off, I will punish you!"
+      "subtitle": "Un tas de globes oculaires va tomber du ciel. Devinez combien en atterriront dans le récipient. Si vous êtes le ou la plus éloigné(e), je vous punirai !"
      }
     ]
    },
@@ -6663,7 +6663,7 @@
     "versions": [
      {
       "file": "VO/115532/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky. Guess how many land inside the vessel. The two worst guesses get punished!"
+      "subtitle": "Un tas de globes oculaires va tomber du ciel. Devinez combien en atterriront dans le récipient. Les deux pires réponses seront punies !"
      }
     ]
    },
@@ -6675,7 +6675,7 @@
     "versions": [
      {
       "file": "VO/115533/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky. Guess how many land inside the vessel. The three worst guesses get punished!"
+      "subtitle": "Un tas de globes oculaires va tomber du ciel. Devinez combien en atterriront dans le récipient. Les trois pires réponses seront punies !"
      }
     ]
    },
@@ -6687,11 +6687,11 @@
     "versions": [
      {
       "file": "VO/115534/audio/0.ogg",
-      "subtitle": "Since you didn’t submit a valid password in time, I’ll going to enter one for you BUT I’m gonna make it easy... cause I’m a little stinker!"
+      "subtitle": "Comme vous n’avez pas soumis de mot de passe valide à temps, je vais en entrer un pour vous MAIS je vais le rendre facile… parce que je suis un petit salaud !"
      },
      {
       "file": "VO/115534/audio/1.ogg",
-      "subtitle": "You didn’t submit a valid password in time so I’m going to enter an easy one for you."
+      "subtitle": "Vous n’avez pas soumis de mot de passe valide à temps, alors je vais en entrer un facile pour vous."
      }
     ]
    },
@@ -6703,19 +6703,19 @@
     "versions": [
      {
       "file": "VO/115535/audio/0.ogg",
-      "subtitle": "Now brace yourself."
+      "subtitle": "Tenez-vous prêts."
      },
      {
       "file": "VO/115535/audio/1.ogg",
-      "subtitle": "You there - this is gonna hurt."
+      "subtitle": "Vous, là — ça ne va pas être agréable."
      },
      {
       "file": "VO/115535/audio/2.ogg",
-      "subtitle": "Now it’s time to prove that the pen is NOT mightier than the sword!"
+      "subtitle": "Maintenant, il est temps de prouver que la plume n’est PAS plus puissante que l’épée !"
      },
      {
       "file": "VO/115535/audio/3.ogg",
-      "subtitle": "Since you got hacked I’m gonna hack you!"
+      "subtitle": "Puisque vous vous êtes fait pirater, je vais vous pirater !"
      }
     ]
    },
@@ -6727,10 +6727,10 @@
     "versions": [
      {
       "file": "VO/115580/audio/0.ogg",
-      "subtitle": "If you died, fear not. Death is not the end."
+      "subtitle": "Si vous êtes mort, ne craignez rien. La mort n’est pas la fin."
      },
      {
-      "subtitle": "Death is NOT an escape!"
+      "subtitle": "La mort n’est PAS une échappatoire !"
      }
     ]
    },
@@ -6742,10 +6742,10 @@
     "versions": [
      {
       "file": "VO/115581/audio/0.ogg",
-      "subtitle": "Because I’m remaking you!"
+      "subtitle": "Parce que je vous recrée !"
      },
      {
-      "subtitle": "I’m remaking you so I can keep killing you!"
+      "subtitle": "Je vous recrée pour pouvoir continuer à vous tuer !"
      }
     ]
    },
@@ -6757,10 +6757,10 @@
     "versions": [
      {
       "file": "VO/115582/audio/0.ogg",
-      "subtitle": "But it’s going to cost you some precious thread"
+      "subtitle": "Mais cela va vous coûter quelques fils précieux."
      },
      {
-      "subtitle": "And it’s going to cost you thread each time."
+      "subtitle": "Et cela vous coûtera des fils à chaque fois."
      }
     ]
    },
@@ -6772,23 +6772,23 @@
     "versions": [
      {
       "file": "VO/115583/audio/0.ogg",
-      "subtitle": "You know the drill."
+      "subtitle": "Vous savez comment ça se passe."
      },
      {
       "file": "VO/115583/audio/1.ogg",
-      "subtitle": "It’s resurrection time!"
+      "subtitle": "C’est l’heure de la résurrection !"
      },
      {
       "file": "VO/115583/audio/2.ogg",
-      "subtitle": "It’s time to raise the dead."
+      "subtitle": "Il est temps de relever les morts."
      },
      {
       "file": "VO/115583/audio/3.ogg",
-      "subtitle": "Let’s mourn those that sucked at that last game."
+      "subtitle": "Pleurons ceux qui ont échoué au dernier jeu."
      },
      {
       "file": "VO/115583/audio/4.ogg",
-      "subtitle": "Not gonna lie, the murdering part is my favorite."
+      "subtitle": "Je vais être honnête, la partie où je vous assassine est ma préférée."
      }
     ]
    },
@@ -6800,23 +6800,23 @@
     "versions": [
      {
       "file": "VO/115584/audio/0.ogg",
-      "subtitle": "There! You’re beautiful again!"
+      "subtitle": "Voilà ! Vous êtes de nouveau magnifique !"
      },
      {
       "file": "VO/115584/audio/1.ogg",
-      "subtitle": "Let me do my thang."
+      "subtitle": "Laissez-moi faire mon truc."
      },
      {
       "file": "VO/115584/audio/2.ogg",
-      "subtitle": "Viola!"
+      "subtitle": "Et voilà !"
      },
      {
       "file": "VO/115584/audio/3.ogg",
-      "subtitle": "Time for a fabulous makeover!"
+      "subtitle": "C'est l’heure d’une transformation fabuleuse !"
      },
      {
       "file": "VO/115584/audio/4.ogg",
-      "subtitle": "I can fix you."
+      "subtitle": "Je peux vous réparer."
      }
     ]
    },
@@ -6828,35 +6828,35 @@
     "versions": [
      {
       "file": "VO/115585/audio/0.ogg",
-      "subtitle": "Let’s see how that affects things."
+      "subtitle": "Voyons comment cela influence les choses."
      },
      {
       "file": "VO/115585/audio/1.ogg",
-      "subtitle": "Now let’s adjust that."
+      "subtitle": "Maintenant, ajustons ça."
      },
      {
       "file": "VO/115585/audio/2.ogg",
-      "subtitle": "Here are the scores..."
+      "subtitle": "Voici les scores…"
      },
      {
       "file": "VO/115585/audio/3.ogg",
-      "subtitle": "Now to update the scores..."
+      "subtitle": "Maintenant, mettons les scores à jour…"
      },
      {
       "file": "VO/115585/audio/4.ogg",
-      "subtitle": "Score check..."
+      "subtitle": "Vérification des scores…"
      },
      {
       "file": "VO/115585/audio/5.ogg",
-      "subtitle": "Here’s how that round fared for everyone..."
+      "subtitle": "Voyons qui s'en est sorti cette manche..."
      },
      {
       "file": "VO/115585/audio/6.ogg",
-      "subtitle": "Let’s see how that changed the pecking order..."
+      "subtitle": "Voyons comment cela a modifié la hiérarchie…"
      },
      {
       "file": "VO/115585/audio/7.ogg",
-      "subtitle": "Who’s getting closer to the fire?"
+      "subtitle": "Qui se rapproche du feu ?"
      }
     ]
    },
@@ -6868,19 +6868,19 @@
     "versions": [
      {
       "file": "VO/115586/audio/0.ogg",
-      "subtitle": "Here are the scores. No, I’m not mad that nobody died. In fact I think that’s great."
+      "subtitle": "Voici les scores. Non, je ne suis pas fâché que personne ne soit mort. En fait, je trouve ça génial."
      },
      {
       "file": "VO/115586/audio/1.ogg",
-      "subtitle": "Blood and gore?! More like blood and scores!"
+      "subtitle": "Du sang et des tripes ?! Non, plutôt du sang et des scores !"
      },
      {
       "file": "VO/115586/audio/2.ogg",
-      "subtitle": "Remember: these scores directly represents your value as a human being."
+      "subtitle": "Souvenez-vous : ces scores représentent directement votre valeur en tant qu’être humain."
      },
      {
       "file": "VO/115586/audio/3.ogg",
-      "subtitle": "It’s time to separate the meat from the calf."
+      "subtitle": "Il est temps de séparer la viande du veau."
      }
     ]
    },
@@ -6904,11 +6904,11 @@
     "versions": [
      {
       "file": "VO/115588/audio/0.ogg",
-      "subtitle": "What? Did you think you’d turn into ghosts? That’d be silly."
+      "subtitle": "Quoi ? Vous pensiez devenir un fantôme ? Ce serait idiot."
      },
      {
       "file": "VO/115588/audio/1.ogg",
-      "subtitle": "Look, I’m not turning you into ghosts because I wanna be an inclusive serial killer!"
+      "subtitle": "Écoutez, je ne vous transforme pas en fantôme parce que je veux être un tueur en série inclusif !"
      }
     ]
    },
