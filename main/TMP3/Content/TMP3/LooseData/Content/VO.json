@@ -4174,7 +4174,7 @@
      },
      {
       "file": "VO/111617/audio/37.ogg",
-      "subtitle": "N’osez même pas glisser ma main dans un verre d’eau chaude !"
+      "subtitle": "N’osez même pas glisser ma main dans un verre d’eau tiède !"
      },
      {
       "file": "VO/111617/audio/38.ogg",
@@ -6920,15 +6920,15 @@
     "versions": [
      {
       "file": "VO/115599/audio/0.ogg",
-      "subtitle": "Party foul! All of you!"
+      "subtitle": "Jackpot !"
      },
      {
       "file": "VO/115599/audio/1.ogg",
-      "subtitle": "EVERYONE overflowed! How delicious!"
+      "subtitle": "TOUT LE MONDE a débordé ! Quelle délicieuse nouvelle !"
      },
      {
       "file": "VO/115599/audio/2.ogg",
-      "subtitle": "Oh heck yes! This means I get to punish everyone!"
+      "subtitle": "Oh que oui ! Ça signifie que je peux punir tout le monde !"
      }
     ]
    },
@@ -6940,11 +6940,11 @@
     "versions": [
      {
       "file": "VO/115600/audio/0.ogg",
-      "subtitle": "And the cheese stood alone."
+      "subtitle": "Et le fromage resta seul."
      },
      {
       "file": "VO/115600/audio/1.ogg",
-      "subtitle": "Technically you had the least amount of blood but I’ll let you live. Ugh."
+      "subtitle": "Techniquement, vous aviez le moins de sang, mais je vous laisse en vie. Argh."
      }
     ]
    },
@@ -6956,7 +6956,7 @@
     "versions": [
      {
       "file": "VO/115622/audio/0.ogg",
-      "subtitle": "I’m replacing traditional trivia with opinion-based questions. If you answer in your group’s minority, you get sent to the Killing Floor."
+      "subtitle": "Je remplace les questions de culture générale par des questions basées sur l’opinion. Si votre réponse fait partie de la minorité du groupe, vous serez envoyé dans la zone de meurtre."
      }
     ]
    },
@@ -6968,43 +6968,43 @@
     "versions": [
      {
       "file": "VO/115699/audio/0.ogg",
-      "subtitle": "Here’s my go-to icebreaker question..."
+      "subtitle": "Voici ma question brise-glace préférée…"
      },
      {
       "file": "VO/115699/audio/1.ogg",
-      "subtitle": "It’s time for a little culture..."
+      "subtitle": "C'est l'heure d'un peu de culture..."
      },
      {
       "file": "VO/115699/audio/2.ogg",
-      "subtitle": "Here’s something you should’ve learned in the first grade..."
+      "subtitle": "Voici une question que vous auriez dû apprendre au CP…"
      },
      {
       "file": "VO/115699/audio/3.ogg",
-      "subtitle": "Let’s see how you do with this one..."
+      "subtitle": "Voyons comment vous allez vous en sortir avec celle-ci…."
      },
      {
       "file": "VO/115699/audio/4.ogg",
-      "subtitle": "Ha, good luck with this one..."
+      "subtitle": "Ha, bonne chance avec celle-là…"
      },
      {
       "file": "VO/115699/audio/5.ogg",
-      "subtitle": "Let’s put this one on for size..."
+      "subtitle": "Testons celle-ci…"
      },
      {
       "file": "VO/115699/audio/6.ogg",
-      "subtitle": "Here’s a question we’re all thinking..."
+      "subtitle": "Voici une question que tout le monde se pose…"
      },
      {
       "file": "VO/115699/audio/7.ogg",
-      "subtitle": "Oh I’m nasty for this one..."
+      "subtitle": "Oh oh, celle-ci elle est méchante…"
      },
      {
       "file": "VO/115699/audio/8.ogg",
-      "subtitle": "Here’s a question I got in my last job interview..."
+      "subtitle": "Voici une question que j’ai eue lors de mon dernier entretien d’embauche…"
      },
      {
       "file": "VO/115699/audio/9.ogg",
-      "subtitle": "This should trip you up..."
+      "subtitle": "Celle-ci devrait vous faire trébucher…"
      }
     ]
    },
@@ -7016,7 +7016,7 @@
     "versions": [
      {
       "file": "VO/115700/audio/0.ogg",
-      "subtitle": "Let’s check the standings for the final time..."
+      "subtitle": "Vérifions une dernière fois le classement…"
      }
     ]
    },
@@ -7028,7 +7028,7 @@
     "versions": [
      {
       "file": "VO/115701/audio/0.ogg",
-      "subtitle": "Dawn is fast approaching. You know what that means..."
+      "subtitle": "L’aube approche à grands pas. Vous savez ce que ça veut dire…"
      }
     ]
    },
@@ -7040,11 +7040,11 @@
     "versions": [
      {
       "file": "VO/115702/audio/0.ogg",
-      "subtitle": "Welcome to the Killing Floor!"
+      "subtitle": "Bienvenue dans la zone de meurtre !"
      },
      {
       "file": "VO/115702/audio/1.ogg",
-      "subtitle": "Welcome to your Killing Floor!"
+      "subtitle": "Bienvenue dans votre zone de meurtre !"
      }
     ]
    },
@@ -7056,7 +7056,7 @@
     "versions": [
      {
       "file": "VO/115798/audio/0.ogg",
-      "subtitle": "Here’s the deal. I made you all with the same amount of thread."
+      "subtitle": "Voici le marché : je vous ai tous créés avec la même longueur de fil."
      }
     ]
    },
@@ -7068,7 +7068,7 @@
     "versions": [
      {
       "file": "VO/115799/audio/0.ogg",
-      "subtitle": "When you do well in minigames, I’ll reward you with some thread."
+      "subtitle": "Si vous réussissez bien les mini-jeux, je vous récompenserai avec un peu de fil."
      }
     ]
    },
@@ -7080,11 +7080,11 @@
     "versions": [
      {
       "file": "VO/115800/audio/0.ogg",
-      "subtitle": "And when you do poorly, I’ll take some of your thread away."
+      "subtitle": "Et si vous échouez, je vous retirerai un peu de fil."
      },
      {
       "file": "VO/115800/audio/1.ogg",
-      "subtitle": "And when you do poorly, I’ll remove some of your thread."
+      "subtitle": "Et si vous échouez, je retirerai une partie de votre fil."
      }
     ]
    },
@@ -7096,7 +7096,7 @@
     "versions": [
      {
       "file": "VO/115801/audio/0.ogg",
-      "subtitle": "The players with the most thread after Round 5 will have an advantage in the Final Round."
+      "subtitle": "Les joueurs ayant le plus de fil après la 5ème manche auront un avantage lors de la manche finale."
      }
     ]
    },
@@ -7108,39 +7108,39 @@
     "versions": [
      {
       "file": "VO/115802/audio/0.ogg",
-      "subtitle": "Let the games begin."
+      "subtitle": "Que les jeux commencent."
      },
      {
       "file": "VO/115802/audio/1.ogg",
-      "subtitle": "Let’s begin."
+      "subtitle": "C'est parti."
      },
      {
       "file": "VO/115802/audio/2.ogg",
-      "subtitle": "It’s doll stabbin’ time."
+      "subtitle": "C'est l'heure de poignarder les poupées."
      },
      {
       "file": "VO/115802/audio/3.ogg",
-      "subtitle": "The killing hour begins!"
+      "subtitle": "L'heure du massacre a sonné !"
      },
      {
       "file": "VO/115802/audio/4.ogg",
-      "subtitle": "Our journey begins."
+      "subtitle": "Notre voyage commence."
      },
      {
       "file": "VO/115802/audio/5.ogg",
-      "subtitle": "The battle to see who survives the night starts now..."
+      "subtitle": "La bataille pour déterminer qui survivra cette nuit débute maintenant..."
      },
      {
       "file": "VO/115802/audio/6.ogg",
-      "subtitle": "Only one of you will see dawn..."
+      "subtitle": "Seul l'un d'entre vous verra l'aube..."
      },
      {
       "file": "VO/115802/audio/7.ogg",
-      "subtitle": "Let’s get this party started."
+      "subtitle": "Lançons la fête."
      },
      {
       "file": "VO/115802/audio/8.ogg",
-      "subtitle": "Your nightmare begins... now!"
+      "subtitle": "Les cauchemars commencent... maintenant !"
      }
     ]
    },
@@ -7152,7 +7152,7 @@
     "versions": [
      {
       "file": "VO/115803/audio/0.ogg",
-      "subtitle": "Round 2."
+      "subtitle": "Deuxième manche."
      }
     ]
    },
@@ -7164,71 +7164,71 @@
     "versions": [
      {
       "file": "VO/115804/audio/0.ogg",
-      "subtitle": "(yawn) I’m sweepy.  Wake up! You have to kill these dolls."
+      "subtitle": "(bâillement) Je suis crevé. Mais debout ! Je dois tuer ces poupées."
      },
      {
       "file": "VO/115804/audio/1.ogg",
-      "subtitle": "I have a feeling I’m going to regret having this coffee later."
+      "subtitle": "Je sens que je vais regretter ce café plus tard."
      },
      {
       "file": "VO/115804/audio/2.ogg",
-      "subtitle": "I hope you didn’t take your sleep gummies!"
+      "subtitle": "J’espère que vous n’avez pas pris vos somnifères !"
      },
      {
       "file": "VO/115804/audio/3.ogg",
-      "subtitle": "Time really flies when I’m chasing you with a chainsaw!"
+      "subtitle": "Le temps file très vite quand je vous cours après avec une tronçonneuse !"
      },
      {
       "file": "VO/115804/audio/4.ogg",
-      "subtitle": "Oh my god, you guys, this is such an epic sleepover!"
+      "subtitle": "Oh mon dieu, les gars, c’est une soirée pyjama de ouf !"
      },
      {
       "file": "VO/115804/audio/5.ogg",
-      "subtitle": "Sure, it’s 3AM during a murder game, but at least you’re not doomscrolling!"
+      "subtitle": "Oui, il est 3h du mat’ pendant un jeu de meurtre, mais au moins vous ne doomscrollez pas !"
      },
      {
       "file": "VO/115804/audio/6.ogg",
-      "subtitle": "Don’t even THINK about slipping my hand into a glass of warm water!"
+      "subtitle": "N’osez MÊME PAS glisser ma main dans un verre d’eau tiède !"
      },
      {
       "file": "VO/115804/audio/7.ogg",
-      "subtitle": "Do y’all think we’ll keep in touch after this?"
+      "subtitle": "Vous pensez qu’on restera en contact après ça ?"
      },
      {
       "file": "VO/115804/audio/8.ogg",
-      "subtitle": "I don’t want to freak you guys out but I hear there’s a maniac on the loose!"
+      "subtitle": "Je ne veux pas vous faire peur, mais j’ai entendu dire qu’un fou furieux rôde dans le coin !"
      },
      {
       "file": "VO/115804/audio/9.ogg",
-      "subtitle": "And we ain’t stopping till 6 in the morning."
+      "subtitle": "Et on ne s’arrête pas avant 6h du matin."
      },
      {
       "file": "VO/115804/audio/10.ogg",
-      "subtitle": "Ah who put my underwear on the flagpole?! Not cool, guys."
+      "subtitle": "Qui a mis mon sous-vêtement au mât du drapeau ?! Pas cool, les gars !"
      },
      {
       "file": "VO/115804/audio/11.ogg",
-      "subtitle": "The last time I pulled an all-nighter, I was trying to pass Murder School."
+      "subtitle": "La dernière fois que j’ai fait une nuit blanche, c’était pour essayer de réussir l’École du Meurtre !"
      },
      {
       "file": "VO/115804/audio/12.ogg",
-      "subtitle": "It’s 3AM. I must be looney."
+      "subtitle": "Il est 3h du matin. Je dois être complètement dingue."
      },
      {
       "file": "VO/115804/audio/13.ogg",
-      "subtitle": "Oh my god I can’t believe I have a spin class in 3 hours."
+      "subtitle": "Oh mon dieu, je n’arrive pas à croire que j’ai un cours de spinning dans 3 heures."
      },
      {
       "file": "VO/115804/audio/14.ogg",
-      "subtitle": "It’s 3AM. Let those intrusive thoughts flood in."
+      "subtitle": "Il est 3h du matin. Laissez ces pensées intrusives vous envahir."
      },
      {
       "file": "VO/115804/audio/15.ogg",
-      "subtitle": "It’s 3AM. Do you know where all your organs are?"
+      "subtitle": "Il est 3h du matin. Savez-vous où se trouvent tous vos organes ?"
      },
      {
       "file": "VO/115804/audio/16.ogg",
-      "subtitle": "I’m not s’posed-ta be up this late! No one tell my mom’s corpse."
+      "subtitle": "Je ne suis pas censé être réveillé à cette heure-ci. Ne le dites pas au cadavre de ma mère !"
      }
     ]
    },
@@ -7240,15 +7240,15 @@
     "versions": [
      {
       "file": "VO/115805/audio/0.ogg",
-      "subtitle": "It’s Round 4 and NO there aren’t any scheduled  bathroom breaks."
+      "subtitle": "C’est la 4ème manche et NON, il n’y a aucune pause toilettes prévue."
      },
      {
       "file": "VO/115805/audio/1.ogg",
-      "subtitle": "Round 4. Would you believe this is all part of my typical nighttime routine?"
+      "subtitle": "4ème manche. Vous croyez que tout ça fait partie de ma routine nocturne habituelle ?"
      },
      {
       "file": "VO/115805/audio/2.ogg",
-      "subtitle": "Time really flies when I’m chasing you with a chainsaw!"
+      "subtitle": "Le temps file très vite quand je vous cours après avec une tronçonneuse !"
      }
     ]
    },
@@ -7260,31 +7260,31 @@
     "versions": [
      {
       "file": "VO/115806/audio/0.ogg",
-      "subtitle": "It’s the last hour before the final trial..."
+      "subtitle": "Il ne reste qu’une heure avant l’épreuve finale..."
      },
      {
       "file": "VO/115806/audio/1.ogg",
-      "subtitle": "Your last chance to increase your score."
+      "subtitle": "Votre dernière chance d’augmenter votre score."
      },
      {
       "file": "VO/115806/audio/2.ogg",
-      "subtitle": "One more hour to go!"
+      "subtitle": "Il ne reste qu’une heure !"
      },
      {
       "file": "VO/115806/audio/3.ogg",
-      "subtitle": "One more hour until the chase."
+      "subtitle": "Il ne reste qu’une heure avant la chasse."
      },
      {
       "file": "VO/115806/audio/4.ogg",
-      "subtitle": "Ok, procrastinators, it’s your time to shine!"
+      "subtitle": "Allez, les procrastinateurs, c’est votre moment de briller !"
      },
      {
       "file": "VO/115806/audio/5.ogg",
-      "subtitle": "One more hour until dawn..."
+      "subtitle": "Il ne reste qu’une heure avant l’aube..."
      },
      {
       "file": "VO/115806/audio/6.ogg",
-      "subtitle": "The party is winding down..."
+      "subtitle": "La fête touche à sa fin..."
      }
     ]
    },
