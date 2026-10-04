@@ -7716,7 +7716,7 @@
     "versions": [
      {
       "file": "VO/116139/audio/0.ogg",
-      "subtitle": "Chaque joueur en sécurité empoisonnera secrètement une coupe. Les joueurs en danger choisiront ensuite une coupe dans laquelle boire. Si votre boisson contient du poison, vous mourez !"
+      "subtitle": "Chaque joueur en sécurité empoisonnera secrètement un calice. Les joueurs en danger choisiront ensuite un calice dans lequel boire. Si votre boisson contient du poison, vous mourez !"
      }
     ]
    },
@@ -7728,7 +7728,7 @@
     "versions": [
      {
       "file": "VO/116142/audio/0.ogg",
-      "subtitle": "Tout le monde choisira secrètement une coupe à empoisonner. Ensuite, tout le monde choisira une coupe dans laquelle boire. Si votre boisson contient du poison, vous mourez !"
+      "subtitle": "Tout le monde choisira secrètement un calice à empoisonner. Ensuite, tout le monde choisira un calice dans lequel boire. Si votre boisson contient du poison, vous mourez !"
      }
     ]
    },
@@ -7832,7 +7832,7 @@
     "versions": [
      {
       "file": "VO/116197/audio/0.ogg",
-      "subtitle": "Safe players, pick a chalice to drop your poison in"
+      "subtitle": "Joueurs en sécurité, choisissez un calice dans lequel verser votre poison."
      }
     ]
    },
@@ -7844,7 +7844,7 @@
     "versions": [
      {
       "file": "VO/116198/audio/0.ogg",
-      "subtitle": "Now, at-risk players, choose a chalice to drink from."
+      "subtitle": "À présent, joueurs en danger, choisissez un calice dans lequel boire."
      }
     ]
    },
@@ -7856,35 +7856,35 @@
     "versions": [
      {
       "file": "VO/116199/audio/0.ogg",
-      "subtitle": "Now drink!"
+      "subtitle": "À présent, buvez !"
      },
      {
       "file": "VO/116199/audio/1.ogg",
-      "subtitle": "Chug! Chug! Chug!"
+      "subtitle": "Cul sec ! Cul sec ! Cul sec !"
      },
      {
       "file": "VO/116199/audio/2.ogg",
-      "subtitle": "I’d like to give a toast: to drinking poison!"
+      "subtitle": "Je veux porter un toast : à boire du poison !"
      },
      {
       "file": "VO/116199/audio/3.ogg",
-      "subtitle": "Slup it up, you little piggies!"
+      "subtitle": "Buvez d’un trait, petits gloutons !"
      },
      {
       "file": "VO/116199/audio/4.ogg",
-      "subtitle": "Let’s pound some poison!"
+      "subtitle": "Buvons du poison !"
      },
      {
       "file": "VO/116199/audio/5.ogg",
-      "subtitle": "Sweet Dionysus, let’s drink!"
+      "subtitle": "Ô doux Dionysos, buvons !"
      },
      {
       "file": "VO/116199/audio/6.ogg",
-      "subtitle": "Prost! Let’s drink."
+      "subtitle": "Santé ! Buvons."
      },
      {
       "file": "VO/116199/audio/7.ogg",
-      "subtitle": "Opa! Let’s drink!"
+      "subtitle": "Opa ! Buvons."
      }
     ]
    },
@@ -7896,31 +7896,31 @@
     "versions": [
      {
       "file": "VO/116207/audio/0.ogg",
-      "subtitle": "Lucky guess!"
+      "subtitle": "Bonne intuition !"
      },
      {
       "file": "VO/116207/audio/1.ogg",
-      "subtitle": "Dangit!"
+      "subtitle": "Zut alors !"
      },
      {
       "file": "VO/116207/audio/2.ogg",
-      "subtitle": "No poison!"
+      "subtitle": "Pas de poison !"
      },
      {
       "file": "VO/116207/audio/3.ogg",
-      "subtitle": "Rats!"
+      "subtitle": "Mince !"
      },
      {
       "file": "VO/116207/audio/4.ogg",
-      "subtitle": "Ugh!"
+      "subtitle": "Argh !"
      },
      {
       "file": "VO/116207/audio/5.ogg",
-      "subtitle": "Son of a!"
+      "subtitle": "Fils de... !"
      },
      {
       "file": "VO/116207/audio/6.ogg",
-      "subtitle": "Boo!"
+      "subtitle": "Bouh !"
      }
     ]
    },
@@ -7932,19 +7932,19 @@
     "versions": [
      {
       "file": "VO/116208/audio/0.ogg",
-      "subtitle": "Yes!"
+      "subtitle": "Oui !"
      },
      {
       "file": "VO/116208/audio/1.ogg",
-      "subtitle": "Hot dog!"
+      "subtitle": "Hot dog !"
      },
      {
       "file": "VO/116208/audio/2.ogg",
-      "subtitle": "You just drank poison!"
+      "subtitle": "Vous venez de boire du poison !"
      },
      {
       "file": "VO/116208/audio/3.ogg",
-      "subtitle": "You lost that mind game."
+      "subtitle": "Vous avez perdu ce jeu d’esprit."
      }
     ]
    },
@@ -7956,47 +7956,47 @@
     "versions": [
      {
       "file": "VO/116209/audio/0.ogg",
-      "subtitle": "Now let’s see that gnarly death play out!"
+      "subtitle": "Maintenant, observons cette mort atroce se dérouler !"
      },
      {
       "file": "VO/116209/audio/1.ogg",
-      "subtitle": "You died doing what you loved... drinking poison."
+      "subtitle": "Vous êtes mort en faisant ce que vous aimiez... boire du poison."
      },
      {
       "file": "VO/116209/audio/2.ogg",
-      "subtitle": "Don’t worry, it’ll all be over soon."
+      "subtitle": "Ne vous inquiétez pas, tout sera bientôt terminé."
      },
      {
       "file": "VO/116209/audio/3.ogg",
-      "subtitle": "I guess today is your expiration date."
+      "subtitle": "Je suppose qu'aujourd’hui est votre date d’expiration."
      },
      {
       "file": "VO/116209/audio/4.ogg",
-      "subtitle": "Sorry, the antidote was finally admitting that you deserve love."
+      "subtitle": "Désolé, l’antidote admettait finalement que vous méritiez de l’amour."
      },
      {
       "file": "VO/116209/audio/5.ogg",
-      "subtitle": "Last call for oxygen!"
+      "subtitle": "Dernier appel pour de l’oxygène !"
      },
      {
       "file": "VO/116209/audio/6.ogg",
-      "subtitle": "And just so you know, your death cup is NOT dishwasher safe."
+      "subtitle": "Et pour que vous sachiez, votre calice funeste n’est PAS compatible lave-vaisselle."
      },
      {
       "file": "VO/116209/audio/7.ogg",
-      "subtitle": "Any last gurgles?"
+      "subtitle": "Des derniers garouillements ?"
      },
      {
       "file": "VO/116209/audio/8.ogg",
-      "subtitle": "Sorry, you’ve been cut off."
+      "subtitle": "Désolé, on vous a coupé."
      },
      {
       "file": "VO/116209/audio/9.ogg",
-      "subtitle": "To me, the real poison is backwash."
+      "subtitle": "Pour moi, le vrai poison, c’est les répercussions."
      },
      {
       "file": "VO/116209/audio/10.ogg",
-      "subtitle": "Bottoms up, and six feet under."
+      "subtitle": "Santé, et six pieds en-dessous."
      }
     ]
    },
@@ -8008,19 +8008,19 @@
     "versions": [
      {
       "file": "VO/116212/audio/0.ogg",
-      "subtitle": "This has more poisonings than a cult!"
+      "subtitle": "Cela compte plus d’empoisonnements qu’une secte !"
      },
      {
       "file": "VO/116212/audio/1.ogg",
-      "subtitle": "It’s my favorite outcome!"
+      "subtitle": "C’est mon dénouement préféré !"
      },
      {
       "file": "VO/116212/audio/2.ogg",
-      "subtitle": "See you all in the afterlife!"
+      "subtitle": "À bientôt dans l’au-delà !"
      },
      {
       "file": "VO/116212/audio/3.ogg",
-      "subtitle": "Y’all just died of embarrassment! And organ failure."
+      "subtitle": "Vous venez tous de mourir de honte ! Et de défaillance organique."
      }
     ]
    },
@@ -8032,27 +8032,27 @@
     "versions": [
      {
       "file": "VO/116213/audio/0.ogg",
-      "subtitle": "What’s the point of serving poison if nobody is going to drink from it!?"
+      "subtitle": "À quoi bon servir du poison si personne ne va en boire !?"
      },
      {
       "file": "VO/116213/audio/1.ogg",
-      "subtitle": "No one died?! I feel like slamming my bedroom door!"
+      "subtitle": "Personne n’est mort ?! J’ai envie de claquer la porte de ma chambre !"
      },
      {
       "file": "VO/116213/audio/2.ogg",
-      "subtitle": "Well your loss! The poison was mango peach flavor."
+      "subtitle": "Tant pis pour vous ! Le poison était aromatisé mangue-pêche."
      },
      {
       "file": "VO/116213/audio/3.ogg",
-      "subtitle": "Not a single poisoning? Ugh that is so selfish of you."
+      "subtitle": "Pas un seul empoisonnement ? C’est tellement égoïste de votre part."
      },
      {
       "file": "VO/116213/audio/4.ogg",
-      "subtitle": "Wait, no one drank any poison?! FML my life!"
+      "subtitle": "Attendez, personne n’a bu de poison ?! Putain, ma vie !"
      },
      {
       "file": "VO/116213/audio/5.ogg",
-      "subtitle": "Welp, that’s a real flaw in this game."
+      "subtitle": "Eh bien, voilà un vrai défaut dans ce jeu."
      }
     ]
    },
@@ -8064,27 +8064,27 @@
     "versions": [
      {
       "file": "VO/116214/audio/0.ogg",
-      "subtitle": "Someone forgot to use their poison pellet. Here, let me do that for you!"
+      "subtitle": "Quelqu’un a oublié d’utiliser sa pastille de poison. Tenez, laissez-moi le faire à votre place !"
      },
      {
       "file": "VO/116214/audio/1.ogg",
-      "subtitle": "Fine, I’ll place the poison pellets for you! I have to do EVERYTHING!"
+      "subtitle": "D'accord, je vais placer les pastilles de poison pour vous ! Je dois TOUT faire !"
      },
      {
       "file": "VO/116214/audio/2.ogg",
-      "subtitle": "You had ONE job! Get out of the way, I’ll do it for you."
+      "subtitle": "Vous aviez UNE seule mission ! Écartez-vous, je m’en occupe."
      },
      {
       "file": "VO/116214/audio/3.ogg",
-      "subtitle": "Oh, I don’t wanna poison someone. I have ethics! Get out of the way!"
+      "subtitle": "Oh, je ne veux empoisonner personne. J’ai des valeurs ! Écartez-vous !"
      },
      {
       "file": "VO/116214/audio/4.ogg",
-      "subtitle": "Someone didn’t use their poison pellet. Give it here! I don’t want that to go to waste!"
+      "subtitle": "Quelqu’un n’a pas utilisé sa pastille de poison. Donnez-la-moi ! Je ne veux pas qu’elle soit gaspillée !"
      },
      {
       "file": "VO/116214/audio/5.ogg",
-      "subtitle": "Ya know, these chalices don’t just poison themselves! Let me do it!"
+      "subtitle": "Vous savez que ces calices ne s’empoisonnent pas tout seuls ! Laissez-moi faire !"
      }
     ]
    },
@@ -8096,19 +8096,19 @@
     "versions": [
      {
       "file": "VO/116215/audio/0.ogg",
-      "subtitle": "Not choosing a chalice doesn’t save you! In fact, it does the opposite !"
+      "subtitle": "Ne pas choisir de calice ne vous sauvera pas ! En réalité, cela fait tout l’inverse !"
      },
      {
       "file": "VO/116215/audio/1.ogg",
-      "subtitle": "Not choosing a chalice is a punishable offense!"
+      "subtitle": "Ne pas choisir de calice est un délit punissable !"
      },
      {
       "file": "VO/116215/audio/2.ogg",
-      "subtitle": "When you don’t choose a chalice, I choose you... to die! Sounded cooler in my head."
+      "subtitle": "Quand vous ne choisissez pas de calice, c’est moi qui choisis... de vous tuer ! Ça sonnait plus cool dans ma tête."
      },
      {
       "file": "VO/116215/audio/3.ogg",
-      "subtitle": "If you don’t drink, you get punished. Just like at Margaritaville."
+      "subtitle": "Si vous ne buvez pas, vous serez puni. Tout comme à Margaritaville."
      }
     ]
    },
@@ -8120,7 +8120,7 @@
     "versions": [
      {
       "file": "VO/116216/audio/0.ogg",
-      "subtitle": "Choose a chalice to secretly poison."
+      "subtitle": "Choisissez un calice à empoisonner discrètement."
      }
     ]
    },
@@ -8132,7 +8132,7 @@
     "versions": [
      {
       "file": "VO/116217/audio/0.ogg",
-      "subtitle": "Now choose a chalice to drink from."
+      "subtitle": "À présent, choisissez un calice dans lequel boire."
      }
     ]
    },
@@ -8144,7 +8144,7 @@
     "versions": [
      {
       "file": "VO/116218/audio/0.ogg",
-      "subtitle": "Hurry up! Pick a chalice to poison already!"
+      "subtitle": "Dépêchez-vous ! Choisissez un calice à empoisonner, enfin !"
      }
     ]
    },
@@ -8156,7 +8156,7 @@
     "versions": [
      {
       "file": "VO/116219/audio/0.ogg",
-      "subtitle": "Pick a chalice to drink from already!"
+      "subtitle": "Choisissez un calice dans lequel boire, enfin !"
      }
     ]
    },

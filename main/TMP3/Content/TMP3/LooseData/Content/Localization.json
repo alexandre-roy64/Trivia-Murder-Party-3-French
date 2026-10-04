@@ -44,13 +44,13 @@
     {
      "textKey": "TUT_CHALICES_0",
      "value": [
-      "Tout le monde choisira secrètement une coupe à empoisonner."
+      "Tout le monde choisira secrètement un calice à empoisonner."
      ]
     },
     {
      "textKey": "TUT_CHALICES_1",
      "value": [
-      "Ensuite, tout le monde choisira une coupe dans laquelle boire."
+      "Ensuite, tout le monde choisira un calice dans lequel boire."
      ]
     },
     {
@@ -62,13 +62,13 @@
     {
      "textKey": "TUT_CHALICES_SAFE_0",
      "value": [
-      "Chaque joueur en sécurité empoisonnera secrètement une coupe."
+      "Chaque joueur en sécurité empoisonnera secrètement un calice."
      ]
     },
     {
      "textKey": "TUT_CHALICES_SAFE_1",
      "value": [
-      "Les joueurs en danger choisiront ensuite une coupe dans laquelle boire."
+      "Les joueurs en danger choisiront ensuite un calice dans lequel boire."
      ]
     },
     {
