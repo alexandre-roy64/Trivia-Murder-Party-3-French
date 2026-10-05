@@ -8168,7 +8168,7 @@
     "versions": [
      {
       "file": "VO/116220/audio/0.ogg",
-      "subtitle": "Every player will be able to trigger at least one jumpscare event this game. The button to activate them is located at the top of your device. It will also show you how many you have. Use them wisely."
+      "subtitle": "Chaque joueur pourra déclencher au moins un événement de sursaut pendant la partie. Le bouton pour les activer se trouve en haut de votre appareil. Il vous indiquera également combien vous en avez. Utilisez-les judicieusement."
      }
     ]
    },
@@ -8180,23 +8180,23 @@
     "versions": [
      {
       "file": "VO/116221/audio/0.ogg",
-      "subtitle": "Allow me to introduce... JUMPSCARES!"
+      "subtitle": "Permettez-moi de vous présenter... les SURSAUTS !"
      },
      {
       "file": "VO/116221/audio/1.ogg",
-      "subtitle": "Don’t change your diaper just yet..."
+      "subtitle": "Ne changez pas tout de suite votre couche..."
      },
      {
       "file": "VO/116221/audio/2.ogg",
-      "subtitle": "Time to introduce a little chaos..."
+      "subtitle": "Il est temps d’introduire un peu de chaos..."
      },
      {
       "file": "VO/116221/audio/3.ogg",
-      "subtitle": "I bet you weren’t expecting this..."
+      "subtitle": "Je parie que vous ne vous y attendiez pas..."
      },
      {
       "file": "VO/116221/audio/4.ogg",
-      "subtitle": "If you don’t hate each other already you soon will..."
+      "subtitle": "Si ce n’est pas déjà le cas, vous allez bientôt vous détester..."
      }
     ]
    },
@@ -8208,7 +8208,7 @@
     "versions": [
      {
       "file": "VO/116294/audio/0.ogg",
-      "subtitle": "Let’s go on a little hike"
+      "subtitle": "Allons faire une petite randonnée."
      }
     ]
    },
@@ -8220,7 +8220,7 @@
     "versions": [
      {
       "file": "VO/116295/audio/0.ogg",
-      "subtitle": "Safe players, bury some secret landmines"
+      "subtitle": "Joueurs en sécurité, enterrez quelques mines secrètes."
      }
     ]
    },
@@ -8232,7 +8232,7 @@
     "versions": [
      {
       "file": "VO/116296/audio/0.ogg",
-      "subtitle": "At-risk players, draw the route you’ll walk to the finish line"
+      "subtitle": "Joueurs en danger, tracez le chemin que vous emprunterez pour franchir la ligne d’arrivée."
      }
     ]
    },
@@ -8244,7 +8244,7 @@
     "versions": [
      {
       "file": "VO/116297/audio/0.ogg",
-      "subtitle": "Time to get hikin’"
+      "subtitle": "C'est l'heure de partir en randonnée."
      }
     ]
    },
@@ -8256,7 +8256,7 @@
     "versions": [
      {
       "file": "VO/116298/audio/0.ogg",
-      "subtitle": "No one died yet?  Well we can fix that."
+      "subtitle": "Personne n’est encore mort ? Eh ben, je peux arranger ça."
      }
     ]
    },
@@ -8268,7 +8268,7 @@
     "versions": [
      {
       "file": "VO/116368/audio/0.ogg",
-      "subtitle": "That was a practice round, I’ll drug the dollies so they forget it…"
+      "subtitle": "Ce n’était qu’un échauffement, je vais droguer les poupées pour qu’elles l’oublient…"
      }
     ]
    },
@@ -8280,7 +8280,7 @@
     "versions": [
      {
       "file": "VO/116400/audio/0.ogg",
-      "subtitle": "Blue landmines are always active, red landmines become active once someone escapes"
+      "subtitle": "Les mines bleues sont toujours actives, les mines rouges ne deviennent actives qu’une fois qu’un joueur s’y échappe."
      }
     ]
    },
@@ -8292,7 +8292,7 @@
     "versions": [
      {
       "file": "VO/116401/audio/0.ogg",
-      "subtitle": "Audio for Minefield Tutorial"
+      "subtitle": "Audio pour le tutoriel du champ de mines."
      }
     ]
    },
@@ -8304,7 +8304,7 @@
     "versions": [
      {
       "file": "VO/116402/audio/0.ogg",
-      "subtitle": "A red landmine is now live"
+      "subtitle": "Une mine rouge est désormais activée."
      }
     ]
    },
@@ -8328,43 +8328,43 @@
     "versions": [
      {
       "file": "VO/116418/audio/0.ogg",
-      "subtitle": "Like any good camp, I’m making sure you all stay hydrated with electrolytes... and maybe some poison."
+      "subtitle": "Comme dans tout bon camp, je m’assure que vous restiez tous hydratés avec des électrolytes... et peut-être un peu de poison."
      },
      {
       "file": "VO/116418/audio/1.ogg",
-      "subtitle": "Look at all these chalices! Do NOT call them cups - they fancy!"
+      "subtitle": "Regardez tous ces calices ! N’allez SURTOUT PAS les appeler des tasses - ils sont sophistiqués !"
      },
      {
       "file": "VO/116418/audio/2.ogg",
-      "subtitle": "Some of these chalices will be poisoned. And not just because of the lead content."
+      "subtitle": "Certains de ces calices seront empoisonnés. Et pas seulement à cause de leur teneur en plomb."
      },
      {
       "file": "VO/116418/audio/3.ogg",
-      "subtitle": "It’s so important to drink your 8 glasses of poison a day."
+      "subtitle": "Il est si important de boire vos 8 verres de poison par jour."
      },
      {
       "file": "VO/116418/audio/4.ogg",
-      "subtitle": "Sorry, I’m all out of Coke. Is poison ok?"
+      "subtitle": "Désolé, je n'ai plus de Coca. C'est ok du poison ?"
      },
      {
       "file": "VO/116418/audio/5.ogg",
-      "subtitle": "My secret recipe is one part poison, two parts different poison."
+      "subtitle": "Ma recette secrète est une partie de poison, deux parties d’un autre poison."
      },
      {
       "file": "VO/116418/audio/6.ogg",
-      "subtitle": "I’m all out of koozies. Maybe I’ll make one out of you."
+      "subtitle": "Je n'ai plus de porte-canette. Je vais peut-être en faire un avec vous."
      },
      {
       "file": "VO/116418/audio/7.ogg",
-      "subtitle": "I wasn’t sure what everyone liked so I got a variety of poisons."
+      "subtitle": "Je ne savais pas ce que chacun aimait, alors j’ai prévu une variété de poisons."
      },
      {
       "file": "VO/116418/audio/8.ogg",
-      "subtitle": "So by entering this game you consent to being poisoned."
+      "subtitle": "En participant à ce jeu, vous acceptez d’être empoisoné."
      },
      {
       "file": "VO/116418/audio/9.ogg",
-      "subtitle": "This evening would you like still or sparkling poison?"
+      "subtitle": "Ce soir, souhaitez-vous du poison plat ou pétillant ?"
      }
     ]
    },
@@ -8376,23 +8376,23 @@
     "versions": [
      {
       "file": "VO/116419/audio/0.ogg",
-      "subtitle": "Did you just make a huge mistake? Let’s find out! Where’s the poison?"
+      "subtitle": "Venez-vous de commettre une énorme erreur ? Nous allons le découvrir ! Où est le poison ?"
      },
      {
       "file": "VO/116419/audio/1.ogg",
-      "subtitle": "Feeling a little off? Let’s see which cups had poison in them."
+      "subtitle": "Vous ne vous sentez pas très bien ? Voyons quels verres contenaient du poison."
      },
      {
       "file": "VO/116419/audio/2.ogg",
-      "subtitle": "Who was dead right and who’s just dead? Let’s see where the poison is."
+      "subtitle": "Qui avait raison et qui va mourir ? Découvrons où se trouve le poison."
      },
      {
       "file": "VO/116419/audio/3.ogg",
-      "subtitle": "Let’s see who needs to call poison control but can’t because I cut the phone lines."
+      "subtitle": "Voyons qui devrait appeler les urgences à cause du poison, mais qui ne le peut pas, puisque j’ai coupé les lignes téléphoniques."
      },
      {
       "file": "VO/116419/audio/4.ogg",
-      "subtitle": "To quote the great William Shakespeare: Which one of y’all drank the poison???"
+      "subtitle": "Pour citer le grand William Shakespeare : Lequel d’entre vous a bu le poison ???"
      }
     ]
    },
@@ -8404,11 +8404,11 @@
     "versions": [
      {
       "file": "VO/116420/audio/0.ogg",
-      "subtitle": "I don’t think I’ll make it out alive... Oh like I’m the villain here. You’re the one who got the anime question wrong."
+      "subtitle": "Je ne pense pas m’en sortir vivant... Comme si j’étais le méchant, bien sûr. C’est vous qui avez eu tort à la question sur les anime."
      },
      {
       "file": "VO/116420/audio/1.ogg",
-      "subtitle": "I don’t think I’ll make it out a live. What a loser ! Oh, yeah, check out that sick logo! That graphic design bootcamp was worth it. Oh, and I killed the counselor. Not sure if that was clear or not.  Oh crap, I’ve got to get to work."
+      "subtitle": "Je ne pense pas m’en sortir vivant. Quel perdant ! Oh, et regardez ce logo de malade ! Ce camp d'entraînement de design graphique en valait la peine. Ah, et j’ai tué le conseiller. Je ne sais pas si c’était clair ou non. Oh mince, il faut que j’aille travailler."
      }
     ]
    },
@@ -8420,15 +8420,15 @@
     "versions": [
      {
       "file": "VO/116549/audio/0.ogg",
-      "subtitle": "Now let’s see what everyone drank."
+      "subtitle": "Maintenant, voyons ce que chacun a bu."
      },
      {
       "file": "VO/116549/audio/1.ogg",
-      "subtitle": "Ok, show me those chalice picks."
+      "subtitle": "Ok, montrez-moi les calices choisis."
      },
      {
       "file": "VO/116549/audio/2.ogg",
-      "subtitle": "Here are the chalices that everyone chose."
+      "subtitle": "Voici les calices que chacun a sélectionnés."
      }
     ]
    },
@@ -8440,7 +8440,7 @@
     "versions": [
      {
       "file": "VO/116572/audio/0.ogg",
-      "subtitle": "Answer as many math questions as you can before time runs out. But be careful: if you make a mistake, you sit in a little time out. If a safe player scores better than you, you die!"
+      "subtitle": "Résolvez autant d’équations mathématiques simples que possible avant la fin du temps imparti. Mais attention, si vous faites une erreur, vous serez mis en pause pour un petit moment. Si un joueur en sécurité obtient un meilleur score que vous, vous perdez."
      }
     ]
    },
@@ -8452,7 +8452,7 @@
     "versions": [
      {
       "file": "VO/116573/audio/0.ogg",
-      "subtitle": "Solve as many simple math equations as you can before time runs out. But be careful - if you make a mistake, you sit in a little time out. If your score is the lowest, you die!"
+      "subtitle": "Résolvez autant d’équations mathématiques simples que possible avant la fin du temps imparti. Mais attention, si vous faites une erreur, vous serez mis en pause pour un petit moment. Si votre score est le plus bas, vous mourez !"
      }
     ]
    },
@@ -8464,43 +8464,43 @@
     "versions": [
      {
       "file": "VO/116577/audio/0.ogg",
-      "subtitle": "It’s time to play the scariest game of all... Math."
+      "subtitle": "Il est temps de jouer au jeu le plus effrayant de tous... Les maths."
      },
      {
       "file": "VO/116577/audio/1.ogg",
-      "subtitle": "Let’s see if your skills add up. It’s time to play Math!"
+      "subtitle": "Voyons si vos compétences sont à la hauteur. C’est l’heure des maths !"
      },
      {
       "file": "VO/116577/audio/2.ogg",
-      "subtitle": "Texas Instruments donated a ton of money to keep this in the game."
+      "subtitle": "Texas Instruments a donné beaucoup d'argent pour garder ce mini-jeu dans le jeu."
      },
      {
       "file": "VO/116577/audio/3.ogg",
-      "subtitle": "It’s time to solve for x, where x equals YOUR SURVIVAL... Nailed it."
+      "subtitle": "Il est temps de résoudre pour x, où x égal VOTRE SURVIE... Parfait."
      },
      {
       "file": "VO/116577/audio/4.ogg",
-      "subtitle": "Yeah, I’m poly. Poly NOMIAL. Let’s play Math."
+      "subtitle": "Oui, je suis poly. PolyNOMIAL. C’est l’heure des maths."
      },
      {
       "file": "VO/116577/audio/5.ogg",
-      "subtitle": "Didn’t your math teacher say you’d end up using this in a murderous camp?"
+      "subtitle": "Votre professeur de maths ne vous avait-il pas dit que vous en auriez besoin dans un camp meurtrier ?"
      },
      {
       "file": "VO/116577/audio/6.ogg",
-      "subtitle": "I get an educational grant for this murder camp so it’s time to play Math."
+      "subtitle": "Je reçois une subvention éducative pour ce camp de meurtres, alors c’est l’heure des maths."
      },
      {
       "file": "VO/116577/audio/7.ogg",
-      "subtitle": "None of you look like STEM kids so let’s play Math."
+      "subtitle": "Aucun d’entre vous ne ressemble à un élève STEM, alors c’est l’heure des maths."
      },
      {
       "file": "VO/116577/audio/8.ogg",
-      "subtitle": "Math will keep you alive. Did you factor that in?"
+      "subtitle": "Les maths vous garderont en vie. Vous y avez pensé ?"
      },
      {
       "file": "VO/116577/audio/9.ogg",
-      "subtitle": "I’m feeling extra mean so let’s play Math."
+      "subtitle": "Je me sens particulièrement méchant, alors c’est l’heure des maths."
      }
     ]
    },
@@ -8511,7 +8511,7 @@
    "audio": {
     "versions": [
      {
-      "subtitle": "Math, math, math, math, math"
+      "subtitle": "Maths, maths, maths, maths, maths"
      }
     ]
    },
@@ -8523,7 +8523,7 @@
     "versions": [
      {
       "file": "VO/116584/audio/0.ogg",
-      "subtitle": "Everybody, pick a chalice to drop your poison in."
+      "subtitle": "Tout le monde, choisissez un calice pour y verser votre poison."
      }
     ]
    },
@@ -8535,7 +8535,7 @@
     "versions": [
      {
       "file": "VO/116586/audio/0.ogg",
-      "subtitle": "Ok. Now, everyone, pick a chalice to drink from"
+      "subtitle": "D’accord. Maintenant, tout le monde, choisissez un calice dans lequel boire."
      }
     ]
    },
@@ -8547,23 +8547,23 @@
     "versions": [
      {
       "file": "VO/116597/audio/0.ogg",
-      "subtitle": "What’s scarier than being on a stage? Having to do math while on it!"
+      "subtitle": "Qu’y a-t-il de plus effrayant que d’être sur scène ? Faire des maths en étant sur scène !"
      },
      {
       "file": "VO/116597/audio/1.ogg",
-      "subtitle": "This is not a fever dream. You really are about to compete in a math competition on stage!"
+      "subtitle": "Ce n’est pas une hallucination. Vous allez vraiment participer à un concours de maths sur scène !"
      },
      {
       "file": "VO/116597/audio/2.ogg",
-      "subtitle": "Welcome to the talent show! Your talent is Math, I already picked it for you."
+      "subtitle": "Bienvenue au concours de talents ! Votre talent, c’est les maths, je l’ai déjà choisi pour vous."
      },
      {
       "file": "VO/116597/audio/3.ogg",
-      "subtitle": "You know what alleviate stage fright? Having to do competitive math!"
+      "subtitle": "Vous savez ce qui calme la peur ? Devoir participer à un concours de maths !"
      },
      {
       "file": "VO/116597/audio/4.ogg",
-      "subtitle": "Welcome, performers. If you get nervous, just imagine me naked. I wish somebody would!"
+      "subtitle": "Bienvenue, artistes. Si vous êtes nerveux, juste imaginez-moi nu. J’aimerais bien que quelqu’un le fasse !"
      }
     ]
    },
@@ -8575,11 +8575,11 @@
     "versions": [
      {
       "file": "VO/116598/audio/0.ogg",
-      "subtitle": "Solve as many equations as you can before time runs out. Ready, set, math!"
+      "subtitle": "Résolvez autant d’équations que possible avant la fin du temps imparti. À vos marques, prêts, mathez !"
      },
      {
       "file": "VO/116598/audio/1.ogg",
-      "subtitle": "You have 30 seconds to solve as many questions as you can. Ready, set, calculate!"
+      "subtitle": "Vous avez 30 secondes pour résoudre autant de questions que possible. À vos marques, prêts, calculez !"
      }
     ]
    },
@@ -8591,7 +8591,7 @@
     "versions": [
      {
       "file": "VO/116599/audio/0.ogg",
-      "subtitle": "We’re halfway there. That’s 50% for those of you bad at math."
+      "subtitle": "Nous en sommes à la moitié. C’est-à-dire 50 % pour ceux d’entre vous qui sont mauvais en maths."
      }
     ]
    },
@@ -8603,35 +8603,35 @@
     "versions": [
      {
       "file": "VO/116600/audio/0.ogg",
-      "subtitle": "I had to watch math AND nobody died? What a bummer."
+      "subtitle": "Il a fallu que je regarde des maths ET personne n’est mort ? Quelle déception."
      },
      {
       "file": "VO/116600/audio/1.ogg",
-      "subtitle": "Nobody died? What a bunch of math-holes!"
+      "subtitle": "Personne n’est mort ? Quelle bande de nuls en maths !"
      },
      {
       "file": "VO/116600/audio/2.ogg",
-      "subtitle": "You plus survival equals me cranky!"
+      "subtitle": "Vous plus la survie égal moi grincheux !"
      },
      {
       "file": "VO/116600/audio/3.ogg",
-      "subtitle": "Ugh, no one died because my life frickin’ sucks!"
+      "subtitle": "Argh, personne n’est mort parce que ma vie, c’est vraiment de la merde !"
      },
      {
       "file": "VO/116600/audio/4.ogg",
-      "subtitle": "No one lost at Math?! Fine, next time I’m making you write a persuasive essay."
+      "subtitle": "Personne n’a perdu aux maths ?! Bon, la prochaine fois, je vous ferai écrire une dissertation persuasive."
      },
      {
       "file": "VO/116600/audio/5.ogg",
-      "subtitle": "No one lost at  math! We canNOT let the cool kids’ murder camp find out about this."
+      "subtitle": "Personne n’a perdu aux maths ! Nous ne pouvons PAS laisser le camp de meurtres des gamins cool découvrir ça."
      },
      {
       "file": "VO/116600/audio/6.ogg",
-      "subtitle": "You won math but lost something greater: me thinking you were cool."
+      "subtitle": "Vous avez gagné aux maths, mais vous avez perdu quelque chose de plus important : mon estime de vous."
      },
      {
       "file": "VO/116600/audio/7.ogg",
-      "subtitle": "A squared plus b squared equals you squares live."
+      "subtitle": "A au carré plus B au carré égal votre vie au carré."
      }
     ]
    },
@@ -8643,15 +8643,15 @@
     "versions": [
      {
       "file": "VO/116614/audio/0.ogg",
-      "subtitle": "Here are the final scores"
+      "subtitle": "Voici les scores finaux."
      },
      {
       "file": "VO/116614/audio/1.ogg",
-      "subtitle": "Here’s how everyone did."
+      "subtitle": "Voici comment chacun s’en est sorti."
      },
      {
       "file": "VO/116614/audio/2.ogg",
-      "subtitle": "Here’s the final tally."
+      "subtitle": "Voici le bilan final."
      }
     ]
    },
