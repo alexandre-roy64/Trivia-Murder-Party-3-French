@@ -9181,7 +9181,7 @@
     "versions": [
      {
       "file": "VO/117346/audio/0.ogg",
-      "subtitle": "At-risk players, pick a place to hide"
+      "subtitle": "Joueurs en danger, choisissez un endroit pour vous cacher."
      }
     ]
    },
@@ -9193,7 +9193,7 @@
     "versions": [
      {
       "file": "VO/117348/audio/0.ogg",
-      "subtitle": "Here’s who you missed"
+      "subtitle": "Voici ceux que vous avez manqués."
      }
     ]
    },
@@ -9205,7 +9205,7 @@
     "versions": [
      {
       "file": "VO/117349/audio/0.ogg",
-      "subtitle": "Safe players, pick a place to turn on your lantern"
+      "subtitle": "Joueurs en sécurité, choisissez un endroit pour allumer votre lanterne."
      }
     ]
    },
@@ -9217,7 +9217,7 @@
     "versions": [
      {
       "file": "VO/117350/audio/0.ogg",
-      "subtitle": "Where are you?"
+      "subtitle": "Où êtes-vous ?"
      }
     ]
    },
@@ -9241,23 +9241,23 @@
     "versions": [
      {
       "file": "VO/117399/audio/0.ogg",
-      "subtitle": "Are you afraid of the dark? Let’s play Flashlight Trivia."
+      "subtitle": "Vous avez peur du noir ? Alors c'est l'heure des lampes torches."
      },
      {
       "file": "VO/117399/audio/1.ogg",
-      "subtitle": "Get out your flashlights. I’m feeling extra cruel."
+      "subtitle": "Sortez vos lampes torches. Je me sens particulièrement sadique."
      },
      {
       "file": "VO/117399/audio/2.ogg",
-      "subtitle": "What’s lurking in the shadows?  Trivia!"
+      "subtitle": "Qu’est-ce qui rôde dans l’ombre ? Des questions !"
      },
      {
       "file": "VO/117399/audio/3.ogg",
-      "subtitle": "The trivia is about to get really dark."
+      "subtitle": "Les questions vont devenir vraiment sombres."
      },
      {
       "file": "VO/117399/audio/4.ogg",
-      "subtitle": "I’m so evil I’m going to make you do teamwork exercises!"
+      "subtitle": "Je suis si méchant que je vais vous imposer des exercices en équipe !"
      }
     ]
    },
@@ -9269,11 +9269,11 @@
     "versions": [
      {
       "file": "VO/117400/audio/0.ogg",
-      "subtitle": "Argh! Your teamwork is too strong! Let’s see how you do with smaller beams!"
+      "subtitle": "Argh ! Votre esprit d’équipe est trop fort ! Voyons comment vous vous en sortirez avec des rayons plus petits !"
      },
      {
       "file": "VO/117400/audio/1.ogg",
-      "subtitle": "You got it all right?! Time to kick this up a notch!"
+      "subtitle": "Vous avez tout bon ?! Il est temps d’intensifier le jeu d'un cran !"
      }
     ]
    },
@@ -9289,7 +9289,7 @@
     "versions": [
      {
       "file": "VO/117472/audio/0.ogg",
-      "subtitle": "You all contain the same amount of thread. If you get a trivia question wrong, you’ll fight for your life in one of my super fun minigames! The player with the most thread before dawn gets a head start in your race to escape."
+      "subtitle": "Vous avez tous la même longueur de fil. Si vous répondez incorrectement à une question, vous devrez vous battre pour votre vie dans l’un de mes mini-jeux super amusants ! Le joueur qui aura le plus de fil avant l’aube obtiendra une longueur d’avance dans votre course pour vous échapper."
      }
     ]
    },
@@ -9301,7 +9301,7 @@
     "versions": [
      {
       "file": "VO/117476/audio/0.ogg",
-      "subtitle": "Being a camp counselor has been CHALLENGING. The camp director is always QUIZZING US.. And if we mess up we’re forced to play his SICK LITTLE GAMES. I know you’d tell me to “hang in there” but if I don’t LEAVE NOW I DON’T THINK I’LL MAKE IT OUT ALIVE.  (laugh) Oh, I killed him in case that wasn’t clear."
+      "subtitle": "Être animateur de colonie, c’est vraiment l’ENFER. Le directeur ne cesse de nous POSER DES QUESTIONS... Et si on se trompe, il nous force à jouer à SES PETITS JEUX TORDUS. Je sais que vous me diriez de « tenir bon », mais si je ne PART PAS MAINTENANT, JE NE PENSE PAS QUE JE M’EN SORTIRAI VIVANT. (rire) Oh, et au cas où ce ne serait pas clair : je l’ai tué."
      }
     ]
    },
@@ -9313,11 +9313,11 @@
     "versions": [
      {
       "file": "VO/117536/audio/0.ogg",
-      "subtitle": "Safe players, choose a player who you think will die."
+      "subtitle": "Joueurs en sécurité, choisissez un joueur que vous pensez qui va mourir."
      },
      {
       "file": "VO/117536/audio/1.ogg",
-      "subtitle": "Safe players, vote on who you think will die."
+      "subtitle": "Joueurs en sécurité, votez pour la personne que vous pensez qui va mourir."
      }
     ]
    },
@@ -9329,23 +9329,23 @@
     "versions": [
      {
       "file": "VO/117537/audio/0.ogg",
-      "subtitle": "I’ve got this, mother! They’re getting a harder question now!"
+      "subtitle": "J’ai compris, mère ! Ils vont maintenant avoir une question plus difficile !"
      },
      {
       "file": "VO/117537/audio/1.ogg",
-      "subtitle": "Mommy, I’ve got this under control! They’re getting a harder question."
+      "subtitle": "Maman, je maîtrise la situation ! Ils vont avoir une question plus difficile."
      },
      {
       "file": "VO/117537/audio/2.ogg",
-      "subtitle": "Sorry, mother! I’m gonna give them an extra hard question!"
+      "subtitle": "Désolé, mère ! Je vais leur donner une question encore plus difficile !"
      },
      {
       "file": "VO/117537/audio/3.ogg",
-      "subtitle": "I’ll make this up to you, mother! Here’s a harder question."
+      "subtitle": "Je vais me racheter, mère ! Voici une question plus difficile."
      },
      {
       "file": "VO/117537/audio/4.ogg",
-      "subtitle": "I’m prepared for this, mommy! Here’s an extra hard question."
+      "subtitle": "Je suis prêt pour ça, maman ! Voici une question encore plus difficile."
      }
     ]
    },
@@ -9357,7 +9357,7 @@
     "versions": [
      {
       "file": "VO/117733/audio/0.ogg",
-      "subtitle": "You will receive a prompt. Try to answer with a valid, unique answer. If you’re an at-risk player and somebody matches your answer, you die!"
+      "subtitle": "Vous recevrez une question. Essayez d’y répondre avec une réponse valide et unique. Si vous êtes en danger et que quelqu'un d'autre donne la même réponse que vous, vous mourez !"
      }
     ]
    },
@@ -9369,7 +9369,7 @@
     "versions": [
      {
       "file": "VO/117734/audio/0.ogg",
-      "subtitle": "Which one of you won? Let me dramatically tease this out...."
+      "subtitle": "Qui d’entre vous a gagné ? Laissez-moi faire durer le suspense..."
      }
     ]
    },
@@ -9381,7 +9381,7 @@
     "versions": [
      {
       "file": "VO/117784/audio/0.ogg",
-      "subtitle": "Oh no, this is going to upset mother."
+      "subtitle": "Oh non, cela va contrarier la mère."
      }
     ]
    },
@@ -9393,19 +9393,19 @@
     "versions": [
      {
       "file": "VO/117785/audio/0.ogg",
-      "subtitle": "I promise I’ll do better next time, mommy!"
+      "subtitle": "Je promets de faire mieux la prochaine fois, maman !"
      },
      {
       "file": "VO/117785/audio/1.ogg",
-      "subtitle": "It’s just a fluke! You know your baby boy likes to kill!"
+      "subtitle": "C’est juste un coup de malchance ! Tu sais bien que ton petit garçon adore tuer !"
      },
      {
       "file": "VO/117785/audio/2.ogg",
-      "subtitle": "Please don’t tell dad!"
+      "subtitle": "Ne le dis surtout pas à papa !"
      },
      {
       "file": "VO/117785/audio/3.ogg",
-      "subtitle": "Give me another chance, mommy!"
+      "subtitle": "Donne-moi une autre chance, maman !"
      }
     ]
    },
@@ -9417,7 +9417,7 @@
     "versions": [
      {
       "file": "VO/117786/audio/0.ogg",
-      "subtitle": "Listen, voice of my dead mother who lives in my head, rent free I’ve got a plan. Here’s a HARDER question."
+      "subtitle": "Écoute, voix de ma mère défunte qui vit dans ma tête sans loyer, j’ai un plan. Voici une question PLUS DIFFICILE."
      }
     ]
    },
@@ -9429,7 +9429,7 @@
     "versions": [
      {
       "file": "VO/117789/audio/0.ogg",
-      "subtitle": "I know I have to do better. I’m not crazy, voice of my dead mother who telepathically talks to me!"
+      "subtitle": "Je sais que je dois faire mieux. Je ne suis pas fou, voix de ma mère défunte qui me parle par télépathie !"
      }
     ]
    },
@@ -9441,7 +9441,7 @@
     "versions": [
      {
       "file": "VO/117790/audio/0.ogg",
-      "subtitle": "Uh-oh. This is going to upset the voice of my dead mother who lives inside my head."
+      "subtitle": "Oh là là... Ça va contrarier la voix de ma mère défunte qui vit dans ma tête."
      }
     ]
    },
@@ -9453,23 +9453,23 @@
     "versions": [
      {
       "file": "VO/117866/audio/0.ogg",
-      "subtitle": "And some thread to those that didn’t get hit."
+      "subtitle": "Et du fil pour ceux qui n’ont pas été touchés."
      },
      {
       "file": "VO/117866/audio/1.ogg",
-      "subtitle": "If you didn’t get hit, I’m giving you some thread."
+      "subtitle": "Si vous n’avez pas été touchés, je vous donne un peu de fil."
      },
      {
       "file": "VO/117866/audio/2.ogg",
-      "subtitle": "And some thread to those that didn’t get struck."
+      "subtitle": "Et du fil pour ceux qui n’ont pas été atteints."
      },
      {
       "file": "VO/117866/audio/3.ogg",
-      "subtitle": "If an arrow didn’t strike you, a bonus is due!"
+      "subtitle": "Si une flèche ne vous a pas touché, un bonus vous est due !"
      },
      {
       "file": "VO/117866/audio/4.ogg",
-      "subtitle": "Now to reward those that came out unscathed."
+      "subtitle": "Maintenant, pour récompenser ceux qui sont sortis indemnes."
      }
     ]
    },
@@ -9481,7 +9481,7 @@
     "versions": [
      {
       "file": "VO/117867/audio/0.ogg",
-      "subtitle": "Killed players vote on who should lose a finger. That player loses a random trivia answer until the final round."
+      "subtitle": "Les joueurs tués voteront pour décider qui perdra un doigt. Ce joueur perdra une réponse aléatoire à la question jusqu'à la manche finale."
      }
     ]
    },
@@ -9493,27 +9493,27 @@
     "versions": [
      {
       "file": "VO/117868/audio/0.ogg",
-      "subtitle": "Give me your digits. It’ s time to play Finger Vote"
+      "subtitle": "Donnez-moi vos doigts. C’est l’heure de jouer au Vote des Doigts."
      },
      {
       "file": "VO/117868/audio/1.ogg",
-      "subtitle": "Surprise! You all have fingers.. and I’m going to chop them off."
+      "subtitle": "Surprise ! Vous avez tous des doigts... et je vais vous les couper."
      },
      {
       "file": "VO/117868/audio/2.ogg",
-      "subtitle": "Chop, chop, it’s time to play Finger Vote!"
+      "subtitle": "Et on coupe, c’est l’heure de jouer au Vote des Doigts !"
      },
      {
       "file": "VO/117868/audio/3.ogg",
-      "subtitle": "It’s time to pay the finger tax."
+      "subtitle": "C’est l’heure de payer l’impôt du doigt."
      },
      {
       "file": "VO/117868/audio/4.ogg",
-      "subtitle": "It may not look like it, but I made you with too many fingers. Let’s fix that."
+      "subtitle": "Ça ne se voit peut-être pas, mais je vous ai créés avec trop de doigts. Rectifions ça."
      },
      {
       "file": "VO/117868/audio/5.ogg",
-      "subtitle": "Don’t give me the finger because I’m going to take it from you."
+      "subtitle": "Ne me faites pas un doigt d’honneur, car je vais vous le prendre quoi qu'il arrive."
      }
     ]
    },
@@ -9525,7 +9525,7 @@
     "versions": [
      {
       "file": "VO/117869/audio/0.ogg",
-      "subtitle": "It’s time for a little retribution!"
+      "subtitle": "C’est l’heure de régler quelques comptes !"
      }
     ]
    },
@@ -9537,11 +9537,11 @@
     "versions": [
      {
       "file": "VO/117870/audio/0.ogg",
-      "subtitle": "Who should lose a finger? Vote now."
+      "subtitle": "Qui devrait perdre un doigt ? Votez maintenant."
      },
      {
       "file": "VO/117870/audio/1.ogg",
-      "subtitle": "Hmmm... who should lose a finger? Vote now."
+      "subtitle": "Hummm... qui devrait perdre un doigt ? Votez maintenant."
      }
     ]
    },
@@ -9553,23 +9553,23 @@
     "versions": [
      {
       "file": "VO/117871/audio/0.ogg",
-      "subtitle": "Ok, gang, whose finger are we cutting off this time?"
+      "subtitle": "Bon, les amis, à qui allons-nous couper un doigt cette fois ?"
      },
      {
       "file": "VO/117871/audio/1.ogg",
-      "subtitle": "Whose finger am I chopping off now?"
+      "subtitle": "À qui vais-je couper un doigt maintenant ?"
      },
      {
       "file": "VO/117871/audio/2.ogg",
-      "subtitle": "Daddy needs a new finger to cut off. Tell me who’ll it be."
+      "subtitle": "Papa a besoin d’un nouveau doigt à couper. Dites-moi qui ce sera."
      },
      {
       "file": "VO/117871/audio/3.ogg",
-      "subtitle": "It’s once again time to reduce the finger population."
+      "subtitle": "C’est encore l’heure de réduire la population de doigts."
      },
      {
       "file": "VO/117871/audio/4.ogg",
-      "subtitle": "My blade is nice and dull. Whose finger am I cutting off this time?"
+      "subtitle": "Ma lame est bien aiguisée. À qui vais-je couper un doigt cette fois ?"
      }
     ]
    },
@@ -9581,23 +9581,23 @@
     "versions": [
      {
       "file": "VO/117872/audio/0.ogg",
-      "subtitle": "Let’s see those votes."
+      "subtitle": "Voyons ces votes."
      },
      {
       "file": "VO/117872/audio/1.ogg",
-      "subtitle": "And here’s how you all voted."
+      "subtitle": "Et voici comment vous avez tous voté."
      },
      {
       "file": "VO/117872/audio/2.ogg",
-      "subtitle": "Let’s see how the group voted."
+      "subtitle": "Voyons comment le groupe a voté."
      },
      {
       "file": "VO/117872/audio/3.ogg",
-      "subtitle": "Here are the results."
+      "subtitle": "Voici les résultats."
      },
      {
       "file": "VO/117872/audio/4.ogg",
-      "subtitle": "The votes are in."
+      "subtitle": "Les votes sont connus."
      }
     ]
    },
@@ -9609,27 +9609,27 @@
     "versions": [
      {
       "file": "VO/117873/audio/0.ogg",
-      "subtitle": "They picked you."
+      "subtitle": "C’est vous qu’ils ont choisi."
      },
      {
       "file": "VO/117873/audio/1.ogg",
-      "subtitle": "The group obviously dislikes YOU!"
+      "subtitle": "Le groupe VOUS déteste clairement !"
      },
      {
       "file": "VO/117873/audio/2.ogg",
-      "subtitle": "You there. Brace yourself, this is gonna hurt."
+      "subtitle": "Vous, là ! Préparez-vous, ça va faire mal."
      },
      {
       "file": "VO/117873/audio/3.ogg",
-      "subtitle": "Looks like my next victim is... you!"
+      "subtitle": "On dirait que ma prochaine victime... c’est vous !"
      },
      {
       "file": "VO/117873/audio/4.ogg",
-      "subtitle": "This group thinks you have too many fingers."
+      "subtitle": "Ce groupe pense que vous avez trop de doigts."
      },
      {
       "file": "VO/117873/audio/5.ogg",
-      "subtitle": "Huh.I knew they were going to pick you!"
+      "subtitle": "Euh. Je savais qu’ils allaient vous choisir !"
      }
     ]
    },
@@ -9641,31 +9641,31 @@
     "versions": [
      {
       "file": "VO/117874/audio/0.ogg",
-      "subtitle": "A tie? Fine, I’ll just pick for you then."
+      "subtitle": "Égalité ? Bon, je vais choisir pour vous, alors."
      },
      {
       "file": "VO/117874/audio/1.ogg",
-      "subtitle": "A tie! Ok, I’ll just pick the player that annoys me the most."
+      "subtitle": "Égalité ! Bon, je vais choisir le joueur qui m’énerve le plus."
      },
      {
       "file": "VO/117874/audio/2.ogg",
-      "subtitle": "A tie?! Do I have to do everything around here!"
+      "subtitle": "Une égalité ?! Faut-il vraiment tout faire ici ?!"
      },
      {
       "file": "VO/117874/audio/3.ogg",
-      "subtitle": "A tie?! Ok, don’t worry. I have some complicated tie-breaking rules. JUST KIDDING! I’ll, uh, choose you!"
+      "subtitle": "Une égalité ?! Bon, ne vous inquiétez pas. J’ai des règles compliquées pour les égalités. JE RIGOLE ! Je... euh, je vous choisis !"
      },
      {
       "file": "VO/117874/audio/4.ogg",
-      "subtitle": "All you had to do was reach a simple majority! Fine, I’ll decide. It’s YOU!"
+      "subtitle": "Tout ce que vous aviez à faire, c’était obtenir une majorité simple ! D'accord, je décide. C’est VOUS !"
      },
      {
       "file": "VO/117874/audio/5.ogg",
-      "subtitle": "Looks like democracy is dead. Fine, I’ll just choose YOU."
+      "subtitle": "On dirait que la démocratie est morte. D'accord, je vais choisir, VOUS."
      },
      {
       "file": "VO/117874/audio/6.ogg",
-      "subtitle": "A tie! Cringeeee! Fine, I pick you!"
+      "subtitle": "Égalité ! Quelle honte ! Ok, je choisis, vous !"
      }
     ]
    },
@@ -9677,15 +9677,15 @@
     "versions": [
      {
       "file": "VO/117875/audio/0.ogg",
-      "subtitle": "Your accomplishments earn you some thread."
+      "subtitle": "Vos accomplissements vous valent un peu de fil."
      },
      {
       "file": "VO/117875/audio/1.ogg",
-      "subtitle": "From now on, you’ll get rewarded with thread."
+      "subtitle": "À partir de maintenant, vous serez récompensé(e)s par du fil."
      },
      {
       "file": "VO/117875/audio/2.ogg",
-      "subtitle": "Here’s some thread. The more you have by dawn, the better off you’ll be."
+      "subtitle": "Voici un peu de fil. Plus vous en aurez avant l’aube, mieux ce sera pour vous."
      }
     ]
    },
@@ -9696,13 +9696,13 @@
    "audio": {
     "versions": [
      {
-      "subtitle": "Some thread to those that didn’t get poisoned."
+      "subtitle": "Un peu de fil pour ceux qui n’ont pas été empoisonnés."
      },
      {
-      "subtitle": "Here’s some thread for not drinking any poison."
+      "subtitle": "Voici un peu de fil pour ne pas avoir bu de poison."
      },
      {
-      "subtitle": "Those that chose wisely get some thread."
+      "subtitle": "Ceux qui ont choisi judicieusement reçoivent un peu de fil."
      }
     ]
    },
@@ -9714,15 +9714,15 @@
     "versions": [
      {
       "file": "VO/118192/audio/0.ogg",
-      "subtitle": "Survivors earned some thread."
+      "subtitle": "Les survivants ont gagné un peu de fil."
      },
      {
       "file": "VO/118192/audio/1.ogg",
-      "subtitle": "Ugh survivors get some thread."
+      "subtitle": "Argh, les survivants reçoivent un peu de fil."
      },
      {
       "file": "VO/118192/audio/2.ogg",
-      "subtitle": "Here’s some thread for those that chose wisely."
+      "subtitle": "Voici un peu de fil pour ceux qui ont choisi judicieusement."
      }
     ]
    },
@@ -9734,7 +9734,7 @@
     "versions": [
      {
       "file": "VO/118204/audio/0.ogg",
-      "subtitle": "I’ll rebuild you so I can keep KILLING you. And it’s going to cost you some of your thread each time."
+      "subtitle": "Je vous reconstruirai pour pouvoir continuer à vous TUER. Et cela vous coûtera une partie de votre fil à chaque fois."
      }
     ]
    },
@@ -9746,7 +9746,7 @@
     "versions": [
      {
       "file": "VO/118272/audio/0.ogg",
-      "subtitle": "I’m gonna be circling you with a chainsaw."
+      "subtitle": "Je vais vous encercler d'une tronçonneuse."
      }
     ]
    },
@@ -9758,7 +9758,7 @@
     "versions": [
      {
       "file": "VO/118273/audio/0.ogg",
-      "subtitle": "I’ll show you a picture of where I’ll stab"
+      "subtitle": "Je vous montrerai une image de l’endroit où je vais frapper."
      }
     ]
    },
@@ -9770,7 +9770,7 @@
     "versions": [
      {
       "file": "VO/118274/audio/0.ogg",
-      "subtitle": "Use the graffiti to figure out where it is and get out of the way."
+      "subtitle": "Utilisez les graffitis pour déterminer où je vais frapper pour vous en éloigner."
      }
     ]
    },
@@ -9782,7 +9782,7 @@
     "versions": [
      {
       "file": "VO/118275/audio/0.ogg",
-      "subtitle": "If my chainsaw touches you, you lose!"
+      "subtitle": "Si ma tronçonneuse vous touche, vous perdez !"
      }
     ]
    },
@@ -9794,7 +9794,7 @@
     "versions": [
      {
       "file": "VO/118334/audio/0.ogg",
-      "subtitle": "Everyone started with a thread count of 500. Now let’s update those numbers."
+      "subtitle": "Tout le monde a commencé avec un compteur de fil à 500. Maintenant, mettons ces chiffres à jour."
      }
     ]
    },
@@ -9806,7 +9806,7 @@
     "versions": [
      {
       "file": "VO/118366/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky."
+      "subtitle": "Un tas de globes oculaires va tomber du ciel."
      }
     ]
    },
@@ -9818,7 +9818,7 @@
     "versions": [
      {
       "file": "VO/118367/audio/0.ogg",
-      "subtitle": "Guess how many fall INSIDE the vessel."
+      "subtitle": "Devinez combien en atterriront DANS le récipient."
      }
     ]
    },
@@ -9830,7 +9830,7 @@
     "versions": [
      {
       "file": "VO/118368/audio/0.ogg",
-      "subtitle": "If you’re the FURTHEST OFF, I will PUNISH you!"
+      "subtitle": "Si vous êtes le ou la plus ÉLOIGNÉ(E), je vous PUNIRAI !"
      }
     ]
    },
@@ -9842,7 +9842,7 @@
     "versions": [
      {
       "file": "VO/118369/audio/0.ogg",
-      "subtitle": "A bunch of eyeballs are going to fall from the sky."
+      "subtitle": "Un tas de globes oculaires va tomber du ciel."
      }
     ]
    },
@@ -9854,7 +9854,7 @@
     "versions": [
      {
       "file": "VO/118371/audio/0.ogg",
-      "subtitle": "Guess how many fall INSIDE the vessel."
+      "subtitle": "Devinez combien en atterriront DANS le récipient."
      }
     ]
    },
@@ -9866,7 +9866,7 @@
     "versions": [
      {
       "file": "VO/118372/audio/0.ogg",
-      "subtitle": "If a SAFE PLAYER guesses BETTER than you, you DIE!"
+      "subtitle": "Si un JOUEUR EN SÉCURITÉ devine MIEUX que vous, vous MOUREZ !"
      }
     ]
    },
@@ -9878,7 +9878,7 @@
     "versions": [
      {
       "file": "VO/118373/audio/0.ogg",
-      "subtitle": "You will be presented an offering cup containing a certain amount of blood."
+      "subtitle": "On vous présentera un coupe d'offrande contenant une certaine quantité de sang."
      }
     ]
    },
@@ -9890,7 +9890,7 @@
     "versions": [
      {
       "file": "VO/118374/audio/0.ogg",
-      "subtitle": "Estimate how much MORE blood is needed to fill it."
+      "subtitle": "Estimez la quantité SUPPLÉMENTAIRE de sang nécessaire pour le remplir."
      }
     ]
    },
@@ -9902,7 +9902,7 @@
     "versions": [
      {
       "file": "VO/118375/audio/0.ogg",
-      "subtitle": "In your measuring cup, TAP and HOLD that MISSING AMOUNT on your device."
+      "subtitle": "Sur votre verre doseur, MAINTENEZ APPUYÉ cette QUANTITÉ MANQUANTE sur votre appareil."
      }
     ]
    },
@@ -9914,7 +9914,7 @@
     "versions": [
      {
       "file": "VO/118376/audio/0.ogg",
-      "subtitle": "The measuring cup will then be emptied into your offering cup."
+      "subtitle": "Le verre doseur sera ensuite vidé dans votre coupe d'offrande."
      }
     ]
    },
@@ -9926,7 +9926,7 @@
     "versions": [
      {
       "file": "VO/118377/audio/0.ogg",
-      "subtitle": "I’ll PUNISH you if you OVERFLOW it."
+      "subtitle": "Je vous PUNIRAI si vous le faites DÉBORDER."
      }
     ]
    },
@@ -9938,7 +9938,7 @@
     "versions": [
      {
       "file": "VO/118378/audio/0.ogg",
-      "subtitle": "Or if you have LESS than a SAFE PLAYER."
+      "subtitle": "Ou si vous avez MOINS qu’un JOUEUR EN SÉCURITÉ."
      }
     ]
    },
@@ -9950,7 +9950,7 @@
     "versions": [
      {
       "file": "VO/118381/audio/0.ogg",
-      "subtitle": "or if you have the LEAST AMOUNT of blood."
+      "subtitle": "Ou si vous avez la plus PETITE QUANTITÉ de sang."
      }
     ]
    },
@@ -9962,7 +9962,7 @@
     "versions": [
      {
       "file": "VO/118382/audio/0.ogg",
-      "subtitle": "Solve as many simple math equations as you can before time runs out."
+      "subtitle": "Résolvez autant d’équations mathématiques simples que possible avant la fin du temps imparti."
      }
     ]
    },
@@ -9974,7 +9974,7 @@
     "versions": [
      {
       "file": "VO/118383/audio/0.ogg",
-      "subtitle": "But be careful. If you make a mistake, you sit in a little time out."
+      "subtitle": "Mais attention, si vous faites une erreur, vous serez mis en pause pour un petit moment."
      }
     ]
    },
@@ -9986,7 +9986,7 @@
     "versions": [
      {
       "file": "VO/118384/audio/0.ogg",
-      "subtitle": "If your score is the LOWEST, you DIE!"
+      "subtitle": "Si votre score est le PLUS BAS, vous MOUREZ !"
      }
     ]
    },
@@ -9998,7 +9998,7 @@
     "versions": [
      {
       "file": "VO/118385/audio/0.ogg",
-      "subtitle": "If a SAFE PLAYER scores BETTER than you, you DIE!"
+      "subtitle": "Si un JOUEUR EN SÉCURITÉ obtient un MEILLEUR score que vous, vous MOUREZ !"
      }
     ]
    },
@@ -10010,7 +10010,7 @@
     "versions": [
      {
       "file": "VO/118386/audio/0.ogg",
-      "subtitle": "Everyone will secretly pick a chalice to POISON."
+      "subtitle": "Tout le monde choisira secrètement un calice à EMPOISONNER."
      }
     ]
    },
@@ -10022,7 +10022,7 @@
     "versions": [
      {
       "file": "VO/118387/audio/0.ogg",
-      "subtitle": "Then everyone picks a chalice to DRINK from."
+      "subtitle": "Ensuite, tout le monde choisira un calice dans lequel BOIRE."
      }
     ]
    },
@@ -10034,7 +10034,7 @@
     "versions": [
      {
       "file": "VO/118388/audio/0.ogg",
-      "subtitle": "If your drink contains poison, you DIE!"
+      "subtitle": "Si votre boisson contient du poison, vous MOUREZ !"
      }
     ]
    },
@@ -10046,7 +10046,7 @@
     "versions": [
      {
       "file": "VO/118389/audio/0.ogg",
-      "subtitle": "Each SAFE PLAYER will secretly POISON a chalice."
+      "subtitle": "Chaque JOUEUR EN SÉCURITÉ EMPOISONNERA secrètement un calice."
      }
     ]
    },
@@ -10058,7 +10058,7 @@
     "versions": [
      {
       "file": "VO/118390/audio/0.ogg",
-      "subtitle": "AT-RISK players will then choose a chalice to DRINK from."
+      "subtitle": "Les joueurs EN DANGER choisiront ensuite un calice dans lequel BOIRE."
      }
     ]
    },
@@ -10070,7 +10070,7 @@
     "versions": [
      {
       "file": "VO/118391/audio/0.ogg",
-      "subtitle": "If your drink contains POISON, you DIE!"
+      "subtitle": "Si votre boisson contient du POISON, vous MOUREZ !"
      }
     ]
    },
@@ -10082,7 +10082,7 @@
     "versions": [
      {
       "file": "VO/118392/audio/0.ogg",
-      "subtitle": "I’m replacing traditional trivia with OPINION-BASED questions."
+      "subtitle": "Je remplace les questions de culture générale par des questions BASÉES SUR L’OPINION."
      }
     ]
    },
@@ -10094,7 +10094,7 @@
     "versions": [
      {
       "file": "VO/118396/audio/0.ogg",
-      "subtitle": "If you answer in the group’s MINORITY, then you get sent to the KILLING FLOOR!"
+      "subtitle": "Si votre réponse fait partie de la MINORITÉ du groupe, then you get sent to the KILLING FLOOR!"
      }
     ]
    },
@@ -10106,7 +10106,7 @@
     "versions": [
      {
       "file": "VO/118414/audio/0.ogg",
-      "subtitle": "You’ll always be the one that got away."
+      "subtitle": "Vous serez toujours celui ou celle qui a échappé(e) à mon emprise."
      }
     ]
    },
@@ -10118,11 +10118,11 @@
     "versions": [
      {
       "file": "VO/118470/audio/0.ogg",
-      "subtitle": "EVERYBODY got the hard question right? Ah, screw it. I don’t have patience for this. Let’s go to the next game."
+      "subtitle": "TOUT LE MONDE a réussi la question difficile ? Bon, j’en ai assez. Je n’ai pas la patience pour ça. Passons au jeu suivant."
      },
      {
       "file": "VO/118470/audio/1.ogg",
-      "subtitle": "You’re making me look like a frickin’ clown. That’s it. Follow me."
+      "subtitle": "Vous me faites passer pour un vrai clown. Ça suffit. Suivez-moi."
      }
     ]
    },
@@ -10134,7 +10134,7 @@
     "versions": [
      {
       "file": "VO/118472/audio/0.ogg",
-      "subtitle": "Let’s do another one."
+      "subtitle": "Faisons-en un autre."
      }
     ]
    },
@@ -10146,27 +10146,27 @@
     "versions": [
      {
       "file": "VO/118745/audio/0.ogg",
-      "subtitle": "Oh mighty spirits, what is the category?"
+      "subtitle": "Ô esprits puissants, quelle est la catégorie ?"
      },
      {
       "file": "VO/118745/audio/1.ogg",
-      "subtitle": "What challenge does the great unknown give us today?"
+      "subtitle": "Quel défi le grand inconnu nous réserve-t-il aujourd’hui ?"
      },
      {
       "file": "VO/118745/audio/2.ogg",
-      "subtitle": "Peer into the crystal, and look upon in awe…"
+      "subtitle": "Plongez dans le cristal et contemplez-le avec émerveillement..."
      },
      {
       "file": "VO/118745/audio/3.ogg",
-      "subtitle": "Out of the infinite possibilities, our mighty orb has tooted out THIS."
+      "subtitle": "Parmi d’innombrables possibilités, notre sphère sacrée a choisi... ÇA."
      },
      {
       "file": "VO/118745/audio/4.ogg",
-      "subtitle": "Ghosts of the camp, show us our fates!"
+      "subtitle": "Fantômes du camp, montrez-nous notre destin !"
      },
      {
       "file": "VO/118745/audio/5.ogg",
-      "subtitle": "Ok, spirits of the dead, give us some content!"
+      "subtitle": "Bon, esprits des morts, donnez-nous du contenu !"
      }
     ]
    },
@@ -10178,15 +10178,15 @@
     "versions": [
      {
       "file": "VO/118746/audio/0.ogg",
-      "subtitle": "Now try to write a valid, unique answer."
+      "subtitle": "Maintenant, essayez de trouver une réponse valide et unique."
      },
      {
       "file": "VO/118746/audio/1.ogg",
-      "subtitle": "See if you can pick an answer others do not."
+      "subtitle": "Voyons si vous pouvez choisir une réponse que les autres ne choisiront pas."
      },
      {
       "file": "VO/118746/audio/2.ogg",
-      "subtitle": "Now read the minds of others and pick a unique answer."
+      "subtitle": "Maintenant, lisez dans les pensées des autres et choisissez une réponse unique."
      }
     ]
    },
@@ -10198,11 +10198,11 @@
     "versions": [
      {
       "file": "VO/118748/audio/0.ogg",
-      "subtitle": "Did an at-risk player dupe this answer?"
+      "subtitle": "Un joueur en danger a-t-il dupé cette réponse ?"
      },
      {
       "file": "VO/118748/audio/1.ogg",
-      "subtitle": "Who put in that answer? Let’s find out."
+      "subtitle": "Qui a proposé cette réponse ? Découvrons-le."
      }
     ]
    },
@@ -10214,7 +10214,7 @@
     "versions": [
      {
       "file": "VO/118749/audio/0.ogg",
-      "subtitle": "At-risk players will choose a canoe to sit in. If you all pick the same canoe, nobody dies. But if it’s not unanimous, I’ll punish the heavier side."
+      "subtitle": "Les joueurs en danger choisiront un canoë dans lequel s'asseoir. Si vous choisissez tous le même canoë, personne ne meurt. Mais si ce n’est pas unanime, je punirai le côté le plus lourd."
      }
     ]
    },
@@ -10226,27 +10226,27 @@
     "versions": [
      {
       "file": "VO/118751/audio/0.ogg",
-      "subtitle": "I really need to fix up this dock. It’s a liability nightmare!"
+      "subtitle": "Il faut vraiment que je répare ce quai. C’est un vrai cauchemar en termes de sécurité !"
      },
      {
       "file": "VO/118751/audio/1.ogg",
-      "subtitle": "It’s a lovely night for a canoe drowning."
+      "subtitle": "Quelle belle nuit pour une noyade en canoë."
      },
      {
       "file": "VO/118751/audio/2.ogg",
-      "subtitle": "A dilapidated dock in the middle of the night. Finally, something relaxing."
+      "subtitle": "Un quai en ruine en pleine nuit. Enfin, quelque chose de relaxant."
      },
      {
       "file": "VO/118751/audio/3.ogg",
-      "subtitle": "Just like this dock, I’ve become dangerously unmoored!"
+      "subtitle": "Tout comme ce quai, je suis dangereusement à la dérive !"
      },
      {
       "file": "VO/118751/audio/4.ogg",
-      "subtitle": "Remember: wait 30 minutes after getting disemboweled before going swimming."
+      "subtitle": "Rappel : attendez 30 minutes après vous être fait éventrer avant d’aller nager."
      },
      {
       "file": "VO/118751/audio/5.ogg",
-      "subtitle": "This looks like a nice spot to DIE!"
+      "subtitle": "On dirait un bel endroit pour MOURIR !"
      }
     ]
    },
@@ -10258,7 +10258,7 @@
     "versions": [
      {
       "file": "VO/118752/audio/0.ogg",
-      "subtitle": "Since you’re an even-numbered group, I’m going to start by placing a dummy weight into one of the canoes."
+      "subtitle": "Comme vous êtes un nombre pair de joueurs, je vais commencer par placer un poids dans l’un des canoës."
      }
     ]
    },
@@ -10270,7 +10270,7 @@
     "versions": [
      {
       "file": "VO/118753/audio/0.ogg",
-      "subtitle": "And I’ll add a dummy as well."
+      "subtitle": "Et j’ajoute également un mannequin."
      }
     ]
    },
@@ -10282,7 +10282,7 @@
     "versions": [
      {
       "file": "VO/118754/audio/0.ogg",
-      "subtitle": "Safe players--choose a canoe to add some weight to."
+      "subtitle": "Joueurs en sécurité -- choisissez un canoë dans lequel ajouter du poids."
      }
     ]
    },
@@ -10294,11 +10294,11 @@
     "versions": [
      {
       "file": "VO/118755/audio/0.ogg",
-      "subtitle": "Before you lock in an answer, indicate which side you will choose. You can go back and forth as many times as you want in this phase."
+      "subtitle": "Avant de valider une réponse, indiquez quel côté vous choisirez. Vous pouvez changer d’avis autant de fois que vous le souhaitez pendant cette phase."
      },
      {
       "file": "VO/118755/audio/1.ogg",
-      "subtitle": "I’m going to give you some time to telegraph where you’ll go - nobody is locking in an answer YET."
+      "subtitle": "Je vous laisse un peu de temps pour signaler où vous irez — personne ne valide de réponse POUR L'INSTANT."
      }
     ]
    },
@@ -10310,11 +10310,11 @@
     "versions": [
      {
       "file": "VO/118756/audio/0.ogg",
-      "subtitle": "Alright, now it’s time to lock in your decision."
+      "subtitle": "Bien, maintenant, il est temps de valider votre décision."
      },
      {
       "file": "VO/118756/audio/1.ogg",
-      "subtitle": "It’s the real deal now. What are you going to do?"
+      "subtitle": "C’est maintenant que ça devient sérieux. Qu'allez-vous faire ?"
      }
     ]
    },
@@ -10326,7 +10326,7 @@
     "versions": [
      {
       "file": "VO/118757/audio/0.ogg",
-      "subtitle": "Oh, and just a reminder: if you all choose the same canoe, nobody dies."
+      "subtitle": "Oh, et juste pour rappel : si vous choisissez tous le même canoë, personne ne meurt."
      }
     ]
    },
@@ -10338,19 +10338,19 @@
     "versions": [
      {
       "file": "VO/118758/audio/0.ogg",
-      "subtitle": "Who is backstabbing whom? Let’s find out."
+      "subtitle": "Qui trahit qui ? Découvrons-le."
      },
      {
       "file": "VO/118758/audio/1.ogg",
-      "subtitle": "Ok, time to see where everyone went."
+      "subtitle": "Ok, il est temps de voir où chacun est allé."
      },
      {
       "file": "VO/118758/audio/2.ogg",
-      "subtitle": "Ok, you little backstabbers - where are you headed?"
+      "subtitle": "Ok vous, petits traîtres, où allez-vous ?"
      },
      {
       "file": "VO/118758/audio/3.ogg",
-      "subtitle": "Who overthought this one? Let’s find out."
+      "subtitle": "Qui a trop réfléchi ? Découvrons-le."
      }
     ]
    },
@@ -10362,15 +10362,15 @@
     "versions": [
      {
       "file": "VO/118808/audio/0.ogg",
-      "subtitle": "Aww shucks, you couldn’t have gotten that one right. You were missing the finger for it."
+      "subtitle": "Ohh zut alors, vous n’auriez pas pu trouver la bonne réponse. Il vous manquait le doigt pour ça."
      },
      {
       "file": "VO/118808/audio/1.ogg",
-      "subtitle": "Ah, what a shame, you were missing the finger needed for that answer."
+      "subtitle": "Ah, quel dommage, il vous manquait le doigt nécessaire pour cette réponse."
      },
      {
       "file": "VO/118808/audio/2.ogg",
-      "subtitle": "See, folks, your vote does count! Good work."
+      "subtitle": "Vous voyez, mesdames et messieurs, votre vote compte ! Bien joué."
      }
     ]
    },
@@ -10382,7 +10382,7 @@
     "versions": [
      {
       "file": "VO/118893/audio/0.ogg",
-      "subtitle": "evil laugh"
+      "subtitle": "rire maléfique"
      }
     ]
    },
@@ -10394,7 +10394,7 @@
     "versions": [
      {
       "file": "VO/118894/audio/0.ogg",
-      "subtitle": "Mommy made me eat my m&ms. Mommy made me eat my m&ms. Mommy made me eat my m&ms. Peter Piper picked a peck of pickled peppers. Peter Piper picked a peck of pickled peppers. Peter Piper picked a peck of pickled peppers."
+      "subtitle": "Maman m’a fait manger mes M&M’s. Maman m’a fait manger mes M&M’s. Maman m’a fait manger mes M&M’s. Peter Piper a cueilli un pichet de poivrons marinés. Peter Piper a cueilli un pichet de poivrons marinés. Peter Piper a cueilli un pichet de poivrons marinés."
      }
     ]
    },
@@ -10406,15 +10406,15 @@
     "versions": [
      {
       "file": "VO/118895/audio/0.ogg",
-      "subtitle": "Oh, you think you have better ears than the team of audio engineers I tortured to make this mix? Oh really? That’s interesting."
+      "subtitle": "Ah, vous pensez avoir l’ouïe plus fine que l'équipe d’ingénieurs du son que j’ai torturés pour créer ce mix ? Vraiment ? C’est intéressant."
      },
      {
       "file": "VO/118895/audio/1.ogg",
-      "subtitle": "Stop trying to silence my voice! I may be a deranged serial killer, but I have a right to express myself!"
+      "subtitle": "Arrêtez d’essayer de faire taire ma voix ! Je suis peut-être un tueur en série dérangé, mais j’ai le droit de m’exprimer !"
      },
      {
       "file": "VO/118895/audio/2.ogg",
-      "subtitle": "Oh I’m sorry was I talking too loudly?! Oh my god I must’ve made your cute , widdle ears bleed with my screaming. I am so sorry!"
+      "subtitle": "Oh, pardon, est-ce que je parlais trop fort ?! Mon Dieu, j’ai dû vous faire saigner ces petites oreilles mignonnes avec mes cris. Je suis tellement désolé !"
      }
     ]
    },
@@ -10426,7 +10426,7 @@
     "versions": [
      {
       "file": "VO/119075/audio/0.ogg",
-      "subtitle": "Oh, THERE you are!\n\nHello!\n\nAw, that’s so nice. Thank you!"
+      "subtitle": "Ah, vous voilà !\n\nBonjour !\n\nOh, c’est tellement gentil. Merci !"
      }
     ]
    },
@@ -10438,7 +10438,7 @@
     "versions": [
      {
       "file": "VO/119076/audio/0.ogg",
-      "subtitle": "Attention counselors... Summer camp is almost open. But only one of you will survive. Sure, take your time picking out the right bucket hat. That’ll save you. Huh, I guess the bucket hat helped. This time... (laughs manically, coughs) Where’s the camp nurse? Oh dang it. I killed her."
+      "subtitle": "Attention, animateurs... Le camp de vacances va bientôt ouvrir. Mais un seul d’entre vous en réchappera. Bien sûr, prenez votre temps pour choisir le bon bob. Ça vous sauvera. Hmm, je suppose que le bob a aidé. Cette fois... (rit frénétiquement, tousse) Où est l’infirmière du camp ? Oh, zut. Je l’ai tuée."
      }
     ]
    },
@@ -10462,7 +10462,7 @@
     "versions": [
      {
       "file": "VO/119184/audio/0.ogg",
-      "subtitle": "None of the at-risk players submitted a valid answer?! Ok... so you’re all dead, obviously. But just for funsies let’s see what the safe players entered."
+      "subtitle": "Aucun des joueurs en danger n’a soumis de réponse valide ?! Bon... vous êtes donc tous morts, évidemment. Mais juste pour le plaisir, voyons ce que les joueurs en sécurité ont entré."
      }
     ]
    },
@@ -10474,7 +10474,7 @@
     "versions": [
      {
       "file": "VO/119185/audio/0.ogg",
-      "subtitle": "And none of the safe players entered a correct answer. Wow, y’all are special."
+      "subtitle": "Et aucun des joueurs en sécurité n’a donné de bonne réponse. Waouh, vous êtes vraiment spéciaux."
      }
     ]
    },
@@ -10486,7 +10486,7 @@
     "versions": [
      {
       "file": "VO/119316/audio/0.ogg",
-      "subtitle": "And safe players, bet on what you think the outcome will be."
+      "subtitle": "Et vous, joueurs en sécurité, pariez sur ce que vous pensez être le résultat."
      }
     ]
    },
@@ -10498,7 +10498,7 @@
     "versions": [
      {
       "file": "VO/119332/audio/0.ogg",
-      "subtitle": "Your accomplishments earn you points"
+      "subtitle": "Vos accomplissements vous rapportent des points."
      }
     ]
    },
@@ -10510,7 +10510,7 @@
     "versions": [
      {
       "file": "VO/119333/audio/0.ogg",
-      "subtitle": "Sorting by points, with living players on top"
+      "subtitle": "Classement par points, avec les joueurs encore en vie en haut du classement."
      }
     ]
    },
@@ -10522,7 +10522,7 @@
     "versions": [
      {
       "file": "VO/119343/audio/0.ogg",
-      "subtitle": "You just earned some points"
+      "subtitle": "Vous venez de gagner des points."
      }
     ]
    },
@@ -10534,7 +10534,7 @@
     "versions": [
      {
       "file": "VO/119440/audio/0.ogg",
-      "subtitle": "Let’s ask the wheel"
+      "subtitle": "Demandons à la roue."
      }
     ]
    },
@@ -10546,7 +10546,7 @@
     "versions": [
      {
       "file": "VO/119441/audio/0.ogg",
-      "subtitle": "The better you did in that last minigame, the better your chance of reviving."
+      "subtitle": "Plus vous vous serez bien débrouillé(e) dans le dernier mini-jeu, plus vos chances de revenir seront élevées."
      }
     ]
    },
@@ -10558,23 +10558,23 @@
     "versions": [
      {
       "file": "VO/119474/audio/0.ogg",
-      "subtitle": "This game is the pits."
+      "subtitle": "Ce jeu, c'est l'enfer."
      },
      {
       "file": "VO/119474/audio/1.ogg",
-      "subtitle": "Let’s play Pits."
+      "subtitle": "Jouons aux Trous."
      },
      {
       "file": "VO/119474/audio/2.ogg",
-      "subtitle": "I can feel your heart rate spiking!"
+      "subtitle": "Je sens votre rythme cardiaque s’emballer !"
      },
      {
       "file": "VO/119474/audio/3.ogg",
-      "subtitle": "What’s wrong? Got a pit in your stomach?"
+      "subtitle": "Qu’y a-t-il ? T’as un creux dans l’estomac ?"
      },
      {
       "file": "VO/119474/audio/4.ogg",
-      "subtitle": "You’re going to FALL in love with this one."
+      "subtitle": "Vous allez TOMBER amoureux de celui-ci."
      }
     ]
    },
@@ -10586,7 +10586,7 @@
     "versions": [
      {
       "file": "VO/119475/audio/0.ogg",
-      "subtitle": "At-risk players will choose a pile of points. You keep it IF nobody else picks the same pile. Otherwise, you fall in!"
+      "subtitle": "Les joueurs en danger choisiront un tas de points. Vous le gardez SI personne d’autre ne choisit le même tas. Sinon, vous tombez dedans !"
      }
     ]
    },
@@ -10598,35 +10598,35 @@
     "versions": [
      {
       "file": "VO/119476/audio/0.ogg",
-      "subtitle": "Don’t you just want to curl up in these sleeping bags?"
+      "subtitle": "N’avez-vous pas juste envie de vous enrouler dans ces sacs de couchage ?"
      },
      {
       "file": "VO/119476/audio/1.ogg",
-      "subtitle": "Doesn’t this look relaxing?"
+      "subtitle": "Ça ne vous semble pas relaxant ?"
      },
      {
       "file": "VO/119476/audio/2.ogg",
-      "subtitle": "If you hate sleeping on a hard ground, you’re really gonna hate spikes."
+      "subtitle": "Si vous détestez dormir sur un sol dur, vous allez vraiment détester les piques."
      },
      {
       "file": "VO/119476/audio/3.ogg",
-      "subtitle": "What is camping but choosing to sleep on a bed of spikes?"
+      "subtitle": "Qu’est-ce que le camping, à part choisir de dormir sur un lit de piques ?"
      },
      {
       "file": "VO/119476/audio/4.ogg",
-      "subtitle": "Let’s chill about by the fire... and these beds of spikes!"
+      "subtitle": "Prenons un moment au coin du feu... et sur ces lits de piques !"
      },
      {
       "file": "VO/119476/audio/5.ogg",
-      "subtitle": "I can’t wait to show you my holes - oh god, that came out wrong."
+      "subtitle": "J’ai hâte de vous montrer mes trous - oh mon Dieu, ça sonnait mal."
      },
      {
       "file": "VO/119476/audio/6.ogg",
-      "subtitle": "You ever tried to wrestle out of a sleeping bag? THAT should be a Killing Floor!"
+      "subtitle": "Vous avez déjà essayé de vous extirper d’un sac de couchage ? ÇA doit être une épreuve de la zone de meurtre !"
      },
      {
       "file": "VO/119476/audio/7.ogg",
-      "subtitle": "Get ready to pick a sleeping bag to die in, I mean LIE in. Yeahhh, that’s the ticket."
+      "subtitle": "Préparez-vous à choisir un sac de couchage pour y mourir, enfin pour y dormir. Ouais, c’est ça."
      }
     ]
    },
@@ -10638,7 +10638,7 @@
     "versions": [
      {
       "file": "VO/119477/audio/0.ogg",
-      "subtitle": "Here are the points you can earn for each station."
+      "subtitle": "Voici les points que vous pouvez obtenir à chaque station."
      }
     ]
    },
@@ -10650,7 +10650,7 @@
     "versions": [
      {
       "file": "VO/119478/audio/0.ogg",
-      "subtitle": "Safe players, go ahead and sweeten these bait traps. If your spot attracts victims, you’ll get rewarded."
+      "subtitle": "Joueurs en sécurité, allez appâter ces pièges. Si votre endroit attire des victimes, vous serez récompensé(e)."
      }
     ]
    },
@@ -10662,7 +10662,7 @@
     "versions": [
      {
       "file": "VO/119479/audio/0.ogg",
-      "subtitle": "Which sleeping bag will you choose? Time to decide."
+      "subtitle": "Quel sac de couchage allez-vous choisir ? À vous de décider."
      }
     ]
    },
@@ -10674,27 +10674,27 @@
     "versions": [
      {
       "file": "VO/119480/audio/0.ogg",
-      "subtitle": "Who’s not waking up in the morning?"
+      "subtitle": "Qui ne se réveillera pas demain matin ?"
      },
      {
       "file": "VO/119480/audio/1.ogg",
-      "subtitle": "Who are the unfortunate co-sleepers going to be?"
+      "subtitle": "Qui seront les malheureux compagnons de lit ?"
      },
      {
       "file": "VO/119480/audio/2.ogg",
-      "subtitle": "Let’s see how this plays out."
+      "subtitle": "Voyons comment cela va se passer."
      },
      {
       "file": "VO/119480/audio/3.ogg",
-      "subtitle": "Ok, kiddos, lights out."
+      "subtitle": "Ok, les enfants, extinction des feux."
      },
      {
       "file": "VO/119480/audio/4.ogg",
-      "subtitle": "Ok, time for bed."
+      "subtitle": "Bon, c’est l’heure de dormir."
      },
      {
       "file": "VO/119480/audio/5.ogg",
-      "subtitle": "Where’s everyone going? Let’s find out."
+      "subtitle": "Où tout le monde va ? Découvrons-le."
      }
     ]
    },
@@ -10706,19 +10706,19 @@
     "versions": [
      {
       "file": "VO/119481/audio/0.ogg",
-      "subtitle": "Oh did I rig this so there’d always be a death? How rude."
+      "subtitle": "Oh, j’ai truqué ça pour qu’il y ait toujours un mort ? Quelle impolitesse."
      },
      {
       "file": "VO/119481/audio/1.ogg",
-      "subtitle": "I love a game that guarantees death!"
+      "subtitle": "J’adore un jeu qui garantit la mort !"
      },
      {
       "file": "VO/119481/audio/2.ogg",
-      "subtitle": "(laugh) Suckers."
+      "subtitle": "(rire) Les nuls."
      },
      {
       "file": "VO/119481/audio/3.ogg",
-      "subtitle": "Co-sleepers, follow me."
+      "subtitle": "Compagnons de lit, suivez-moi."
      }
     ]
    },
@@ -10730,7 +10730,7 @@
     "versions": [
      {
       "file": "VO/119639/audio/0.ogg",
-      "subtitle": "Ghosts, vote on who should die"
+      "subtitle": "Fantômes, votez pour désigner qui doit mourir."
      }
     ]
    },
@@ -10742,7 +10742,7 @@
     "versions": [
      {
       "file": "VO/119658/audio/0.ogg",
-      "subtitle": "There must be at least ONE sacrifice this hour."
+      "subtitle": "Il doit y avoir au moins UN sacrifice cette heure-ci."
      }
     ]
    },
@@ -10754,7 +10754,7 @@
     "versions": [
      {
       "file": "VO/119659/audio/0.ogg",
-      "subtitle": "I said there must be ONE sacrifice and I mean it!"
+      "subtitle": "J’ai dit qu’il devait y avoir UN sacrifice, et je le pense !"
      }
     ]
    },
@@ -10766,7 +10766,7 @@
     "versions": [
      {
       "file": "VO/119660/audio/0.ogg",
-      "subtitle": "Living Player with the fewest points dies NOW!"
+      "subtitle": "Le joueur vivant avec le moins de points meurt MAINTENANT !"
      }
     ]
    },
@@ -10778,7 +10778,7 @@
     "versions": [
      {
       "file": "VO/119661/audio/0.ogg",
-      "subtitle": "Everyone is dead so soon?"
+      "subtitle": "Tout le monde est déjà mort ?"
      }
     ]
    },
@@ -10790,7 +10790,7 @@
     "versions": [
      {
       "file": "VO/119662/audio/0.ogg",
-      "subtitle": "This won’t do - I’m bringing someone back"
+      "subtitle": "Ce n’est pas acceptable — je ramène quelqu’un à la vie."
      }
     ]
    },
@@ -10802,7 +10802,7 @@
     "versions": [
      {
       "file": "VO/119663/audio/0.ogg",
-      "subtitle": "Let’s put all old ghosts on this wheel..."
+      "subtitle": "Placons tous les anciens fantômes sur cette roue..."
      }
     ]
    },
@@ -10814,7 +10814,7 @@
     "versions": [
      {
       "file": "VO/119664/audio/0.ogg",
-      "subtitle": "The more points you have, the better your chances"
+      "subtitle": "Plus vous avez de points, meilleures sont vos chances."
      }
     ]
    },
@@ -10826,15 +10826,15 @@
     "versions": [
      {
       "file": "VO/120006/audio/0.ogg",
-      "subtitle": "Only one of you will survive the night."
+      "subtitle": "Un seul d’entre vous survivra à la nuit."
      },
      {
       "file": "VO/120006/audio/1.ogg",
-      "subtitle": "Only one of you will see dawn."
+      "subtitle": "Un seul d’entre vous verra l’aube."
      },
      {
       "file": "VO/120006/audio/2.ogg",
-      "subtitle": "The battle to see who survives the night starts now."
+      "subtitle": "La bataille pour savoir qui survivra à la nuit commence maintenant."
      }
     ]
    },
@@ -10846,7 +10846,7 @@
     "versions": [
      {
       "file": "VO/120008/audio/0.ogg",
-      "subtitle": "We’re down to one survivor, but it’s too early to go to the final round. You need to survive a bit longer..."
+      "subtitle": "Il ne reste plus qu’un survivant, mais il est trop tôt pour passer à la manche finale. Vous devez tenir un peu plus longtemps..."
      }
     ]
    },
@@ -10858,31 +10858,31 @@
     "versions": [
      {
       "file": "VO/120009/audio/0.ogg",
-      "subtitle": "There has to be at least one death this round."
+      "subtitle": "Il doit y avoir au moins un mort cette manche-ci."
      },
      {
       "file": "VO/120009/audio/1.ogg",
-      "subtitle": "One of you must die this round."
+      "subtitle": "L’un·e d’entre vous doit mourir cette manche-ci."
      },
      {
       "file": "VO/120009/audio/2.ogg",
-      "subtitle": "I’m taking at least one life force this round one way or another."
+      "subtitle": "Je prends au moins une force vitale cette manche-ci, d’une manière ou d’une autre."
      },
      {
       "file": "VO/120009/audio/3.ogg",
-      "subtitle": "This round demands at least one death."
+      "subtitle": "Cette manche-ci exige au moins un mort."
      },
      {
       "file": "VO/120009/audio/4.ogg",
-      "subtitle": "By the end of this round at least one of you will be dead."
+      "subtitle": "D’ici la fin de cette manche, au moins l’un d’entre vous sera mort."
      },
      {
       "file": "VO/120009/audio/5.ogg",
-      "subtitle": "I demand at least one dead doll this round!"
+      "subtitle": "J’exige au moins une poupée morte cette manche-c !"
      },
      {
       "file": "VO/120009/audio/6.ogg",
-      "subtitle": "At least one of you will be dead at the end of this round."
+      "subtitle": "Au moins l’un d’entre vous sera mort à la fin de cette manche."
      }
     ]
    },
@@ -10894,7 +10894,7 @@
     "versions": [
      {
       "file": "VO/120010/audio/0.ogg",
-      "subtitle": "We’ve reached the last round. One way or the other I’m going to kill one of you."
+      "subtitle": "Nous voici à la dernière manche. D’une manière ou d’une autre, je vais tuer l’un d’entre vous."
      }
     ]
    },
@@ -10906,19 +10906,19 @@
     "versions": [
      {
       "file": "VO/120011/audio/0.ogg",
-      "subtitle": "Only ghosts got it wrong. Let’s move on to a harder one."
+      "subtitle": "Seuls les fantômes se sont trompés. Passons à une question plus difficile."
      },
      {
       "file": "VO/120011/audio/1.ogg",
-      "subtitle": "The alive players got it right. So let’s move on to a harder one"
+      "subtitle": "Les joueurs encore en vie ont trouvé la bonne réponse. Alors passons à une question plus difficile."
      },
      {
       "file": "VO/120011/audio/2.ogg",
-      "subtitle": "Ugh, that didn’t fool any of the alive players. Let’s see if this does..."
+      "subtitle": "Argh, ça n’a trompé aucun des joueurs encore en vie. Voyons si celui-ci y parvient..."
      },
      {
       "file": "VO/120011/audio/3.ogg",
-      "subtitle": "Ok, alive players, let’s try a harder one."
+      "subtitle": "Bon, joueurs vivants, essayons une question plus difficile."
      }
     ]
    },
@@ -10930,7 +10930,7 @@
     "versions": [
      {
       "file": "VO/120012/audio/0.ogg",
-      "subtitle": "The lone survivor got it right again?! Ugh, fine, I suppose we can move on."
+      "subtitle": "Le dernier survivant a encore trouvé la bonne réponse ?! Argh, bon, je suppose que nous pouvons passer à autre chose."
      }
     ]
    },
@@ -10942,15 +10942,15 @@
     "versions": [
      {
       "file": "VO/120013/audio/0.ogg",
-      "subtitle": "Surprise! You’re a ghost now!"
+      "subtitle": "Surprise ! Vous êtes maintenant un fantôme !"
      },
      {
       "file": "VO/120013/audio/1.ogg",
-      "subtitle": "Sooo you died."
+      "subtitle": "Donc, vous êtes mort(e)."
      },
      {
       "file": "VO/120013/audio/2.ogg",
-      "subtitle": "Don’t freak out but you’re a ghost now!"
+      "subtitle": "Ne paniquez pas, mais vous êtes maintenant un fantôme !"
      }
     ]
    },
@@ -10962,7 +10962,7 @@
     "versions": [
      {
       "file": "VO/120015/audio/0.ogg",
-      "subtitle": "I’m bringing one of the ghosts back to life using the Reviver Wheel!"
+      "subtitle": "Je ramène l’un(e) des fantômes à la vie grâce à la Roue de la Renaissance !"
      }
     ]
    },
@@ -10974,11 +10974,11 @@
     "versions": [
      {
       "file": "VO/120016/audio/0.ogg",
-      "subtitle": "(sigh) It’s time to bring back the Reviver Wheel."
+      "subtitle": "(soupir) Il est temps de sortir la Roue de la Renaissance."
      },
      {
       "file": "VO/120016/audio/1.ogg",
-      "subtitle": "It’s time again for the Reviver Wheel!"
+      "subtitle": "C’est de nouveau l’heure de la Roue de la Renaissance !"
      }
     ]
    },
@@ -10990,15 +10990,15 @@
     "versions": [
      {
       "file": "VO/120017/audio/0.ogg",
-      "subtitle": "Spin, baby, spin!"
+      "subtitle": "Tourne, ma belle, tourne !"
      },
      {
       "file": "VO/120017/audio/1.ogg",
-      "subtitle": "Let’s give it a spin!"
+      "subtitle": "Faisons-la tourner !"
      },
      {
       "file": "VO/120017/audio/2.ogg",
-      "subtitle": "Let the wheel decide!"
+      "subtitle": "Que la roue décide !"
      }
     ]
    },
@@ -11010,15 +11010,15 @@
     "versions": [
      {
       "file": "VO/120018/audio/0.ogg",
-      "subtitle": "You get your life force back!"
+      "subtitle": "Vous retrouvez votre force vitale !"
      },
      {
       "file": "VO/120018/audio/1.ogg",
-      "subtitle": "The wheel has decided."
+      "subtitle": "La roue a parlé."
      },
      {
       "file": "VO/120018/audio/2.ogg",
-      "subtitle": "Welcome back to the living!"
+      "subtitle": "Re-bienvenue parmi les vivants !"
      }
     ]
    },
@@ -11030,19 +11030,19 @@
     "versions": [
      {
       "file": "VO/120019/audio/0.ogg",
-      "subtitle": "Nah, the game isn’t ending this way. I’m going to revive the lone ghost. YOU’RE WELCOME!"
+      "subtitle": "Non, le jeu ne se terminera pas comme ça. Je vais ramener le dernier fantôme à la vie. DE RIEN !"
      },
      {
       "file": "VO/120019/audio/1.ogg",
-      "subtitle": "I have a plan! The lone ghost before this round gets revived!"
+      "subtitle": "J’ai un plan ! Le dernier fantôme avant cette manche sera ramené à la vie !"
      },
      {
       "file": "VO/120019/audio/2.ogg",
-      "subtitle": "Ok, I’m giving the lone ghost last round its corporeal body back!"
+      "subtitle": "Bon, je redonne son corps charnel au dernier fantôme de la manche précédente !"
      },
      {
       "file": "VO/120019/audio/3.ogg",
-      "subtitle": "The game must go on so I’m reviving the ghost from last round!"
+      "subtitle": "Le jeu doit continuer, alors je ramène à la vie le fantôme de la dernière manche !"
      }
     ]
    },
@@ -11054,7 +11054,7 @@
     "versions": [
      {
       "file": "VO/120020/audio/0.ogg",
-      "subtitle": "Your ranking matters as it determines your starting position in the Final Round chase."
+      "subtitle": "Votre classement est important, car il détermine votre position de départ lors de la course de la manche finale."
      }
     ]
    },
@@ -11066,7 +11066,7 @@
     "versions": [
      {
       "file": "VO/120021/audio/0.ogg",
-      "subtitle": "I warned you there had to be a death this round! So I’m killing the alive player with the lowest score."
+      "subtitle": "Je vous avais prévenu qu’il devait y avoir un mort cette manche-ce ! Je vais donc tuer le joueur encore en vie avec le score le plus bas."
      }
     ]
    },
@@ -11078,7 +11078,7 @@
     "versions": [
      {
       "file": "VO/120022/audio/0.ogg",
-      "subtitle": "Oh, there’s a tie. I’ll choose.... YOU!"
+      "subtitle": "Oh, il y a égalité. Je choisis... VOUS !"
      }
     ]
    },
@@ -11090,7 +11090,7 @@
     "versions": [
      {
       "file": "VO/120023/audio/0.ogg",
-      "subtitle": "There’s only one player left alive. You know what that means..."
+      "subtitle": "Il ne reste plus qu’un seul joueur en vie. Vous savez ce que ça veut dire..."
      }
     ]
    },
@@ -11102,7 +11102,7 @@
     "versions": [
      {
       "file": "VO/120024/audio/0.ogg",
-      "subtitle": "Oh, did I mention that all the ghosts get to play too?"
+      "subtitle": "Oh, est-ce que j’ai mentionné que tous les fantômes jouent aussi ?"
      }
     ]
    },
@@ -11114,7 +11114,7 @@
     "versions": [
      {
       "file": "VO/120025/audio/0.ogg",
-      "subtitle": "If a ghost catches up to you, they will steal your life force! Then they can escape and win the game!"
+      "subtitle": "Si un fantôme vous rattrape, il vous volera votre force vitale ! Ensuite, il pourra s’échapper et gagner la partie !"
      }
     ]
    },
@@ -11126,7 +11126,7 @@
     "versions": [
      {
       "file": "VO/120026/audio/0.ogg",
-      "subtitle": "And ghosts get a third choice to help them catch up to you!"
+      "subtitle": "Et les fantômes ont un troisième choix pour les aider à vous rattraper !"
      }
     ]
    },
@@ -11138,7 +11138,7 @@
     "versions": [
      {
       "file": "VO/120027/audio/0.ogg",
-      "subtitle": "We have our first life swap!"
+      "subtitle": "Nous avons notre premier échange de vie !"
      }
     ]
    },
@@ -11150,7 +11150,7 @@
     "versions": [
      {
       "file": "VO/120028/audio/0.ogg",
-      "subtitle": "Alive players will always be positioned above ghosts."
+      "subtitle": "Les joueurs encore en vie seront toujours placés au-dessus des fantômes."
      }
     ]
    },
@@ -11162,7 +11162,7 @@
     "versions": [
      {
       "file": "VO/120029/audio/0.ogg",
-      "subtitle": "You know what, I’ll even throw in a few more."
+      "subtitle": "Vous savez quoi ? Je vais même en ajouter un peu plus."
      }
     ]
    },
@@ -11174,15 +11174,15 @@
     "versions": [
      {
       "file": "VO/120216/audio/0.ogg",
-      "subtitle": "Ugh, fine, then let’s try a harder one!"
+      "subtitle": "Argh, bon, essayons une question plus difficile alors !"
      },
      {
       "file": "VO/120216/audio/1.ogg",
-      "subtitle": "Ok, got it, that one was too easy. Then let’s try this one."
+      "subtitle": "Ok, j'ai compris, celle-ci était trop facile. Essayons celle-ci."
      },
      {
       "file": "VO/120216/audio/2.ogg",
-      "subtitle": "Alright, time to take the kid gloves off. Let’s see how you do with this one..."
+      "subtitle": "Bon, il est temps d’enlever les gants. Voyons comment vous allez vous en sortir avec celle-ci..."
      }
     ]
    },
@@ -11194,23 +11194,23 @@
     "versions": [
      {
       "file": "VO/120217/audio/0.ogg",
-      "subtitle": "Mommy, I’ve got this under control. I’m sending them all to the Killing Floor!"
+      "subtitle": "Maman, je maîtrise la situation. Je les envoie tous vers la zone de meurtre !"
      },
      {
       "file": "VO/120217/audio/1.ogg",
-      "subtitle": "I’ve got this, mother. I’m sending them all to the Killing Floor!"
+      "subtitle": "Je gère, mère. Je les envoie tous vers la zone de meurtre !"
      },
      {
       "file": "VO/120217/audio/2.ogg",
-      "subtitle": "Sorry, mother! I’m going to send them all to the Killing Floor!"
+      "subtitle": "Désolé, mère ! Je vais tous les envoyer vers la zone de meurtre !"
      },
      {
       "file": "VO/120217/audio/3.ogg",
-      "subtitle": "I’ll make this up to you, mother! I’m sending them all to the Killing Floor!"
+      "subtitle": "Je me rachèterai, mère ! Je les envoie tous vers la zone de meurtre !"
      },
      {
       "file": "VO/120217/audio/4.ogg",
-      "subtitle": "I’ve got a plan, mother! I’m sending them all to the Killing Floor!"
+      "subtitle": "J’ai un plan, mère ! Je les envoie tous vers la zone de meurtre !"
      }
     ]
    },
@@ -11222,15 +11222,15 @@
     "versions": [
      {
       "file": "VO/120218/audio/0.ogg",
-      "subtitle": "You killed them all too soon!"
+      "subtitle": "Tu les as tous tués trop tôt !"
      },
      {
       "file": "VO/120218/audio/1.ogg",
-      "subtitle": "They’re all dead before the Final Round!"
+      "subtitle": "Ils sont tous morts avant la manche finale !"
      },
      {
       "file": "VO/120218/audio/2.ogg",
-      "subtitle": "Everyone’s dead now, you fool!"
+      "subtitle": "Tout le monde est mort maintenant, imbécile !"
      }
     ]
    },
@@ -11242,19 +11242,19 @@
     "versions": [
      {
       "file": "VO/120219/audio/0.ogg",
-      "subtitle": "They all died again?! How disappointing."
+      "subtitle": "Ils sont tous morts à nouveau ?! Quel désastre."
      },
      {
       "file": "VO/120219/audio/1.ogg",
-      "subtitle": "Awk-ward. You killed them all again, son."
+      "subtitle": "Gênant. Tu les as tous tués à nouveau, mon fils."
      },
      {
       "file": "VO/120219/audio/2.ogg",
-      "subtitle": "Oh, sweetie, you did it again. Everyone’s dead."
+      "subtitle": "Oh, mon choux, tu l’as encore fait. Tout le monde est mort."
      },
      {
       "file": "VO/120219/audio/3.ogg",
-      "subtitle": "You keep repeating the same mistakes, boy."
+      "subtitle": "Tu répétes toujours les mêmes erreurs, mon garçon."
      }
     ]
    },
@@ -11266,7 +11266,7 @@
     "versions": [
      {
       "file": "VO/120280/audio/0.ogg",
-      "subtitle": "The more points you have, the better chances of reviving."
+      "subtitle": "Plus vous avez de points, meilleures sont vos chances de revenir à la vie."
      }
     ]
    },
@@ -11278,11 +11278,11 @@
     "versions": [
      {
       "file": "VO/120297/audio/0.ogg",
-      "subtitle": "Now who’s going to share a bed of spikes?"
+      "subtitle": "Alors, qui va partager un lit de piques ?"
      },
      {
       "file": "VO/120297/audio/1.ogg",
-      "subtitle": "Oopsie, looks like I don’t have enough sleeping bags for everyone..."
+      "subtitle": "Oups, il semble que je n’aie pas assez de sacs de couchage pour tout le monde..."
      }
     ]
    },
@@ -11294,7 +11294,7 @@
     "versions": [
      {
       "file": "VO/120303/audio/0.ogg",
-      "subtitle": "Hey, everyone, it’s me: Ryan Seacrest. Just kidding. It’s REDACTED. At the end of a hard day of killing, I like to unwind with a bubble bath and the goriest true crime podcast you have ever heard! Nothing puts me to sleep quite like hearing people profit off the pain of others. \n\nSpeaking of, I hear that there’s going to be a true crime podcast about ME! It’s called “Trivia Murder Podcast” and it’s premiering this Friday! Freaking finally! You know, you put in all this hard work hoping people will finally notice and it’s just nice to see that pay off.\n\nBut you can listen to the first episode of Trivia Murder Podcast on all major podcasting platforms later this week! I hear a new episode will be releasing every Friday, from now until when I open my Summer Camp in Early Access! AnI’ll be tuning in even though I hate the sound of my voice. Do I really sound like that?! Of course not."
+      "subtitle": "Hé, tout le monde, c’est moi : Ryan Seacrest. Non, je plaisante. C’est CENSURÉ. Après une longue journée de meurtres, j’aime me détendre avec un bain moussant et le podcast True Crime le plus sanglant que vous ayez jamais entendu ! Rien ne m’endort aussi bien que d’entendre des gens tirer profit de la souffrance des autres. \n\nD’ailleurs, j’ai entendu dire qu’il allait y avoir un podcast True Crime sur MOI ! Il s’appelle « Trivia Murder Podcast » et il sortira ce vendredi ! Enfin, putain ! Vous savez, on travaille dur en espérant que les gens remarquent enfin notre travail, et c’est agréable de voir que ça porte ses fruits.\n\nMais vous pourrez écouter le premier épisode de Trivia Murder Podcast sur toutes les plateformes de podcast majeures d’ici la fin de la semaine ! J’ai entendu dire qu’un nouvel épisode sortira chaque vendredi, jusqu’à l’ouverture de mon camp de vacances en accès anticipé ! Et j’écouterai, même si je déteste le son de ma voix. Est-ce que j'ai vraiment cette voix-là ?! Bien sûr que non."
      }
     ]
    },
@@ -11306,7 +11306,7 @@
     "versions": [
      {
       "file": "VO/120304/audio/0.ogg",
-      "subtitle": "Where’s the camp nurse? Ah dangit, I killed her."
+      "subtitle": "Où est l’infirmière du camp ? Oh, zut. Je l’ai tuée."
      }
     ]
    },
@@ -11318,7 +11318,7 @@
     "versions": [
      {
       "file": "VO/120440/audio/0.ogg",
-      "subtitle": "Since there hasn’t been a death in a while, I’m going to kill at least one of you this round!"
+      "subtitle": "Comme il n’y a pas eu de mort depuis un moment, je vais tuer au moins l’un d’entre vous lors de cette manche !"
      }
     ]
    },
@@ -11330,7 +11330,7 @@
     "versions": [
      {
       "file": "VO/120461/audio/0.ogg",
-      "subtitle": "We’re whittling down. When one player is left alive we’ll go to the Final Round."
+      "subtitle": "On réduit le nombre de joueurs. Quand il n’en restera plus qu’un en vie, nous passerons à la manche finale."
      }
     ]
    },
@@ -11342,15 +11342,15 @@
     "versions": [
      {
       "file": "VO/120462/audio/0.ogg",
-      "subtitle": "Get out those flashlights!"
+      "subtitle": "Sortez ces lampes torches !"
      },
      {
       "file": "VO/120462/audio/1.ogg",
-      "subtitle": "Hands on your flashlights."
+      "subtitle": "Mains sur vos lampes torches."
      },
      {
       "file": "VO/120462/audio/2.ogg",
-      "subtitle": "Have those flashlights ready."
+      "subtitle": "Tenez vos lampes torches prêtes."
      }
     ]
    },
@@ -11362,15 +11362,15 @@
     "versions": [
      {
       "file": "VO/120851/audio/0.ogg",
-      "subtitle": "You’re a ghost now, which means..."
+      "subtitle": "Vous êtes maintenant un fantôme, ce qui signifie..."
      },
      {
       "file": "VO/120851/audio/1.ogg",
-      "subtitle": "Surprise! You’re a ghost now, which means..."
+      "subtitle": "Surprise ! Vous êtes maintenant un fantôme, ce qui signifie..."
      },
      {
       "file": "VO/120851/audio/2.ogg",
-      "subtitle": "You died and became a ghost, which means..."
+      "subtitle": "Vous êtes mort(e) et devenu(e) un fantôme, ce qui signifie..."
      }
     ]
    },
@@ -11382,7 +11382,7 @@
     "versions": [
      {
       "file": "VO/120852/audio/0.ogg",
-      "subtitle": "You’ll always be a safe player now"
+      "subtitle": "Vous serez désormais toujours un joueur en sécurité."
      }
     ]
    },
@@ -11394,7 +11394,7 @@
     "versions": [
      {
       "file": "VO/120853/audio/0.ogg",
-      "subtitle": "and you still claw your way back to the living!"
+      "subtitle": "et vous vous frayez encore un chemin pour revenir parmi les vivants !"
      }
     ]
    },
@@ -11406,7 +11406,7 @@
     "versions": [
      {
       "file": "VO/120866/audio/0.ogg",
-      "subtitle": "Attention, counselors. Today we’ll be learning: how to make connections, fashion trends, trivia, survival skills, games, more survival skills, and the proper way to leave a party. Now let’s get started!"
+      "subtitle": "Attention, animateurs et animatrices. Aujourd’hui, nous apprendrons : comment tisser des liens, des tendances de la mode, la culture G, des compétences de survie, des jeux, d’autres compétences de survie, et comment quitter une fête correctement. Maintenant, commençons !"
      }
     ]
    },
@@ -11430,7 +11430,7 @@
     "versions": [
      {
       "file": "VO/120868/audio/0.ogg",
-      "subtitle": "Oh, did I mention that ghosts are second tier to alive players?"
+      "subtitle": "Oh, est-ce que j’ai mentionné que les fantômes sont des joueurs vivants de second rang ?"
      }
     ]
    },
@@ -11442,7 +11442,7 @@
     "versions": [
      {
       "file": "VO/120869/audio/0.ogg",
-      "subtitle": "Don’t worry, ghosts, you’re always safe in minigames."
+      "subtitle": "Ne vous inquiétez pas, les fantômes, vous êtes toujours en sécurité pendant les mini-jeux."
      }
     ]
    },
@@ -11454,15 +11454,15 @@
     "versions": [
      {
       "file": "VO/120870/audio/0.ogg",
-      "subtitle": "But don’t worry. Ghosts can still win the game!"
+      "subtitle": "Mais ne vous inquiétez pas. Les fantômes peuvent encore gagner la partie !"
      },
      {
       "file": "VO/120870/audio/1.ogg",
-      "subtitle": "Keep playing, though. If you climb up the ranks you might still win!"
+      "subtitle": "Continuez à jouer, par contre. Si vous remontez dans le classement, vous pourrez encore gagner !"
      },
      {
       "file": "VO/120870/audio/2.ogg",
-      "subtitle": "But keep playing! If you climb up the ranks you might get your life force back and win the game!"
+      "subtitle": "Mais continuez à jouer ! Si vous remontez dans le classement, vous pourrez retrouver votre force vitale et gagner la partie !"
      }
     ]
    },
@@ -11474,11 +11474,11 @@
     "versions": [
      {
       "file": "VO/121191/audio/0.ogg",
-      "subtitle": "You didn’t enter anything so you automatically lose!"
+      "subtitle": "Vous n’avez rien saisi, donc vous perdez automatiquement !"
      },
      {
       "file": "VO/121191/audio/1.ogg",
-      "subtitle": "You didn’t submit an answer so you already lost!"
+      "subtitle": "Vous n’avez pas soumis de réponse, donc vous avez déjà perdu !"
      }
     ]
    },
@@ -11490,15 +11490,15 @@
     "versions": [
      {
       "file": "VO/121202/audio/0.ogg",
-      "subtitle": "Welcome back to the living. Now let’s keep playing."
+      "subtitle": "Re-bienvenue parmi les vivants. Continuons à jouer."
      },
      {
       "file": "VO/121202/audio/1.ogg",
-      "subtitle": "You’re alive again! Now let’s move on."
+      "subtitle": "Vous êtes de nouveau en vie ! Passons à la suite."
      },
      {
       "file": "VO/121202/audio/2.ogg",
-      "subtitle": "You got your life force back! Now don’t squander it..."
+      "subtitle": "Vous avez retrouvé votre force vitale ! Ne la gaspillez pas..."
      }
     ]
    },
@@ -11510,7 +11510,7 @@
     "versions": [
      {
       "file": "VO/121321/audio/0.ogg",
-      "subtitle": "(laugh) All the at-risk players overflowed."
+      "subtitle": "(rire) Tous les joueurs en danger ont débordés."
      }
     ]
    },
@@ -11522,7 +11522,7 @@
     "versions": [
      {
       "file": "VO/121331/audio/0.ogg",
-      "subtitle": "The game ends once I strike at least ONE player."
+      "subtitle": "La partie se termine dès que je frappe au moins UN joueur."
      }
     ]
    },
@@ -11534,23 +11534,23 @@
     "versions": [
      {
       "file": "VO/121332/audio/0.ogg",
-      "subtitle": "And the game is over already. My goodness. You have the object permanence of a baby!"
+      "subtitle": "Et c’est déjà terminé. Mon Dieu. Vous avez la notion de permanence des objets d’un bébé !"
      },
      {
       "file": "VO/121332/audio/1.ogg",
-      "subtitle": "And just like that it’s over! You know I designed those early rounds to be super easy, right?"
+      "subtitle": "Et voilà, c’est fini en un clin d’œil ! Vous savez que j’ai conçu ces premières manches pour être ultra-faciles, n’est-ce pas ?"
      },
      {
       "file": "VO/121332/audio/2.ogg",
-      "subtitle": "You couldn’t even last a few rounds! Talk about pre-mature decimation!"
+      "subtitle": "Vous n’avez même pas tenu quelques manches ! Quelle décimation prématurée !"
      },
      {
       "file": "VO/121332/audio/3.ogg",
-      "subtitle": "That was fast! I was thinking this game would last a bit longer. Well... this is awkward."
+      "subtitle": "C’était rapide ! Je m’attendais à ce que la partie dure un peu plus longtemps. Bon... c’est gênant."
      },
      {
       "file": "VO/121332/audio/4.ogg",
-      "subtitle": "How considerate of you! You know I had errands to run so you decided to die fast!"
+      "subtitle": "Comme c’est attentionné de votre part ! Vous savez que j’avais des courses à faire, alors vous avez décidé de mourir vite !"
      }
     ]
    },
@@ -11562,23 +11562,23 @@
     "versions": [
      {
       "file": "VO/121333/audio/0.ogg",
-      "subtitle": "That’ll do it. I got what I came here for."
+      "subtitle": "Ça va le faire. J’ai obtenu ce que je voulais."
      },
      {
       "file": "VO/121333/audio/1.ogg",
-      "subtitle": "I came, I chain-sawed and I conquered."
+      "subtitle": "Je suis venu, j’ai scié et j’ai conquis."
      },
      {
       "file": "VO/121333/audio/2.ogg",
-      "subtitle": "Well, I’m satiated. We’ll end it there."
+      "subtitle": "Bien, je suis rassasié. Nous allons en rester là."
      },
      {
       "file": "VO/121333/audio/3.ogg",
-      "subtitle": "You weren’t expecting that, were ya?!"
+      "subtitle": "Vous ne vous y attendiez pas, n’est-ce pas ?!"
      },
      {
       "file": "VO/121333/audio/4.ogg",
-      "subtitle": "(laugh) You should’ve seen the dumb look on your face!"
+      "subtitle": "(rire) Vous auriez dû voir la tête que vous faisiez !"
      }
     ]
    },
@@ -11590,27 +11590,27 @@
     "versions": [
      {
       "file": "VO/121334/audio/0.ogg",
-      "subtitle": "No one died AND I have to pay off this chainsaw for the next 36 months?! Bummer."
+      "subtitle": "Personne n'est mort ET je dois rembourser cette tronçonneuse pendant les 36 prochains mois ?! Quelle poisse."
      },
      {
       "file": "VO/121334/audio/1.ogg",
-      "subtitle": "No one died?! Lord, why do bad things happen to good people?"
+      "subtitle": "Personne n'est mort ?! Mon Dieu, pourquoi les mauvaises choses arrivent-elles aux bonnes personnes ?"
      },
      {
       "file": "VO/121334/audio/2.ogg",
-      "subtitle": "It’s ok, I’m not upset.  I mean watching you scurry around like a rat was victory enough for me."
+      "subtitle": "C’est bon, je ne suis pas fâché. Vous vous êtes précipités comme des rats, c’était déjà une victoire pour moi."
      },
      {
       "file": "VO/121334/audio/3.ogg",
-      "subtitle": "Fine, I’ll endorse you for “chainsaw dodging” on LinkedIn"
+      "subtitle": "Ok, je vous recommanderai pour “esquive de tronçonneuse” sur LinkedIn."
      },
      {
       "file": "VO/121334/audio/4.ogg",
-      "subtitle": "No one died?! My life coach will see this as progress but my death coach will hate it!"
+      "subtitle": "Personne n'est mort ?! Mon coach en développement personnel verra ça comme un progrès, mais mon coach en mortalité va détester !"
      },
      {
       "file": "VO/121334/audio/5.ogg",
-      "subtitle": "The dictionary defines “winner” as…I’m not sure. I cut up my dictionary with a chainsaw."
+      "subtitle": "Le dictionnaire définit “vainqueur” comme… je ne suis pas sûr. Je déchiquete le dictionnaire avec la tronçonneuse."
      }
     ]
    },
@@ -11622,15 +11622,15 @@
     "versions": [
      {
       "file": "VO/121522/audio/0.ogg",
-      "subtitle": "What? You thought ghosts were exempt from this pain?"
+      "subtitle": "Comment ? Vous pensiez que les fantômes étaient à l’abri de cette souffrance ?"
      },
      {
       "file": "VO/121522/audio/1.ogg",
-      "subtitle": "That’s right. Even ghosts can lose a finger."
+      "subtitle": "C’est exact. Même les fantômes peuvent perdre un doigt."
      },
      {
       "file": "VO/121522/audio/2.ogg",
-      "subtitle": "You haven’t lived until you’ve cut off a ghost’s finger."
+      "subtitle": "On n’a pas vraiment vécu tant qu’on n’a pas coupé le doigt d’un fantôme."
      }
     ]
    },
@@ -11642,7 +11642,7 @@
     "versions": [
      {
       "file": "VO/121564/audio/0.ogg",
-      "subtitle": "Attention! Summer camp is finally open!\n\n\n[REDACTED starts to choke up as though he’s starting to cry] Shout out to everyone who played my games and died horribly. I literally couldn’t have done it without you! I’ll cherish these memories of summer camp forever and look forward to what we build together in the future. \n\nTrivia Murder Party 3 is out now in Early Access on Steam and Epic. I’ll see you at roll call."
+      "subtitle": "Attention ! Le camp de vacances est enfin ouvert !\n\n\n[CENSURÉ commence à s’étrangler comme s’il allait pleurer] Un grand merci à tous ceux qui ont joué à mes jeux et sont morts de manière horrible. Littéralement, je n’aurais pas pu le faire sans vous ! Je chérirai ces souvenirs du camp de vacances pour toujours et j’ai hâte de voir ce que nous construirons ensemble à l’avenir. \n\nTrivia Murder Party 3 est disponible dès maintenant en accès anticipé sur Steam et Epic. On se retrouve à l'appel."
      }
     ]
    },
@@ -11654,23 +11654,23 @@
     "versions": [
      {
       "file": "VO/122302/audio/0.ogg",
-      "subtitle": "Let’s play shadow puppets."
+      "subtitle": "Jouons aux ombres chinoises."
      },
      {
       "file": "VO/122302/audio/1.ogg",
-      "subtitle": "I hope you’re afraid of your own shadow."
+      "subtitle": "J’espère que vous avez peur de votre propre ombre."
      },
      {
       "file": "VO/122302/audio/2.ogg",
-      "subtitle": "Come, let’s play a game in the shadows."
+      "subtitle": "Venez, jouons à un jeu dans l’ombre."
      },
      {
       "file": "VO/122302/audio/3.ogg",
-      "subtitle": "It’s time for some shadow play."
+      "subtitle": "C’est l’heure de jouer avec les ombres."
      },
      {
       "file": "VO/122302/audio/4.ogg",
-      "subtitle": "Let’s do a little shadow boxing."
+      "subtitle": "Faisons un peu de boxe dans l’ombre."
      }
     ]
    },
@@ -11682,7 +11682,7 @@
     "versions": [
      {
       "file": "VO/122303/audio/0.ogg",
-      "subtitle": "Rotate your severed hand so its shadow matches as many shapes as you can before time runs out."
+      "subtitle": "Tournez votre main coupée pour que son ombre corresponde à autant de formes que possible avant la fin du temps imparti."
      }
     ]
    },
@@ -11694,15 +11694,15 @@
     "versions": [
      {
       "file": "VO/122304/audio/0.ogg",
-      "subtitle": "The clock starts NOW!"
+      "subtitle": "Le chrono démarre MAINTENANT !"
      },
      {
       "file": "VO/122304/audio/1.ogg",
-      "subtitle": "Start moving those hands... NOW!"
+      "subtitle": "Bougez ces mains... MAINTENANT !"
      },
      {
       "file": "VO/122304/audio/2.ogg",
-      "subtitle": "Get those hands moving!"
+      "subtitle": "Faites bouger ces mains !"
      }
     ]
    },
@@ -11714,15 +11714,15 @@
     "versions": [
      {
       "file": "VO/122305/audio/0.ogg",
-      "subtitle": "Here’s how everyone did."
+      "subtitle": "Voici comment tout le monde s’en est sorti."
      },
      {
       "file": "VO/122305/audio/1.ogg",
-      "subtitle": "Check out the total match count."
+      "subtitle": "Regardons le nombre total de correspondances."
      },
      {
       "file": "VO/122305/audio/2.ogg",
-      "subtitle": "Here’s the final tally."
+      "subtitle": "Voici le bilan final."
      }
     ]
    },
@@ -11734,19 +11734,19 @@
     "versions": [
      {
       "file": "VO/122306/audio/0.ogg",
-      "subtitle": "You there, come with me..."
+      "subtitle": "Vous, là, venez avec moi..."
      },
      {
       "file": "VO/122306/audio/1.ogg",
-      "subtitle": "Give me your hand..."
+      "subtitle": "Donnez-moi votre main..."
      },
      {
       "file": "VO/122306/audio/2.ogg",
-      "subtitle": "You and death are a perfect match!"
+      "subtitle": "Vous et la mort, c’est une combinaison parfaite !"
      },
      {
       "file": "VO/122306/audio/3.ogg",
-      "subtitle": "You’re a shadow of your former self."
+      "subtitle": "Vous n'êtes plus que l'ombre de vous-même."
      }
     ]
    },
@@ -11758,7 +11758,7 @@
     "versions": [
      {
       "file": "VO/122307/audio/0.ogg",
-      "subtitle": "You will be casting shadows with a severed hand.  Rotate it to match the target shapes. If a safe player scores better than you, you die!"
+      "subtitle": "Vous allez créer des ombres avec une main coupée. Tournez-la pour faire correspondre les formes demandées. Si un joueur en sécurité obtient un meilleur score que vous, vous mourez !"
      }
     ]
    },
@@ -11770,7 +11770,7 @@
     "versions": [
      {
       "file": "VO/122308/audio/0.ogg",
-      "subtitle": "You will be casting shadows with a severed hand. Rotate it to match the target shapes.  The player with the lowest score, dies!"
+      "subtitle": "Vous allez créer des ombres avec une main coupée. Tournez-la pour faire correspondre les formes demandées. Le joueur avec le score le plus faible, meurt !"
      }
     ]
    },
@@ -11782,7 +11782,7 @@
     "versions": [
      {
       "file": "VO/122330/audio/0.ogg",
-      "subtitle": "Ugh, nobody died because my life frickin’ sucks!"
+      "subtitle": "Argh, personne n’est mort parce que ma vie est vraiment nulle !"
      }
     ]
    },
