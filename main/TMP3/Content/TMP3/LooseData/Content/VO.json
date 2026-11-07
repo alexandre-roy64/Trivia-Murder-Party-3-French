@@ -4754,7 +4754,7 @@
      },
      {
       "file": "VO/112824/audio/3.ogg",
-      "subtitle": "Il est temps de faire des vagues. Jouons aux Canoës."
+      "subtitle": "Il est temps de faire des vagues."
      },
      {
       "file": "VO/112824/audio/4.ogg",
@@ -4938,7 +4938,7 @@
      },
      {
       "file": "VO/112849/audio/1.ogg",
-      "subtitle": "J’espère que vous ne savez pas lire dans les pensées. Jouons aux Fusions d’Esprits."
+      "subtitle": "J’espère que vous ne savez pas lire dans les pensées."
      },
      {
       "file": "VO/112849/audio/2.ogg",
@@ -7308,23 +7308,23 @@
     "versions": [
      {
       "file": "VO/115807/audio/0.ogg",
-      "subtitle": "J’espère que vous êtes prêts à étudier la lame, car c’est l’heure de jouer à la Tronçonneuse."
+      "subtitle": "J’espère que vous êtes prêts à étudier la lame."
      },
      {
       "file": "VO/115807/audio/1.ogg",
-      "subtitle": "C’est l’heure d’obtenir ce corps déchiqueté dont vous avez toujours rêvé. Jouons à la Tronçonneuse."
+      "subtitle": "C’est l’heure d’obtenir ce corps déchiqueté dont vous avez toujours rêvé."
      },
      {
       "file": "VO/115807/audio/2.ogg",
-      "subtitle": "Au menu de ce soir : Du CANARD ! C’est l’heure de jouer à la Tronçonneuse."
+      "subtitle": "Au menu de ce soir : Du CANARD !"
      },
      {
       "file": "VO/115807/audio/3.ogg",
-      "subtitle": "Essayez de ne pas perdre la tête, mais nous allons jouer à un jeu que j’ai intelligement appelé Tronçonneuse."
+      "subtitle": "Nous allons jouer à un jeu que j’ai intelligement appelé Tronçonneuse."
      },
      {
       "file": "VO/115807/audio/4.ogg",
-      "subtitle": "J’ai été le premier membre de ma famille à intégrer l’université de la tronçonneuse. Je vous le prouverai dans ce prochain jeu."
+      "subtitle": "J’ai été le premier membre de ma famille à intégrer l’université de la tronçonneuse."
      },
      {
       "file": "VO/115807/audio/5.ogg",
@@ -7348,11 +7348,11 @@
      },
      {
       "file": "VO/115807/audio/10.ogg",
-      "subtitle": "Celui-ci s’inspire du jeu « Ahh, non, non nonnnn ! » et il s’appelle la Tronçonneuse."
+      "subtitle": "Celui-ci s’inspire du jeu « Ahh, non, non nonnnn ! »."
      },
      {
       "file": "VO/115807/audio/11.ogg",
-      "subtitle": "C’est l’heure de couper les liens avec vos organes — voici la Tronçonneuse."
+      "subtitle": "C’est l’heure de couper les liens avec vos organes."
      },
      {
       "file": "VO/115807/audio/12.ogg",
@@ -7552,11 +7552,11 @@
      },
      {
       "file": "VO/115896/audio/2.ogg",
-      "subtitle": "Quand ils me veront verser, ils vont râler. Jouons."
+      "subtitle": "Quand ils me veront verser, ils vont râler."
      },
      {
       "file": "VO/115896/audio/3.ogg",
-      "subtitle": "Le verre est-il à moitié plein ou à moitié MORT ?! Jouons au Versement."
+      "subtitle": "Le verre est-il à moitié plein ou à moitié MORT ?!"
      },
      {
       "file": "VO/115896/audio/4.ogg",
@@ -7564,11 +7564,11 @@
      },
      {
       "file": "VO/115896/audio/5.ogg",
-      "subtitle": "Si ça saigne, ça mène. C’est l’heure du Versement."
+      "subtitle": "Si ça saigne, ça mène."
      },
      {
       "file": "VO/115896/audio/6.ogg",
-      "subtitle": "Voyons comment vous vous mesurez à ce prochain jeu. C’est l’heure du Versement."
+      "subtitle": "Voyons comment vous vous mesurez à ce prochain jeu."
      },
      {
       "file": "VO/115896/audio/7.ogg",
@@ -8480,7 +8480,7 @@
      },
      {
       "file": "VO/116577/audio/1.ogg",
-      "subtitle": "Voyons si vos compétences sont à la hauteur. C’est l’heure des maths !"
+      "subtitle": "Voyons si vos compétences sont à la hauteur."
      },
      {
       "file": "VO/116577/audio/2.ogg",
@@ -8587,11 +8587,11 @@
     "versions": [
      {
       "file": "VO/116598/audio/0.ogg",
-      "subtitle": "Résolvez autant d’équations que possible avant la fin du temps imparti. À vos marques, prêts, mathez !"
+      "subtitle": "À vos marques, prêts, mathez !"
      },
      {
       "file": "VO/116598/audio/1.ogg",
-      "subtitle": "Vous avez 30 secondes pour résoudre autant de questions que possible. À vos marques, prêts, calculez !"
+      "subtitle": "À vos marques, prêts, calculez !"
      }
     ]
    },
@@ -9253,7 +9253,7 @@
     "versions": [
      {
       "file": "VO/117399/audio/0.ogg",
-      "subtitle": "Vous avez peur du noir ? Alors c'est l'heure des lampes torches."
+      "subtitle": "Vous avez peur du noir ?"
      },
      {
       "file": "VO/117399/audio/1.ogg",
@@ -9521,7 +9521,7 @@
     "versions": [
      {
       "file": "VO/117868/audio/0.ogg",
-      "subtitle": "Donnez-moi vos doigts. C’est l’heure de jouer au Vote des Doigts."
+      "subtitle": "Donnez-moi vos doigts. Jouons au Vote des Doigts."
      },
      {
       "file": "VO/117868/audio/1.ogg",
@@ -11883,6 +11883,14 @@
      {
       "file": "VO/122651/audio/6.ogg",
       "subtitle": "Venez, installez-vous DANS le feu."
+     },
+     {
+      "file": "VO/122651/audio/7.ogg",
+      "subtitle": "Je vais juste ajouter une autre jambe au feu."
+     },
+     {
+      "file": "VO/122651/audio/8.ogg",
+      "subtitle": "Allez-vous maîtriser ce grillage, ou êtes-vous grillé ?"
      }
     ]
    },
@@ -11999,6 +12007,18 @@
      {
       "file": "VO/122658/audio/1.ogg",
       "subtitle": "Bravo ! Vous avez le titre de PIRE grilleur !"
+     },
+     {
+      "file": "VO/122658/audio/2.ogg",
+      "subtitle": "Vous êtes partis en flamme !"
+     },
+     {
+      "file": "VO/122658/audio/3.ogg",
+      "subtitle": "Vous n’avez pas supporté la chaleur !"
+     },
+     {
+      "file": "VO/122658/audio/4.ogg",
+      "subtitle": "Vous avez joué avec le feu !"
      }
     ]
    },
@@ -12023,6 +12043,14 @@
      {
       "file": "VO/122659/audio/3.ogg",
       "subtitle": "Vous vous êtes fait griller !"
+     },
+     {
+      "file": "VO/122659/audio/4.ogg",
+      "subtitle": "Les joueurs en sécurité sont en feu !"
+     },
+     {
+      "file": "VO/122659/audio/5.ogg",
+      "subtitle": "Bon travail ! Maintenant, allez-vous les manger ou... ?"
      }
     ]
    },
@@ -12047,6 +12075,22 @@
      {
       "file": "VO/122660/audio/3.ogg",
       "subtitle": "Je ne suis pas en colère contre vous, joueurs en sécurité. Je suis juste déçu."
+     },
+     {
+      "file": "VO/122660/audio/4.ogg",
+      "subtitle": "Personne n’est mort, mais au moins nous avons gaspillé de la nourriture."
+     },
+     {
+      "file": "VO/122660/audio/5.ogg",
+      "subtitle": "Vous m’avez tous embarrassés devant ce feu si cool."
+     },
+     {
+      "file": "VO/122660/audio/6.ogg",
+      "subtitle": "Personne n’est mort ? Mais quel genre de feu de camp est-ce que c’est ?"
+     },
+     {
+      "file": "VO/122660/audio/7.ogg",
+      "subtitle": "La seule façon dont ça aurait pu être pire, c’est si quelqu’un avait sorti une guitare acoustique."
      }
     ]
    },
@@ -12111,11 +12155,491 @@
      {
       "file": "VO/122680/audio/5.ogg",
       "subtitle": "Les amis, si vous devez utiliser les toilettes extérieures, demandez juste, d’accord ?!"
+     },
+     {
+      "file": "VO/122680/audio/6.ogg",
+      "subtitle": "Croyez-le ou non, mais les pets animés sentent encore plus mauvais que les vrais."
+     },
+     {
+      "file": "VO/122680/audio/7.ogg",
+      "subtitle": "Ça fait chaud au cœur de vous voir tous dans une telle détresse gastrointestinale."
+     },
+     {
+      "file": "VO/122680/audio/8.ogg",
+      "subtitle": "N’est-ce pas magnifique de voir que deux pets ne sentent pas pareil ?"
+     },
+     {
+      "file": "VO/122680/audio/9.ogg",
+      "subtitle": "S’il vous plaît, arrêtez de péter. J’ai déjà une conjonctivite aiguë."
+     },
+     {
+      "file": "VO/122680/audio/10.ogg",
+      "subtitle": "Wow. On dirait que vous respirez par votre postérieur."
+     },
+     {
+      "file": "VO/122680/audio/11.ogg",
+      "subtitle": "Beurk. Ça va faire des bulles dans votre maillot de bain."
+     },
+     {
+      "file": "VO/122680/audio/12.ogg",
+      "subtitle": "Argh, je vais brûler de la chair humaine pour masquer l’odeur."
+     },
+     {
+      "file": "VO/122680/audio/13.ogg",
+      "subtitle": "Je peux deviner, d’après vos pets constants, que vous n'êtes pas le groupe le plus intelligent."
+     },
+     {
+      "file": "VO/122680/audio/14.ogg",
+      "subtitle": "Les cadavres vident leurs intestins, mais là, on dirait que vous anticipez."
      }
     ]
    },
    "id": "122680",
    "name": "FART_REACTION_OUTSIDE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122870/audio/0.ogg",
+      "subtitle": "Il reste 30 secondes sur le chrono. C'est parti !"
+     },
+     {
+      "file": "VO/122870/audio/1.ogg",
+      "subtitle": "Vous avez 30 secondes à partir de MAINTENANT !"
+     }
+    ]
+   },
+   "id": "122870",
+   "name": "ROASTED_0"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122871/audio/0.ogg",
+      "subtitle": "Ouf..."
+     }
+    ]
+   },
+   "id": "122871",
+   "name": "ROASTED_OUTRO"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122872/audio/0.ogg",
+      "subtitle": "Si vous êtes en colère, respirez profondément. Vous n’aurez bientôt plus le temps."
+     },
+     {
+      "file": "VO/122872/audio/1.ogg",
+      "subtitle": "Mince, je ne vous aurais jamais torturé si j’avais su que vous alliez vous énerver."
+     },
+     {
+      "file": "VO/122872/audio/2.ogg",
+      "subtitle": "En colère ? Je vais chercher mon responsable, il est suspendu dans la chambre froide."
+     },
+     {
+      "file": "VO/122872/audio/3.ogg",
+      "subtitle": "Il est plus sain de canaliser votre colère vers quelque chose de productif, comme la torture."
+     },
+     {
+      "file": "VO/122872/audio/4.ogg",
+      "subtitle": "Vous êtes furieux, et vous allez continuer à l’être dans un avenir proche !"
+     },
+     {
+      "file": "VO/122872/audio/5.ogg",
+      "subtitle": "Ah, vous êtes en colère ? La prochaine fois, privilégiez les révisions de trivia plutôt que la vie sociale !"
+     },
+     {
+      "file": "VO/122872/audio/6.ogg",
+      "subtitle": "VOUS êtes en colère ? Moi, je suffoque à cause de vos nuages de pets depuis toute la soirée !"
+     },
+     {
+      "file": "VO/122872/audio/7.ogg",
+      "subtitle": "Ok, votre sang bout, je peux y mettre les pâtes maintenant ?"
+     },
+     {
+      "file": "VO/122872/audio/8.ogg",
+      "subtitle": "Écoutez, moi aussi je suis en colère, mais disons... dans le genre complètement fou."
+     },
+     {
+      "file": "VO/122872/audio/9.ogg",
+      "subtitle": "Même pour des victimes, votre colère est un peu excessive."
+     }
+    ]
+   },
+   "id": "122872",
+   "name": "MAD_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122873/audio/0.ogg",
+      "subtitle": "Être joyeux ? Dans CETTE économie ?!"
+     },
+     {
+      "file": "VO/122873/audio/1.ogg",
+      "subtitle": "Si vous êtes heureux et que vous le savez, tuez vos amis !"
+     },
+     {
+      "file": "VO/122873/audio/2.ogg",
+      "subtitle": "Votre joie me met tellement mal à l’aise."
+     },
+     {
+      "file": "VO/122873/audio/3.ogg",
+      "subtitle": "Profitez de votre bonheur, car bientôt vous serez deux mètres sous terre."
+     },
+     {
+      "file": "VO/122873/audio/4.ogg",
+      "subtitle": "Si vous ressentez de l’euphorie, c’est à cause des vapeurs du bac à pneus."
+     },
+     {
+      "file": "VO/122873/audio/5.ogg",
+      "subtitle": "Bon, arrêtez avec cette joie ! Ça me donne mauvaise mine !"
+     },
+     {
+      "file": "VO/122873/audio/6.ogg",
+      "subtitle": "Calmez-vous, les tordus !"
+     }
+    ]
+   },
+   "id": "122873",
+   "name": "JOY_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122874/audio/0.ogg",
+      "subtitle": "Ah, vous trouvez ça drôle ? Des joueurs vont mourir. Allez, sérieusement."
+     },
+     {
+      "file": "VO/122874/audio/1.ogg",
+      "subtitle": "Qu’y a-t-il de si drôle ? Est-ce qu’un épisode de Young Sheldon passe derrière moi ?!"
+     },
+     {
+      "file": "VO/122874/audio/2.ogg",
+      "subtitle": "Si vous pouviez tous rire à gorge déployée, ça me ferait gagner du temps."
+     },
+     {
+      "file": "VO/122874/audio/3.ogg",
+      "subtitle": "Votre rire est une douce musique à mes oreilles. Du jazz expérimental, pour être précis."
+     },
+     {
+      "file": "VO/122874/audio/4.ogg",
+      "subtitle": "Merci ! Je serai là toute la nuit. Mais pas vous !"
+     },
+     {
+      "file": "VO/122874/audio/5.ogg",
+      "subtitle": "Vous ne riez pas de mon fédora, n’est-ce pas ?"
+     },
+     {
+      "file": "VO/122874/audio/6.ogg",
+      "subtitle": "Qu’y a-t-il de si drôle ?! Est-ce que quelqu’un s’est blessé ?!"
+     }
+    ]
+   },
+   "id": "122874",
+   "name": "LAUGH_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122944/audio/0.ogg",
+      "subtitle": "Réglez le cadran sur votre appareil pour répondre à 15 % près de cette question."
+     }
+    ]
+   },
+   "id": "122944",
+   "name": "DIAL_INTRO_FIRST_TIME"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122946/audio/0.ogg",
+      "subtitle": "Voici votre prochaine question basée sur un pourcentage."
+     },
+     {
+      "file": "VO/122946/audio/1.ogg",
+      "subtitle": "Préparez vos cadrans — voici votre prochaine question."
+     },
+     {
+      "file": "VO/122946/audio/2.ogg",
+      "subtitle": "Il est temps de régler une autre réponse."
+     },
+     {
+      "file": "VO/122946/audio/3.ogg",
+      "subtitle": "Une autre question basée sur un pourcentage arrive."
+     },
+     {
+      "file": "VO/122946/audio/4.ogg",
+      "subtitle": "Remettez vos doigts sur le cadran..."
+     }
+    ]
+   },
+   "id": "122946",
+   "name": "DIAL_INTRO_SUBSEQUENT"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122947/audio/0.ogg",
+      "subtitle": "Qui a répondu à 15 % près de cette réponse ?"
+     },
+     {
+      "file": "VO/122947/audio/1.ogg",
+      "subtitle": "Alors, voyons qui a répondu à 15 % près de la bonne réponse ?"
+     },
+     {
+      "file": "VO/122947/audio/2.ogg",
+      "subtitle": "Et la plage de réponses correcte est..."
+     },
+     {
+      "file": "VO/122947/audio/3.ogg",
+      "subtitle": "Avez-vous réglé votre cadran sur cette plage ?"
+     }
+    ]
+   },
+   "id": "122947",
+   "name": "DIAL_ANSWER_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122949/audio/0.ogg",
+      "subtitle": "Ah, ne pleurez pas pour des intestins renversés."
+     },
+     {
+      "file": "VO/122949/audio/1.ogg",
+      "subtitle": "Allez-y, pleurez à chaudes larmes. Je manque justement d’yeux."
+     },
+     {
+      "file": "VO/122949/audio/2.ogg",
+      "subtitle": "Ouais ouais, pleure-moi une putain de rivière, construis-moi un pont, ajoute quelques carpes koï et quelques nénuphars, et fais-moi un joli petit jardin."
+     },
+     {
+      "file": "VO/122949/audio/3.ogg",
+      "subtitle": "Qu'est-ce qui ne va pas ? Qu’y a-t-il dans cette menace imminente de mort qui vous rend triste ?"
+     },
+     {
+      "file": "VO/122949/audio/4.ogg",
+      "subtitle": "Vous pleurez ? On ne pleure pas dans les jeux de meurtre !"
+     },
+     {
+      "file": "VO/122949/audio/5.ogg",
+      "subtitle": "Ne pleurez pas parce que ça commence. Souriez parce que tout sera bientôt fini."
+     },
+     {
+      "file": "VO/122949/audio/6.ogg",
+      "subtitle": "Vous pleurez ? Tenez, voici du tissu... de peau."
+     },
+     {
+      "file": "VO/122949/audio/7.ogg",
+      "subtitle": "Ressaisissez-vous, comme ça je pourrai vous démanteler."
+     },
+     {
+      "file": "VO/122949/audio/8.ogg",
+      "subtitle": "Ne pleurez pas ! Pensez à quelque chose de joyeux, comme le choléra ou la fin de Marley & Moi."
+     },
+     {
+      "file": "VO/122949/audio/9.ogg",
+      "subtitle": "Si vous avez besoin d’une épaule pour pleurer, j’en ai tout un tonneau juste ici."
+     }
+    ]
+   },
+   "id": "122949",
+   "name": "SAD_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122950/audio/0.ogg",
+      "subtitle": "Dansez comme si personne ne faisait attention à un jeu de société."
+     },
+     {
+      "file": "VO/122950/audio/1.ogg",
+      "subtitle": "Calmez-vous, ce n’est pas une audition pour 'Pas d'Incroyable Talent'."
+     },
+     {
+      "file": "VO/122950/audio/2.ogg",
+      "subtitle": "Vous trouvez cette danse difficile ? Essayez de la faire en talons."
+     },
+     {
+      "file": "VO/122950/audio/3.ogg",
+      "subtitle": "Ouaf, vous avez de la chance que ce ne soit pas un jeu de rythme."
+     },
+     {
+      "file": "VO/122950/audio/4.ogg",
+      "subtitle": "Vous êtes de la poésie en mouvement. Et moi, je déteste la poésie. Et le mouvement !"
+     },
+     {
+      "file": "VO/122950/audio/5.ogg",
+      "subtitle": "Hé, ne vous blessez pas en dansant. C’est mon travail."
+     },
+     {
+      "file": "VO/122950/audio/6.ogg",
+      "subtitle": "Qui est votre chorégraphe ? Je veux aussi le tuer."
+     }
+    ]
+   },
+   "id": "122950",
+   "name": "DANCE_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Le prochain jeu est sur le point de... TOMBER !"
+     },
+     {
+      "subtitle": "Laissez-moi vous remettre quelques piquets."
+     },
+     {
+      "subtitle": "Qui demande pour des piquets ?"
+     }
+    ]
+   },
+   "id": "123013",
+   "name": "PEGS_TITLE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Que les jeux commencent !"
+     },
+     {
+      "subtitle": "Maintenant, lâchez-les comme si c’était brûlant !"
+     },
+     {
+      "subtitle": "On se revoit devant la chute... d'eau."
+     },
+     {
+      "subtitle": "Comme un mauvais chien, vous devez le lâcher MAINTENANT !"
+     },
+     {
+      "subtitle": "Préparez-vous à TOMBER !"
+     },
+     {
+      "subtitle": "Maintenant, laissez tomber les jetons."
+     },
+     {
+      "subtitle": "Maintenant, lâchez ces jetons comme un tout nouveau téléphone sans garantie !"
+     }
+    ]
+   },
+   "id": "123014",
+   "name": "PEGS_START"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Si par miracle vous parvenez à toucher tous les piquets, vous gagnerez un petit bisou !"
+     },
+     {
+      "subtitle": "Oh, waouh, je vois que vous êtes vraiment doué·e pour ça."
+     },
+     {
+      "subtitle": "Quiconque chantera Free Fallin’ pendant ce jeu sera doublement assassiné."
+     },
+     {
+      "subtitle": "Rappelez-vous : les piquets ont plus peur de vous que vous n'ayez peur d'eux."
+     },
+     {
+      "subtitle": "Ce serait bizarre si l’un des jetons commençait à monter, non ? Désolé, j’ai pris un gummy."
+     },
+     {
+      "subtitle": "L’un de ces piquets est en réalité une cheville ! Saurez-vous deviner laquelle ??"
+     }
+    ]
+   },
+   "id": "123015",
+   "name": "PEGS_DROPPING"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Je ne crois pas que vous vouliez faire ça !"
+     },
+     {
+      "subtitle": "Souvenez-vous simplement : vous n’avez qu’à vous en prendre à vous-même !"
+     },
+     {
+      "subtitle": "Vous venez d'entrer dans... la Zone de la Mort !"
+     },
+     {
+      "subtitle": "Wow, le hasard semble vraiment contre vous !"
+     },
+     {
+      "subtitle": "Que la chance soit une dame... et qu’elle vous déteste !"
+     },
+     {
+      "subtitle": "Vous vous demandez peut-être pourquoi on les appelle les Zones de la Mort. Je vais vous montrer !"
+     },
+     {
+      "subtitle": "Oui, les Zones de la Mort acceptent les visites surprises !"
+     },
+     {
+      "subtitle": "Applaudissons les Zones de la Mort !"
+     },
+     {
+      "subtitle": "Boo-ya ! Vous êtes tombés dans la Zone de la Mort !"
+     },
+     {
+      "subtitle": "Qu’avez-vous fait à la gravité ? Parce qu’elle vous déteste."
+     }
+    ]
+   },
+   "id": "123016",
+   "name": "PEGS_VICTIMS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Bah ! Qu’est-ce que les jeux d'argent si la vie de quelqu’un n’est pas ruinée ?!"
+     },
+     {
+      "subtitle": "Personne n’est mort ? Eh bien, j’ai déjà vendu toutes vos affaires."
+     },
+     {
+      "subtitle": "C’était la pire chose que j’aie jamais vue. Et pourtant, j’ai regardé l'intégratilé de Glee !"
+     },
+     {
+      "subtitle": "Avec du recul, j’aurais dû toutes les mettre en Zones de la Mort."
+     },
+     {
+      "subtitle": "Argh, qui a conçu ce jeu ? Il repose trop sur le hasard !"
+     },
+     {
+      "subtitle": "Eh bien, je vais tout de même stériliser vos animaux de compagnie."
+     },
+     {
+      "subtitle": "Pourquoi ?! Pourquoi me détestez-vous, gravité ?!"
+     },
+     {
+      "subtitle": "Ça n’arriverait jamais à Drew Carey !"
+     },
+     {
+      "subtitle": "Là, je me suis vraiment ridiculisé !"
+     },
+     {
+      "subtitle": "Eh bien, je sais déjà ce que je vais raconter à mon thérapeute plus tard !"
+     }
+    ]
+   },
+   "id": "123017",
+   "name": "PEGS_NO_VICTIMS"
   }
  ]
 }
