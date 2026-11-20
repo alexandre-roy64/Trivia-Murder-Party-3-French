@@ -394,6 +394,54 @@
      "value": [
       "On vous présentera une coupe d'offrande contenant une certaine quantité de sang."
      ]
+    },
+    {
+     "textKey": "TUT_ROASTED_0",
+     "value": [
+      "On vous présentera une série de nuances de chamallows."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_1",
+     "value": [
+      "Faites griller les nouveaux chamallows pour correspondre à chaque nuance du mieux possible."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_2",
+     "value": [
+      "À la fin, votre meilleure correspondance sera révélée."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_3",
+     "value": [
+      "Le joueur avec le score le plus bas meurt !"
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_0",
+     "value": [
+      "On vous présentera une série de nuances de chamallows."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_1",
+     "value": [
+      "Faites griller les nouveaux chamallows pour correspondre à chaque nuance du mieux possible."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_2",
+     "value": [
+      "À la fin, votre meilleure correspondance sera présentée."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_3",
+     "value": [
+      "Si un joueur en sécurité s'en sort mieux que vous, vous mourez !"
+     ]
     }
    ]
   }

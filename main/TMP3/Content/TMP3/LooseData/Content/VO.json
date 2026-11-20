@@ -12478,7 +12478,7 @@
      },
      {
       "file": "VO/122950/audio/4.ogg",
-      "subtitle": "Vous êtes de la poésie en mouvement. Et moi, je déteste la poésie. Et le mouvement !"
+      "subtitle": "Vous êtes de la poésie en mouvement. Et moi, je déteste la poésie !"
      },
      {
       "file": "VO/122950/audio/5.ogg",
@@ -12640,6 +12640,17 @@
    },
    "id": "123017",
    "name": "PEGS_NO_VICTIMS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Trop facile, hein ? Et ben, voyons voir si vous pouvez atteindre 10 % près !"
+     }
+    ]
+   },
+   "id": "123080",
+   "name": "DIAL_HARD_INTRO"
   }
  ]
 }
